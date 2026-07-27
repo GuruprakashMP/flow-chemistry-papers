@@ -1,0 +1,25 @@
+{
+  "_comment": "Researchers whose complete publication lists are harvested during backfill (their papers still pass the same relevance classifier). Add names freely and rerun: python -m ddc backfill --authors-only",
+  "authors": [
+    "Steven V. Ley",
+    "Klavs F. Jensen",
+    "Jun-ichi Yoshida",
+    "C. Oliver Kappe",
+    "Peter H. Seeberger",
+    "Timothy F. Jamison",
+    "Timothy Noel",
+    "Volker Hessel",
+    "Paul Watts",
+    "David Cantillo",
+    "Andreas Kirschning",
+    "Duncan L. Browne",
+    "Kerry Gilmore",
+    "Marcus Baumann",
+    "Ian R. Baxendale",
+    "Norbert Kockmann",
+    "Thomas Wirth",
+    "Fabrice Gallou",
+    "Joerg Sedelmeier",
+    "Ryan L. Hartman"
+  ]
+}
