@@ -1,5 +1,36 @@
 [
  {
+  "id": "ce3c8ce9d04261f9",
+  "title": "POLITAG-Pd(0) catalyzed continuous flow hydrogenation of lignin-derived phenolic compounds using sodium formate as a safe H-source",
+  "authors": [
+   "Valeria Trombettoni",
+   "Francesco Ferlin",
+   "Federica Valentini",
+   "Filippo Campana",
+   "Matteo Silvetti",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Molecular Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2021-05-19",
+  "year": 2021,
+  "doi": "10.1016/j.mcat.2021.111613",
+  "url": "https://doi.org/10.1016/j.mcat.2021.111613",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "92848fa53197eaf5",
   "title": "A comprehensive review of flow chemistry techniques tailored to the flavours and fragrances industries",
   "authors": [
@@ -81,6 +112,34 @@
   "relevance_score": 42,
   "affiliations": [
    "Leibniz University Hannover"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "04b6ca1759a4c260",
+  "title": "Reaction Selectivity Control in Flash Synthetic Chemistry",
+  "authors": [
+   "Takashi Tamaki",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Journal of Synthetic Organic Chemistry Japan",
+  "publisher": "Society of Synthetic Organic Chemistry, Japan",
+  "published": "2021-05-01",
+  "year": 2021,
+  "doi": "10.5059/yukigoseikyokaishi.79.483",
+  "url": "https://doi.org/10.5059/yukigoseikyokaishi.79.483",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Microreactor",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Kyoto University"
   ],
   "added": "2026-07-27"
  }

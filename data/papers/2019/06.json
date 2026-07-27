@@ -1,5 +1,34 @@
 [
  {
+  "id": "d54a4446e29880c9",
+  "title": "Sustainable Batch or Continuous-flow Preparation of Biomass-derived Fuels Using Sulfonated Organic Polymers",
+  "authors": [
+   "Valeria Trombettoni",
+   "Filippo Campana",
+   "Assunta Marrocchi",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Royal Society of Chemistry eBooks",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-06-27",
+  "year": 2019,
+  "doi": "10.1039/9781788016131-00079",
+  "url": "https://doi.org/10.1039/9781788016131-00079",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Process Intensification"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e9d62a05c3bf2f62",
   "title": "Visible-Light-Mediated Iodoperfluoroalkylation of Alkenes in Flow and Its Application to the Synthesis of a Key Fulvestrant Intermediate",
   "authors": [
@@ -66,6 +95,42 @@
   "affiliations": [
    "Eindhoven University of Technology",
    "The University of Adelaide"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f420ee2055e8b6ce",
+  "title": "Visible‐Light‐Promoted Iron‐Catalyzed C(sp 2 )–C(sp 3 ) Kumada Cross‐Coupling in Flow",
+  "authors": [
+   "Xiao‐Jing Wei",
+   "Irini Abdiaj",
+   "Carlo Sambiagio",
+   "Chenfei Li",
+   "Eli Zysman‐Colman",
+   "Jesús Alcázar",
+   "Timothy Noël"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2019-06-18",
+  "year": 2019,
+  "doi": "10.1002/anie.201906462",
+  "url": "https://doi.org/10.1002/anie.201906462",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Grignard",
+   "Residence Time"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Janssen (Switzerland)",
+   "University of St Andrews"
   ],
   "added": "2026-07-27"
  },

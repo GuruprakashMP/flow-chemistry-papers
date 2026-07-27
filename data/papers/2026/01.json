@@ -72,6 +72,70 @@
   "added": "2026-07-27"
  },
  {
+  "id": "1d0a3e88a314af69",
+  "title": "Sequence-controlled Rapid Living Anionic Copolymerization of Polystyrene Derivatives Using a Flow Microreactor",
+  "authors": [
+   "Hiromichi V. Miyagishi",
+   "S Oshida",
+   "Kota Sakashita",
+   "Hodaka Sakaue",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-01-03",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv-2026-2p8xf",
+  "url": "https://doi.org/10.26434/chemrxiv-2026-2p8xf",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "be4fb1fa368189fc",
+  "title": "Water-compatible acylation reactions with acid chlorides using a flow microreactor",
+  "authors": [
+   "Hiromichi V. Miyagishi",
+   "Daito Takahashi",
+   "Yiyuan Jiang",
+   "Masahiro Takumi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5cc06943b",
+  "url": "https://doi.org/10.1039/d5cc06943b",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor",
+   "Throughput"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ac76b8345776cc86",
   "title": "A novel and sustainable continuous-flow approach for atom deletion and insertion by electrophilic nitrogen transfer",
   "authors": [
@@ -106,6 +170,69 @@
   "added": "2026-07-27"
  },
  {
+  "id": "92e2dc4da1068257",
+  "title": "Selective nucleophilic addition of aryllithium reagents to α-ketonitriles giving ketones under microflow conditions",
+  "authors": [
+   "Mohmmad S. Qenawy",
+   "Kazuhiro Okamoto",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5cc07035j",
+  "url": "https://doi.org/10.1039/d5cc07035j",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "827b3b0ba1d77f60",
+  "title": "A combined microwave/continuous flow approach for the iodination of anilines and consecutive Mizoroki–Heck cross-coupling",
+  "authors": [
+   "Matteo Bartalucci",
+   "Filippo Bocerani",
+   "Francesco Ferlin",
+   "Luciano Lattuada",
+   "Fulvio Uggeri",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5gc06815k",
+  "url": "https://doi.org/10.1039/d5gc06815k",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Cross-Coupling"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Perugia",
+   "Bracco (Italy)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "718eae869f43712c",
   "title": "Accelerated preparation of pyridazines enabled by high-temperature diazo cycloadditions in continuous flow mode",
   "authors": [
@@ -128,6 +255,40 @@
   "relevance_score": 46,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "46faed11950d7b8e",
+  "title": "Going-with-the-flow: nickel-catalysed Suzuki–Miyaura cross-couplings in continuous flow and translation into APIs savolitinib and baxdrostat",
+  "authors": [
+   "Megan M. A. Bradbury",
+   "Richard A. Bourne",
+   "Martin F. Jones",
+   "Nikil Kapur",
+   "Rachel H. Munday",
+   "Scott Rice",
+   "Charlotte E. Willans"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5cy01194a",
+  "url": "https://doi.org/10.1039/d5cy01194a",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Leeds",
+   "AstraZeneca (United Kingdom)",
+   "University of York"
   ],
   "added": "2026-07-27"
  },
@@ -160,6 +321,41 @@
    "Universitat de Lleida",
    "University of Warwick",
    "The University of Adelaide"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "3bbe1a6af9f011a1",
+  "title": "Reductive Generation of Anionic C1 Carbenoid Species Attached to Organosulfur Functional Groups",
+  "authors": [
+   "Kazuhiro Okamoto",
+   "Shuto Wada",
+   "Kensuke Muta",
+   "Yuta Tsuchihashi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - An Asian Journal",
+  "publisher": "Wiley",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1002/asia.70525",
+  "url": "https://doi.org/10.1002/asia.70525",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Lithiation",
+   "Microreactor",
+   "Residence Time"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Hokkaido University of Science",
+   "Hokkaido University",
+   "Central Glass (Japan)",
+   "NOF Corporation (Japan)"
   ],
   "added": "2026-07-27"
  },

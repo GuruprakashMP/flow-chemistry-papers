@@ -36,6 +36,76 @@
   "added": "2026-07-27"
  },
  {
+  "id": "9ab3f2f9f9a319d8",
+  "title": "Accelerating sulfonyl fluoride synthesis through electrochemical oxidative coupling of thiols and potassium fluoride in flow",
+  "authors": [
+   "Yiran Cao",
+   "Benjamin Adriaenssens",
+   "Aloisio de Andrade Bartolomeu",
+   "Gabriele Laudadio",
+   "Kléber T. de Oliveira",
+   "Timothy Noël"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-02-20",
+  "year": 2020,
+  "doi": "10.1007/s41981-019-00070-9",
+  "url": "https://doi.org/10.1007/s41981-019-00070-9",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Residence Time"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Universidade Federal de São Carlos"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b33b66da0a0b0597",
+  "title": "Self-optimising reactive extractions: towards the efficient development of multi-step continuous flow processes",
+  "authors": [
+   "Adam D. Clayton",
+   "Luke A. Power",
+   "William R. Reynolds",
+   "Caroline Ainsworth",
+   "David R. J. Hose",
+   "Martin F. Jones",
+   "Thomas W. Chamberlain",
+   "A. John Blacker",
+   "Richard A. Bourne"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-02-19",
+  "year": 2020,
+  "doi": "10.1007/s41981-020-00086-6",
+  "url": "https://doi.org/10.1007/s41981-020-00086-6",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Multistep Continuous",
+   "Self-Optimization"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Leeds",
+   "AstraZeneca (United Kingdom)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a0d73ab8035084f4",
   "title": "Translating batch electrochemistry to single-pass continuous flow conditions: an organic chemist’s guide",
   "authors": [
@@ -169,6 +239,36 @@
   "affiliations": [
    "University of Manchester",
    "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7e15bb18a3a14231",
+  "title": "Enantioselective Sequential‐Flow Synthesis of Baclofen Precursor via Asymmetric 1,4‐Addition and Chemoselective Hydrogenation on Platinum/Carbon/Calcium Phosphate Composites",
+  "authors": [
+   "Haruro Ishitani",
+   "Yuichi Furiya",
+   "Shū Kobayashi"
+  ],
+  "journal": "Chemistry - An Asian Journal",
+  "publisher": "Wiley",
+  "published": "2020-02-06",
+  "year": 2020,
+  "doi": "10.1002/asia.202000065",
+  "url": "https://doi.org/10.1002/asia.202000065",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Heterogeneous Catalyst",
+   "Hydrogenation"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "The University of Tokyo"
   ],
   "added": "2026-07-27"
  }

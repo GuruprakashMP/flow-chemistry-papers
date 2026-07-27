@@ -34,6 +34,70 @@
   "added": "2026-07-27"
  },
  {
+  "id": "fef7f461a1853717",
+  "title": "Customizing continuous chemistry and catalytic conversion for carbon–carbon cross-coupling with 3dP",
+  "authors": [
+   "Robert E. McMillin",
+   "Brian Clark",
+   "Kaitlin E. Kay",
+   "B. Frank Gupton",
+   "James K. Ferri"
+  ],
+  "journal": "International Journal of Chemical Reactor Engineering",
+  "publisher": "De Gruyter",
+  "published": "2022-08-25",
+  "year": 2022,
+  "doi": "10.1515/ijcre-2022-0117",
+  "url": "https://doi.org/10.1515/ijcre-2022-0117",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Flow Chemistry",
+   "Flow Rate",
+   "Heterogeneous Catalyst",
+   "Throughput"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Virginia Commonwealth University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "70d924530effd198",
+  "title": "Rapid and Replaceable Luminescent Coating for Silicon-Based Microreactors Enabling Energy-Efficient Solar Photochemistry",
+  "authors": [
+   "Tom M. Masson",
+   "Stefan D. A. Zondag",
+   "Michael G. Debije",
+   "Timothy Noël"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-08-04",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.2c03390",
+  "url": "https://doi.org/10.1021/acssuschemeng.2c03390",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Amsterdam",
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "70093b523b3c6e15",
   "title": "Synthesis of Thiomorpholine via a Telescoped Photochemical Thiol–Ene/Cyclization Sequence in Continuous Flow",
   "authors": [
@@ -62,6 +126,46 @@
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)",
    "Virginia Commonwealth University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0f8d119b3c217047",
+  "title": "Machine learning directed multi-objective optimization of mixed variable chemical systems",
+  "authors": [
+   "Oliver J. Kershaw",
+   "Adam D. Clayton",
+   "Jamie A. Manson",
+   "Alexandre Barthelme",
+   "John Pavey",
+   "Philip Peach",
+   "Jason Mustakis",
+   "Roger M. Howard",
+   "Thomas W. Chamberlain",
+   "Nicholas J. Warren",
+   "Richard A. Bourne"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-02",
+  "year": 2022,
+  "doi": "10.1016/j.cej.2022.138443",
+  "url": "https://doi.org/10.1016/j.cej.2022.138443",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Machine Learning",
+   "Self-Optimization"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Leeds",
+   "UCB Pharma (Belgium)",
+   "Pfizer (United Kingdom)",
+   "Pfizer (United States)"
   ],
   "added": "2026-07-27"
  }

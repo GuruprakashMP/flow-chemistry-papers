@@ -1,5 +1,39 @@
 [
  {
+  "id": "4c40136cbf06927c",
+  "title": "Assessing the energetic and environmental sustainability of organic borazines preparation: A comprehensive life cycle assessment and uncertainty analysis",
+  "authors": [
+   "Filippo Campana",
+   "Kejie Zhou",
+   "Jhonny A. Yunda",
+   "Alireza Nazari Khodadadi",
+   "Davide Bonifazi",
+   "Sorin Melinte",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-20",
+  "year": 2024,
+  "doi": "10.1016/j.cej.2024.158822",
+  "url": "https://doi.org/10.1016/j.cej.2024.158822",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Perugia",
+   "UCLouvain",
+   "University of Vienna"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "0d132707b0ddf86c",
   "title": "Continuous flow synthesis of alkynes from isoxazolones",
   "authors": [
@@ -24,6 +58,49 @@
   "relevance_score": 66,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ee74257ee1dc4697",
+  "title": "Machine learning-driven optimisation of continuous flow photoredox amine synthesis",
+  "authors": [
+   "Perman Jorayev",
+   "Sebastian Soritz",
+   "Simon Sung",
+   "Mohammed I. Jeraal",
+   "Danilo Russo",
+   "Alexandre Barthelme",
+   "Frédéric C. Toussaint",
+   "Matthew J. Gaunt",
+   "Alexei A. Lapkin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-12-16",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-z03kg",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-z03kg",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Flow Photochemistry",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Machine Learning",
+   "Photoredox",
+   "Productivity",
+   "Residence Time",
+   "Throughput"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Cambridge",
+   "Astex Pharmaceuticals",
+   "The Cambridge Centre for Advanced Research and Education in Singapore",
+   "UCB Pharma (Belgium)"
   ],
   "added": "2026-07-27"
  },

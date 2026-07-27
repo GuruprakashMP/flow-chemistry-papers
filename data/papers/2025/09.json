@@ -1,5 +1,44 @@
 [
  {
+  "id": "a9c8fe52680d92bb",
+  "title": "Real-time inline-IR-analysis via linear-combination strategy and machine learning for automated reaction optimization",
+  "authors": [
+   "Yosuke Ashikari",
+   "Takashi Tamaki",
+   "Kyosuke Tomite",
+   "Yuya Yonekura",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Communications Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2025-09-30",
+  "year": 2025,
+  "doi": "10.1038/s42004-025-01676-y",
+  "url": "https://doi.org/10.1038/s42004-025-01676-y",
+  "source": "openalex",
+  "categories": [
+   "In-line Analysis & PAT",
+   "Self-Optimization & Machine Learning",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Flow Chemistry",
+   "In-line Analysis",
+   "Machine Learning",
+   "Reaction Optimization"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Hokkaido University of Science",
+   "Kyoto University",
+   "Kyoto University of Education",
+   "Kyoto Seika University",
+   "Kanagawa Dental University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5fd1c10ad21be52e",
   "title": "Electrochemical ⍺‐C─H Functionalization of Nitramines for Accessing Bifunctional Energetic Heterocycles",
   "authors": [
@@ -159,6 +198,78 @@
   "relevance_score": 58,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2fe5061b209f03e4",
+  "title": "Crystallization-Based Approach to Continuous Manufacturing: A Case Study of Acetaminophen Production",
+  "authors": [
+   "Koichiro Masuda",
+   "Tetsuya Yamamoto",
+   "Kwihwan Kobayashi",
+   "Hidekazu Sano",
+   "Ikuo Saito",
+   "Aiichiro Nagaki",
+   "Akira Yada"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2025-09-08",
+  "year": 2025,
+  "doi": "10.26434/chemrxiv-2025-m9rrt",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-m9rrt",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Manufacturing",
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology",
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1179a0418be6b7bb",
+  "title": "Modular Synthesis of Substituted Lactams via a Deoxygenative Photochemical Alkylation–Cyclization Cascade of Secondary Amides in Flow",
+  "authors": [
+   "Damiano Diprima",
+   "Thomas Terp Paulsen",
+   "Antonio Pulcinella",
+   "Stefano Bonciolini",
+   "Alexis L. Gabbey",
+   "Robin Stuhr",
+   "Thomas B. Poulsen",
+   "Timothy Noël"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2025-09-08",
+  "year": 2025,
+  "doi": "10.1021/jacsau.5c00884",
+  "url": "https://doi.org/10.1021/jacsau.5c00884",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "University of Amsterdam",
+   "Aarhus University",
+   "University of Toronto",
+   "Universität Hamburg"
   ],
   "added": "2026-07-27"
  },

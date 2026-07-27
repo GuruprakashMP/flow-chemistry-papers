@@ -45,6 +45,90 @@
   "added": "2026-07-27"
  },
  {
+  "id": "6cb713f8ddaac5a6",
+  "title": "Automated self-optimization, intensification, and scale-up of photocatalysis in flow",
+  "authors": [
+   "Aidan Slattery",
+   "Zhenghui Wen",
+   "Pauline Tenblad",
+   "Jesús Sanjosé‐Orduna",
+   "Diego Pintossi",
+   "Tim den Hartog",
+   "Timothy Noël"
+  ],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2024-01-25",
+  "year": 2024,
+  "doi": "10.1126/science.adj1817",
+  "url": "https://doi.org/10.1126/science.adj1817",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Self-Optimization & Machine Learning",
+   "Process Intensification",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Flow Photochemistry",
+   "Flow Photoreactor",
+   "Machine Learning",
+   "Scale-up",
+   "Self-Optimization",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "University of Amsterdam",
+   "Netherlands Organisation for Applied Scientific Research",
+   "Zuyd University of Applied Sciences"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "33c97fdc91321cbd",
+  "title": "Brewing sustainability: Continuous flow Ru-supported hydrochar from bagasse beer waste for renewable N-containing chemicals via reductive amination of biomass-derived platform molecules",
+  "authors": [
+   "Viviana Bressi",
+   "Francesco Minio",
+   "Alina M. Balu",
+   "Enrique Rodrı́guez-Castellón",
+   "Assunta Marrocchi",
+   "Luigi Vaccaro",
+   "Claudia Espro",
+   "Sameh M. Osman",
+   "Rafael Luque",
+   "Tripti Chhabra"
+  ],
+  "journal": "Sustainable Chemistry and Pharmacy",
+  "publisher": "Elsevier BV",
+  "published": "2024-01-18",
+  "year": 2024,
+  "doi": "10.1016/j.scp.2024.101436",
+  "url": "https://doi.org/10.1016/j.scp.2024.101436",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Messina",
+   "University of Córdoba",
+   "University of Perugia",
+   "Universidad de Málaga",
+   "King Saud University",
+   "Universidad Ecotec",
+   "Universitatea Națională de Știință și Tehnologie Politehnica București"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "dc8c96f4fcd93b54",
   "title": "Enantioselective Flow Synthesis of a Tetrahydroquinoline SERM Enabled by Immobilized Chiral Phosphoric Acid Catalysis and Diboronic Acid Mediated Selective Nitro Reduction",
   "authors": [
@@ -75,6 +159,40 @@
    "University of the Basque Country",
    "Institut Català d'Investigació Química",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c59c74b2dba74c25",
+  "title": "Flowmicro In‐Line Analysis‐Driven Design of Reactions Mediated by Unstable Intermediates: Flash Monitoring Approach",
+  "authors": [
+   "Yosuke Ashikari",
+   "Rikako Yoshioka",
+   "Yuya Yonekura",
+   "Dong‐eun Yoo",
+   "Kazuhiro Okamoto",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2024-01-12",
+  "year": 2024,
+  "doi": "10.1002/chem.202303774",
+  "url": "https://doi.org/10.1002/chem.202303774",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "In-line Analysis & PAT"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "In-line Analysis",
+   "Microreactor"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Hokkaido University",
+   "Toagosei (Japan)"
   ],
   "added": "2026-07-27"
  },
@@ -224,6 +342,32 @@
   "added": "2026-07-27"
  },
  {
+  "id": "d30ebbe98b923d2f",
+  "title": "Environmentally Benign Flash Synthetic Chemistry Using Flow Microreactors",
+  "authors": [
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Journal of Synthetic Organic Chemistry Japan",
+  "publisher": "Society of Synthetic Organic Chemistry, Japan",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.5059/yukigoseikyokaishi.82.2",
+  "url": "https://doi.org/10.5059/yukigoseikyokaishi.82.2",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d1e3eb5f68f9df30",
   "title": "Continuous flow synthesis of the antiviral drug tecovirimat and related sp 3 -rich scaffolds",
   "authors": [
@@ -247,6 +391,145 @@
   "relevance_score": 66,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "bcf280a25aaa784c",
+  "title": "Palladium nanoparticle deposition on spherical carbon supports for heterogeneous catalysis in continuous flow",
+  "authors": [
+   "Sarah L. Boyall",
+   "P. Berman",
+   "Anthony Griffiths",
+   "Alexander Massey",
+   "Thomas M. Dixon",
+   "Thomas Shaw",
+   "Joanna Miller",
+   "Jonathan P. White",
+   "Robert Menzel",
+   "Kevin Leslie",
+   "Graeme Clemens",
+   "Frans L. Muller",
+   "Richard A. Bourne",
+   "Thomas W. Chamberlain"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d3cy01718d",
+  "url": "https://doi.org/10.1039/d3cy01718d",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Leeds",
+   "AstraZeneca (United Kingdom)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8f449211dd25232f",
+  "title": "Photochemical organocatalytic heteroarylation of anilines and secondary alicyclic amines in continuous-flow",
+  "authors": [
+   "Egor Boronin",
+   "Milena M. Svetlakova",
+   "Ilya I. Vorobyov",
+   "Yulia B. Malysheva",
+   "Yu. V. Polushtaytsev",
+   "S. N. Mensov",
+   "Andrey V. Vorotyntsev",
+   "Alexey Yu. Fedorov",
+   "Timothy Noël",
+   "Alexander V. Nyuchev"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4re00130c",
+  "url": "https://doi.org/10.1039/d4re00130c",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N. I. Lobachevsky State University of Nizhny Novgorod",
+   "G.A. Razuvaev Institute of Organometallic Chemistry",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8e7114cc0f00d205",
+  "title": "Efficient access to hexaaryl-substituted borazines in batch and continuous-flow",
+  "authors": [
+   "Alireza Nazari Khodadadi",
+   "Ejdi Cela",
+   "Dario Marchionni",
+   "Fan Huang",
+   "Francesco Ferlin",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4gc00830h",
+  "url": "https://doi.org/10.1039/d4gc00830h",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7d76b4e70139a611",
+  "title": "Microwave assisted batch and continuous flow Suzuki–Miyaura reactions in GVL using a Pd/PiNe biowaste-derived heterogeneous catalyst",
+  "authors": [
+   "Federica Valentini",
+   "Benedetta Di Erasmo",
+   "Marta Ciani",
+   "Shaomin Chen",
+   "Yanlong Gu",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4gc00497c",
+  "url": "https://doi.org/10.1039/d4gc00497c",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Perugia",
+   "Ministry of Education",
+   "Huazhong University of Science and Technology"
   ],
   "added": "2026-07-27"
  },
@@ -279,6 +562,67 @@
   "added": "2026-07-27"
  },
  {
+  "id": "587333392bf01184",
+  "title": "Continuous-flow synthesis of cyclic carbonates with polymer-supported imidazolium-based ionic liquid (Im-PSIL) catalysts",
+  "authors": [
+   "Zhibo Yu",
+   "Haruro Ishitani",
+   "Shū Kobayashi"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4gc04499a",
+  "url": "https://doi.org/10.1039/d4gc04499a",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "554fa19b307eb8b0",
+  "title": "Open-source 3D printed reactors for reproducible batch and continuous-flow photon-induced chemistry: design and characterization",
+  "authors": [
+   "Tom M. Masson",
+   "Stefan D. A. Zondag",
+   "J. Schuurmans",
+   "Timothy Noël"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4re00081a",
+  "url": "https://doi.org/10.1039/d4re00081a",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "3D-Printed Reactor",
+   "Continuous Flow",
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "Massachusetts Institute of Technology",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "4b85be3e54d0486e",
   "title": "General and versatile synthesis of highly recyclable chiral phosphoric acid organocatalysts",
   "authors": [
@@ -306,6 +650,43 @@
    "University of the Basque Country",
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4447d89f86ee6b89",
+  "title": "Enhancing electrochemical reactions in organic synthesis: the impact of flow chemistry",
+  "authors": [
+   "Morgan Regnier",
+   "Clara Vega",
+   "Dimitris I. Ioannou",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4cs00539b",
+  "url": "https://doi.org/10.1039/d4cs00539b",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Microreactors & Microfluidics",
+   "Reactor Engineering & Design",
+   "Self-Optimization & Machine Learning",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Electrochemistry",
+   "Flow Reactor",
+   "HTE",
+   "Microreactor",
+   "Throughput"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Amsterdam"
   ],
   "added": "2026-07-27"
  },

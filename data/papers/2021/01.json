@@ -1,5 +1,72 @@
 [
  {
+  "id": "ba94342885128d2e",
+  "title": "On-Demand Electrochemical Synthesis of copper(I) Triflate and Its Application in the Aerobic Oxidation of Alcohols",
+  "authors": [
+   "Thomas P. Nicholls",
+   "Richard A. Bourne",
+   "Bao N. Nguyen",
+   "Nikil Kapur",
+   "Charlotte E. Willans"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-01-27",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.13643693.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13643693.v1",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "987f9f1a16cd3452",
+  "title": "Mixing performance and continuous production of nanomaterials in an advanced-flow reactor",
+  "authors": [
+   "Mei Yang",
+   "Lina Yang",
+   "Jia Zheng",
+   "Nicole Hondow",
+   "Richard A. Bourne",
+   "Tom Bailey",
+   "George Irons",
+   "Elliot Sutherland",
+   "Daniela Lavric",
+   "Ke‐Jun Wu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-21",
+  "year": 2021,
+  "doi": "10.1016/j.cej.2021.128565",
+  "url": "https://doi.org/10.1016/j.cej.2021.128565",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Leeds",
+   "Dalian Maritime University",
+   "Corning (France)",
+   "Zhejiang University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a4e90ba9100bea1a",
   "title": "Circular Economy Metrics for the Photo-High-p,T Continuous Multistep Synthesis of Vitamin D 3",
   "authors": [
@@ -274,6 +341,35 @@
   "added": "2026-07-27"
  },
  {
+  "id": "d500558c6f5a70b3",
+  "title": "Multiple Organolithium Reactions for Drug Discovery Using Flash Chemistry",
+  "authors": [
+   "Yosuke Ashikari",
+   "Takashi Tamaki",
+   "Masahiro Takumi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Topics in medicinal chemistry",
+  "publisher": "Springer Nature",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1007/7355_2021_113",
+  "url": "https://doi.org/10.1007/7355_2021_113",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flash Chemistry",
+   "Organolithium"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d2fde8d7109b7ade",
   "title": "The Role of Continuous Flow Processing in the Development of Green Chemical Syntheses",
   "authors": [
@@ -296,6 +392,98 @@
   "relevance_score": 40,
   "affiliations": [
    "Nelson Mandela University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "cc3d5ad02ec15ba3",
+  "title": "Aerobic waste-minimized Pd-catalysed C–H alkenylation in GVL using a tube-in-tube heterogeneous flow reactor",
+  "authors": [
+   "Francesco Ferlin",
+   "Ioannis Anastasiou",
+   "Luigi Carpisassi",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1gc01870a",
+  "url": "https://doi.org/10.1039/d1gc01870a",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Packed Bed",
+   "Tube-in-Tube"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c93bae3fc0da519c",
+  "title": "CHAPTER 16. Sustainable Tools for Flow Chemistry",
+  "authors": [
+   "Francesco Ferlin",
+   "Luigi Vaccaro"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/9781839164842-00447",
+  "url": "https://doi.org/10.1039/9781839164842-00447",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c8c18f0d57d40ea9",
+  "title": "Stille, Heck, and Sonogashira coupling and hydrogenation catalyzed by porous-silica-gel-supported palladium in batch and flow",
+  "authors": [
+   "Yosuke Ashikari",
+   "Kei Maekawa",
+   "Mai Ishibashi",
+   "Chiemi Fujita",
+   "Kiyonari Shiosaki",
+   "Hongzhi Bai",
+   "Kiyoshi Matsuyama",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Green Processing and Synthesis",
+  "publisher": "De Gruyter",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1515/gps-2021-0069",
+  "url": "https://doi.org/10.1515/gps-2021-0069",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Flow Synthesis",
+   "Hydrogenation"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Kyoto University",
+   "Fukuoka Institute of Technology"
   ],
   "added": "2026-07-27"
  },
@@ -360,6 +548,40 @@
    "University of Graz",
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a8378426745cd3f5",
+  "title": "Si-Gly-CD-PdNPs as a hybrid heterogeneous catalyst for environmentally friendly continuous flow Sonogashira cross-coupling",
+  "authors": [
+   "Francesco Ferlin",
+   "Daniele Sciosci",
+   "Federica Valentini",
+   "Janet Menzio",
+   "Giancarlo Cravotto",
+   "Katia Martina",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1gc02490f",
+  "url": "https://doi.org/10.1039/d1gc02490f",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Perugia",
+   "University of Turin"
   ],
   "added": "2026-07-27"
  },
@@ -722,6 +944,47 @@
    "Compagnie Maritime d'Expertises (France)",
    "Innospec (United States)",
    "Eötvös Loránd University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "22d0aae57c231bdb",
+  "title": "Autonomous optimisation of a nanoparticle catalysed reduction reaction in continuous flow",
+  "authors": [
+   "Brendan Hall",
+   "Connor J. Taylor",
+   "Ricardo Labes",
+   "Alexander Massey",
+   "Robert Menzel",
+   "Richard A. Bourne",
+   "Thomas W. Chamberlain"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1cc00859e",
+  "url": "https://doi.org/10.1039/d1cc00859e",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "In-line Analysis & PAT",
+   "Self-Optimization & Machine Learning",
+   "Nanomaterial Synthesis in Flow",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "In-line Analysis",
+   "Kinetic Modeling",
+   "Nanoparticle Synthesis",
+   "Self-Optimization"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Leeds",
+   "Institute for Research and Development"
   ],
   "added": "2026-07-27"
  },

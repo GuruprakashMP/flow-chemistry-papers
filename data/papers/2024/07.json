@@ -31,6 +31,32 @@
   "added": "2026-07-27"
  },
  {
+  "id": "1365c52a4531c5ff",
+  "title": "Flow Photochemistry",
+  "authors": [
+   "Luigi Vaccaro",
+   "Francesco Ferlin"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2024-07-27",
+  "year": 2024,
+  "doi": "10.1016/b978-0-443-15742-4.00074-0",
+  "url": "https://doi.org/10.1016/b978-0-443-15742-4.00074-0",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e808d18ad81f7436",
   "title": "Continuous Flow Approach for Benzylic Photo-oxidations Using Compressed Air",
   "authors": [
@@ -199,6 +225,44 @@
    "University of Bonn",
    "Technische Universität Darmstadt",
    "Uppsala University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f11a6ac52867ff89",
+  "title": "Determining photon flux and effective optical path length in intensified flow photoreactors",
+  "authors": [
+   "Stefan D. A. Zondag",
+   "J. Schuurmans",
+   "Arnab Chaudhuri",
+   "R. Visser",
+   "Cíntia Soares",
+   "Natan Padoin",
+   "Koen P. L. Kuijpers",
+   "Matthieu Dorbec",
+   "J. van der Schaaf",
+   "Timothy Noël"
+  ],
+  "journal": "Nature Chemical Engineering",
+  "publisher": "",
+  "published": "2024-07-05",
+  "year": 2024,
+  "doi": "10.1038/s44286-024-00089-3",
+  "url": "https://doi.org/10.1038/s44286-024-00089-3",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Flow Photoreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Vrije Universiteit Amsterdam",
+   "University of Amsterdam",
+   "Eindhoven University of Technology",
+   "Universidade Federal de Santa Catarina",
+   "Janssen (Belgium)"
   ],
   "added": "2026-07-27"
  }

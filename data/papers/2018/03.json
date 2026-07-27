@@ -42,6 +42,44 @@
   "added": "2026-07-27"
  },
  {
+  "id": "3fdade7494d74997",
+  "title": "Biocatalytic synthesis of the Green Note trans -2-hexenal in a continuous-flow microreactor",
+  "authors": [
+   "Morten M. C. H. van Schie",
+   "Tiago Pedroso de Almeida",
+   "Gabriele Laudadio",
+   "Florian Tieves",
+   "Elena Fernández‐Fueyo",
+   "Timothy Noël",
+   "Isabel W. C. E. Arends",
+   "Frank Hollmann"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2018-03-26",
+  "year": 2018,
+  "doi": "10.3762/bjoc.14.58",
+  "url": "https://doi.org/10.3762/bjoc.14.58",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Delft University of Technology",
+   "Eindhoven University of Technology",
+   "Centro de Investigaciones Biológicas Margarita Salas"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "04bd72def83f38ae",
   "title": "Photoredox Iridium–Nickel Dual-Catalyzed Decarboxylative Arylation Cross-Coupling: From Batch to Continuous Flow via Self-Optimizing Segmented Flow Reactor",
   "authors": [
@@ -154,6 +192,74 @@
    "Lundbeck (Denmark)",
    "Massachusetts Institute of Technology",
    "Technical University of Denmark"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "52740a95506a1f65",
+  "title": "High-yielding continuous-flow synthesis of antimalarial drug hydroxychloroquine",
+  "authors": [
+   "Eric Yu",
+   "Hari P. R. Mangunuru",
+   "Nakul Telang",
+   "Caleb J. Kong",
+   "Jenson Verghese",
+   "S. E. Gilliland",
+   "Saeed Ahmad",
+   "Raymond N. Dominey",
+   "B. Frank Gupton"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2018-03-08",
+  "year": 2018,
+  "doi": "10.3762/bjoc.14.45",
+  "url": "https://doi.org/10.3762/bjoc.14.45",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Virginia Commonwealth University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2ff1199db66214cd",
+  "title": "Photochemical Csp3 oxidation in a continuous-flow microreactor",
+  "authors": [
+   "Gabriele Laudadio",
+   "Timothy Noël",
+   "Sebastian Govaerts"
+  ],
+  "journal": "TU/e Research Portal (Eindhoven University of Technology)",
+  "publisher": "",
+  "published": "2018-03-05",
+  "year": 2018,
+  "doi": "",
+  "url": "http://library.tue.nl/csp/dare/LinkToRepository.csp?recordnumber=907226",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor",
+   "Oxidation"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Synthetic Biologics (United States)"
   ],
   "added": "2026-07-27"
  },

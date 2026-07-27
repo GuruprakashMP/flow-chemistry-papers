@@ -1,5 +1,75 @@
 [
  {
+  "id": "8d92f7bab247acd1",
+  "title": "Expanding the Scope of C -Glycoside Synthesis from Unstable Organolithium Reagents Using Flow Microreactors",
+  "authors": [
+   "Hiromichi V. Miyagishi",
+   "Yusuke Kimuro",
+   "Yosuke Ashikari",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2024-05-31",
+  "year": 2024,
+  "doi": "10.1021/acs.orglett.4c01698",
+  "url": "https://doi.org/10.1021/acs.orglett.4c01698",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor",
+   "Organolithium",
+   "Throughput"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "46d676b4ab7fa110",
+  "title": "Droplet microfluidic flow platforms for automated reaction screening and optimisation",
+  "authors": [
+   "Zara Arshad",
+   "A. John Blacker",
+   "Thomas W. Chamberlain",
+   "Nikil Kapur",
+   "Adam D. Clayton",
+   "Richard A. Bourne"
+  ],
+  "journal": "Current Opinion in Green and Sustainable Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2024-05-24",
+  "year": 2024,
+  "doi": "10.1016/j.cogsc.2024.100940",
+  "url": "https://doi.org/10.1016/j.cogsc.2024.100940",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Self-Optimization & Machine Learning",
+   "Continuous Manufacturing & Pharma",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Droplet",
+   "Droplet Microfluidics",
+   "HTE",
+   "Microfluidics",
+   "Process Development",
+   "Throughput"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d8f12047c154329a",
   "title": "Flow Chemistry and Continuous Processing: More Mainstream than Ever!",
   "authors": [
@@ -34,6 +104,39 @@
    "University College Cork",
    "AstraZeneca (United Kingdom)",
    "Care Resource"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1ec4ca1db9a04d17",
+  "title": "Fully Automated Reaction Operation Driven by Accurate Inline FTIR Analysis based on Linear-Combination Strategy",
+  "authors": [
+   "Yosuke Ashikari",
+   "Takashi Tamaki",
+   "Kyosuke Tomite",
+   "Yuya Yonekura",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-05-17",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-vtdv1",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-vtdv1",
+  "source": "openalex",
+  "categories": [
+   "In-line Analysis & PAT",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Flow Chemistry",
+   "In-line Analysis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Hokkaido University",
+   "Kyoto University"
   ],
   "added": "2026-07-27"
  },

@@ -79,6 +79,43 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ab6466fd0a8feac6",
+  "title": "Waste-minimized continuous flow copper-catalyzed azide-alkyne cycloaddition with low metal contamination",
+  "authors": [
+   "Giulia Brufani",
+   "Federica Valentini",
+   "Gabriele Rossini",
+   "Lucia Rosignoli",
+   "Yanlong Gu",
+   "Ping Liu",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Synthesis and Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2023-01-16",
+  "year": 2023,
+  "doi": "10.1016/j.gresc.2023.01.004",
+  "url": "https://doi.org/10.1016/j.gresc.2023.01.004",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Scale-up"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Perugia",
+   "Huazhong University of Science and Technology",
+   "Shihezi University",
+   "Peoples' Friendship University of Russia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5f55fbccb8cac244",
   "title": "Continuous flow synthesis of phenyl glucosazone and its conversion to 2H-1,2,3-Triazole building blocks",
   "authors": [
@@ -295,6 +332,34 @@
   "added": "2026-07-27"
  },
  {
+  "id": "46daad84c62e9ad9",
+  "title": "A field guide to flow chemistry for synthetic organic chemists",
+  "authors": [
+   "Luca Capaldo",
+   "Zhenghui Wen",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2023-01-01",
+  "year": 2023,
+  "doi": "10.1039/d3sc00992k",
+  "url": "https://doi.org/10.1039/d3sc00992k",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Microreactor"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "3787059a071e4877",
   "title": "Alkene reactions with superoxide radical anions in flow electrochemistry",
   "authors": [
@@ -321,6 +386,78 @@
   "affiliations": [
    "Cardiff University",
    "Indian Institute of Technology Bhubaneswar"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2dfcf41f682dd048",
+  "title": "Continuous flow synthesis of 1,4-disubstituted 1,2,3-triazoles via consecutive β-azidation of α,β-unsaturated carbonyl compounds and CuAAC reactions",
+  "authors": [
+   "Giulia Brufani",
+   "Federica Valentini",
+   "Gabriele Rossini",
+   "Luigi Carpisassi",
+   "Daniela Lanari",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2023-01-01",
+  "year": 2023,
+  "doi": "10.1039/d2gc04672e",
+  "url": "https://doi.org/10.1039/d2gc04672e",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0199573ce4790bbb",
+  "title": "MOF-based heterogeneous catalysis in continuous flow via incorporation onto polymer-based spherical activated carbon supports",
+  "authors": [
+   "Anthony Griffiths",
+   "Sarah L. Boyall",
+   "Pia Müller",
+   "John P. Harrington",
+   "Anna Sobolewska",
+   "William R. Reynolds",
+   "Richard A. Bourne",
+   "Ke‐Jun Wu",
+   "Sean M. Collins",
+   "Mark P. Muldowney",
+   "Thomas W. Chamberlain"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2023-01-01",
+  "year": 2023,
+  "doi": "10.1039/d3nr03634k",
+  "url": "https://doi.org/10.1039/d3nr03634k",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Packed Bed",
+   "Packed-Bed Reactor",
+   "Steady State"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Leeds",
+   "Sterling Research Group",
+   "Quzhou University",
+   "Zhejiang University"
   ],
   "added": "2026-07-27"
  }

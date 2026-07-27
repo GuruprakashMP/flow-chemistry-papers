@@ -1,5 +1,36 @@
 [
  {
+  "id": "16071a4f59ce86fe",
+  "title": "Waste minimized synthesis of pharmaceutically active compounds via heterogeneous manganese catalysed C–H oxidation in flow",
+  "authors": [
+   "Francesco Ferlin",
+   "Pilar María Luque-Navarro",
+   "Yanlong Gu",
+   "Daniela Lanari",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-11-27",
+  "year": 2019,
+  "doi": "10.1039/c9gc02961c",
+  "url": "https://doi.org/10.1039/c9gc02961c",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Perugia",
+   "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "661737ffb2489b2e",
   "title": "Sustainable and Affordable Chemistry",
   "authors": [
@@ -401,6 +432,80 @@
   "relevance_score": 58,
   "affiliations": [
    "Cardiff University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8a91dfbef240cc70",
+  "title": "Flow Photochemistry: Shine Some Light on Those Tubes!",
+  "authors": [
+   "Carlo Sambiagio",
+   "Timothy Noël"
+  ],
+  "journal": "Trends in Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2019-11-03",
+  "year": 2019,
+  "doi": "10.1016/j.trechm.2019.09.003",
+  "url": "https://doi.org/10.1016/j.trechm.2019.09.003",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Photochemistry",
+   "Scale-up"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "37e63ce1c36b2e72",
+  "title": "Automated self-optimisation of multi-step reaction and separation processes using machine learning",
+  "authors": [
+   "Adam D. Clayton",
+   "Artur M. Schweidtmann",
+   "Graeme Clemens",
+   "Jamie A. Manson",
+   "Connor J. Taylor",
+   "Carlos González Niño",
+   "Thomas W. Chamberlain",
+   "Nikil Kapur",
+   "A. John Blacker",
+   "Alexei A. Lapkin",
+   "Richard A. Bourne"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2019-11-03",
+  "year": 2019,
+  "doi": "10.1016/j.cej.2019.123340",
+  "url": "https://doi.org/10.1016/j.cej.2019.123340",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Self-Optimization & Machine Learning",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Liquid-Liquid",
+   "Machine Learning",
+   "Multistep Continuous",
+   "Self-Optimization"
+  ],
+  "relevance_score": 91,
+  "affiliations": [
+   "University of Leeds",
+   "RWTH Aachen University",
+   "AstraZeneca (United Kingdom)",
+   "University of Cambridge"
   ],
   "added": "2026-07-27"
  }

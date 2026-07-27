@@ -67,5 +67,80 @@
    "University of Cambridge"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "eadb20e3d71d485e",
+  "title": "On the performance of liquid-liquid Taylor flow electrochemistry in a microreactor – A CFD study",
+  "authors": [
+   "Yiran Cao",
+   "Natan Padoin",
+   "Cíntia Soares",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2021-08-10",
+  "year": 2021,
+  "doi": "10.1016/j.cej.2021.131443",
+  "url": "https://doi.org/10.1016/j.cej.2021.131443",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Microreactors & Microfluidics",
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Droplet",
+   "Flow Electrochemistry",
+   "Flow Reactor",
+   "Liquid-Liquid",
+   "Microreactor",
+   "Scale-out",
+   "Taylor Flow"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Universidade Federal de Santa Catarina",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "2f1278319b609e9c",
+  "title": "Technological Innovations in Photochemistry for Organic Synthesis: Flow Chemistry, High-Throughput Experimentation, Scale-up, and Photoelectrochemistry",
+  "authors": [
+   "Laura Buglioni",
+   "Fabian Raymenants",
+   "Aidan Slattery",
+   "Stefan D. A. Zondag",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-10",
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.1c00332",
+  "url": "https://doi.org/10.1021/acs.chemrev.1c00332",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Process Intensification",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "HTE",
+   "Scale-up",
+   "Throughput"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
  }
 ]

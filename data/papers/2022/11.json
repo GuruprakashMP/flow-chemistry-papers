@@ -1,5 +1,41 @@
 [
  {
+  "id": "ccff0c20e90a741e",
+  "title": "Flow‐Chemistry‐Enabled Synthesis of 5‐Diethylboryl‐2,3′‐bipyridine and Its Self‐Assembly Dynamics",
+  "authors": [
+   "Shigeharu Wakabayashi",
+   "Masahiro Takumi",
+   "Shintaro Kamio",
+   "Masayuki Wakioka",
+   "Yasuhiro Ohki",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2022-11-17",
+  "year": 2022,
+  "doi": "10.1002/chem.202202882",
+  "url": "https://doi.org/10.1002/chem.202202882",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Suzuka University of Medical Science",
+   "Kyoto University",
+   "Hokkaido University of Science",
+   "Hokkaido University",
+   "Kyoto Bunkyo University",
+   "Kyoto University Institute for Chemical Research"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5139edc3eaafe2a3",
   "title": "Thermal characterization of highly exothermic flash chemistry in a continuous flow calorimeter",
   "authors": [
@@ -91,6 +127,50 @@
    "University of Graz",
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "de0996a6be1d8da1",
+  "title": "Bayesian Self‐Optimization for Telescoped Continuous Flow Synthesis",
+  "authors": [
+   "Adam D. Clayton",
+   "Edward O. Pyzer‐Knapp",
+   "Mark Purdie",
+   "Martin F. Jones",
+   "Alexandre Barthelme",
+   "John Pavey",
+   "Nikil Kapur",
+   "Thomas W. Chamberlain",
+   "A. John Blacker",
+   "Richard A. Bourne"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-08",
+  "year": 2022,
+  "doi": "10.1002/anie.202214511",
+  "url": "https://doi.org/10.1002/anie.202214511",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Telescoped Reaction"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Leeds",
+   "Daresbury Laboratory",
+   "Sci-Tech Daresbury",
+   "AstraZeneca (United Kingdom)",
+   "AstraZeneca (Singapore)",
+   "AstraZeneca (Poland)",
+   "UCB Pharma (Belgium)"
   ],
   "added": "2026-07-27"
  },

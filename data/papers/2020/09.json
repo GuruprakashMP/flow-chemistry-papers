@@ -158,6 +158,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "39cbcfbfc0a8324e",
+  "title": "Rapid, automated determination of reaction models and kinetic parameters",
+  "authors": [
+   "Connor J. Taylor",
+   "Megan Booth",
+   "Jamie A. Manson",
+   "Mark J. Willis",
+   "Graeme Clemens",
+   "Brian Taylor",
+   "Thomas W. Chamberlain",
+   "Richard A. Bourne"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-12",
+  "year": 2020,
+  "doi": "10.1016/j.cej.2020.127017",
+  "url": "https://doi.org/10.1016/j.cej.2020.127017",
+  "source": "openalex",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Kinetic Modeling"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Leeds",
+   "Newcastle University",
+   "AstraZeneca (United Kingdom)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "82426e0d8a823c60",
   "title": "Organomagnesium Based Flash Chemistry: Continuous Flow Generation and Utilization of Halomethylmagnesium Intermediates",
   "authors": [
@@ -185,6 +220,43 @@
   "affiliations": [
    "University of Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0511f0b9c1fc224f",
+  "title": "Gas bubbles have controversial effects on Taylor flow electrochemistry",
+  "authors": [
+   "Yiran Cao",
+   "Cíntia Soares",
+   "Natan Padoin",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "10.1016/j.cej.2020.126811",
+  "url": "https://doi.org/10.1016/j.cej.2020.126811",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Electrochemistry",
+   "Flow Reactor",
+   "RTD",
+   "Residence Time",
+   "Taylor Flow"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Universidade Federal de Santa Catarina"
   ],
   "added": "2026-07-27"
  }

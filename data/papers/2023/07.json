@@ -1,5 +1,38 @@
 [
  {
+  "id": "faa9b594990c48a9",
+  "title": "Electrosynthesis of Aryliminophosphoranes in Continuous Flow",
+  "authors": [
+   "Rodrigo C. Silva",
+   "Clara Vega",
+   "Morgan Regnier",
+   "Luca Capaldo",
+   "Lars J. Wesenberg",
+   "Grace Lowe",
+   "Kléber T. de Oliveira",
+   "Timothy Noël"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2023-07-27",
+  "year": 2023,
+  "doi": "10.1002/adsc.202300635",
+  "url": "https://doi.org/10.1002/adsc.202300635",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal de São Carlos",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "3b063c8520a4803b",
   "title": "Experimental and Computational Investigation of Fluid Dynamics and Solid Transport in Split-and-Recombine Oscillatory Flow Reactors Using Water as Medium",
   "authors": [
@@ -28,6 +61,42 @@
    "University of Padua",
    "University of Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "18a3f4b6cc3424bd",
+  "title": "Cover Feature: External Flash Generation of Carbenoids Enables Monodeuteration of Dihalomethanes (Chem. Eur. J. 47/2023)",
+  "authors": [
+   "Kazuhiro Okamoto",
+   "Ryosuke Higuma",
+   "Kensuke Muta",
+   "Keita Fukumoto",
+   "Yuta Tsuchihashi",
+   "Yosuke Ashikari",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2023-07-21",
+  "year": 2023,
+  "doi": "10.1002/chem.202302308",
+  "url": "https://doi.org/10.1002/chem.202302308",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hokkaido University of Science",
+   "Hokkaido University",
+   "Kyoto University",
+   "Central Glass (Japan)",
+   "NOF Corporation (Japan)"
   ],
   "added": "2026-07-27"
  },

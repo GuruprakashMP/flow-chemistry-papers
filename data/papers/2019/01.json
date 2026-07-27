@@ -106,6 +106,81 @@
   "added": "2026-07-27"
  },
  {
+  "id": "5c6e19647d2db6ad",
+  "title": "Molecular Weight Distribution of Polymers Produced by Anionic Polymerization Enables Mixability Evaluation",
+  "authors": [
+   "Yuta Endo",
+   "Mai Furusawa",
+   "Toshiya Shimazaki",
+   "Yusuke Takahashi",
+   "Yuichi Nakahara",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2019-01-18",
+  "year": 2019,
+  "doi": "10.1021/acs.oprd.8b00403",
+  "url": "https://doi.org/10.1021/acs.oprd.8b00403",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Suzuki (Japan)",
+   "Kyoto University",
+   "Ajinomoto (Japan)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ea3dea362af65cab",
+  "title": "Improving Productivity of Multiphase Flow Aerobic Oxidation Using a Tube-in-Tube Membrane Contactor",
+  "authors": [
+   "Michael Burkholder",
+   "S. E. Gilliland",
+   "Adam Luxon",
+   "Christina Tang",
+   "B. Frank Gupton"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2019-01-17",
+  "year": 2019,
+  "doi": "10.3390/catal9010095",
+  "url": "https://doi.org/10.3390/catal9010095",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Reactor Engineering & Design",
+   "Catalysis in Flow",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Multiphase Flow",
+   "Oxidation",
+   "Packed Bed",
+   "Packed-Bed Reactor",
+   "Productivity",
+   "Segmented Flow",
+   "Space-Time Yield",
+   "Tube-in-Tube"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Virginia Commonwealth University",
+   "Venebio (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9ff4c52a920bd72e",
   "title": "Mixing Time Scale Determination in Microchannels Using Reaction Calorimetry",
   "authors": [
@@ -202,6 +277,41 @@
    "Bielefeld University",
    "University of Cologne",
    "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "54c01147bd2e3510",
+  "title": "Process Design and Optimization for the Continuous Manufacturing of Nevirapine, an Active Pharmaceutical Ingredient for HIV Treatment",
+  "authors": [
+   "Samir Diab",
+   "D. Tyler McQuade",
+   "B. Frank Gupton",
+   "Dimitrios I. Gerogiorgis"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2019-01-04",
+  "year": 2019,
+  "doi": "10.1021/acs.oprd.8b00381",
+  "url": "https://doi.org/10.1021/acs.oprd.8b00381",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Separation & In-line Purification"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Crystallization",
+   "Continuous Flow",
+   "Continuous Manufacturing",
+   "Flow Synthesis",
+   "Pharma Manufacturing"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "University of Edinburgh",
+   "Virginia Commonwealth University"
   ],
   "added": "2026-07-27"
  },
@@ -364,6 +474,35 @@
   "added": "2026-07-27"
  },
  {
+  "id": "c290a7cb25e25764",
+  "title": "All-aqueous continuous-flow RAFT dispersion polymerisation for efficient preparation of diblock copolymer spheres, worms and vesicles",
+  "authors": [
+   "Sam J. Parkinson",
+   "Nicole Hondow",
+   "John S. Conteh",
+   "Richard A. Bourne",
+   "Nicholas J. Warren"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c8re00211h",
+  "url": "https://doi.org/10.1039/c8re00211h",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c04d989cb23bb00b",
   "title": "A solid-supported arylboronic acid catalyst for direct amidation",
   "authors": [
@@ -432,6 +571,35 @@
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)",
    "Chemical Synthesis Lab"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "aa2564d581ae05fa",
+  "title": "Continuous flow/waste-minimized synthesis of benzoxazoles catalysed by heterogeneous manganese systems",
+  "authors": [
+   "Francesco Ferlin",
+   "Mitchell K. van der Hulst",
+   "Stefano Santoro",
+   "Daniela Lanari",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c9gc01641d",
+  "url": "https://doi.org/10.1039/c9gc01641d",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Perugia"
   ],
   "added": "2026-07-27"
  },
@@ -529,6 +697,42 @@
    "Barcelona Institute of Science and Technology",
    "Observatori de l'Ebre",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5d190b9b49808879",
+  "title": "Definitive screening designs for multistep kinetic models in flow",
+  "authors": [
+   "Christopher A. Hone",
+   "Alistair Boyd",
+   "Anne O’Kearney-McMullan",
+   "Richard A. Bourne",
+   "Frans L. Muller"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c9re00180h",
+  "url": "https://doi.org/10.1039/c9re00180h",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Kinetic Modeling"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Leeds",
+   "Prague Institute of Planning and Development",
+   "AstraZeneca (United Kingdom)",
+   "Center for Global Development",
+   "Macclesfield College",
+   "AstraZeneca (Brazil)"
   ],
   "added": "2026-07-27"
  },
@@ -669,6 +873,39 @@
    "Ecolab (United States)",
    "Houston Methodist Sugar Land Hospital",
    "Nalco (Canada)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "046edbb3bf486038",
+  "title": "C–H functionalization reactions under flow conditions",
+  "authors": [
+   "Stefano Santoro",
+   "Francesco Ferlin",
+   "Lutz Ackermann",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c8cs00211h",
+  "url": "https://doi.org/10.1039/c8cs00211h",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Perugia",
+   "Istituto di Biologia e Biotecnologia Agraria",
+   "Green Chemistry",
+   "University of Göttingen"
   ],
   "added": "2026-07-27"
  }

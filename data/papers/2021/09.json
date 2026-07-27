@@ -37,6 +37,42 @@
   "added": "2026-07-27"
  },
  {
+  "id": "fea96543b1316d16",
+  "title": "Switchable Chemoselectivity of Reactive Intermediates Formation and Their Direct Use in A Flow Microreactor",
+  "authors": [
+   "Yosuke Ashikari",
+   "Takashi Tamaki",
+   "Tomoko Kawaguchi",
+   "Mai Furusawa",
+   "Yuya Yonekura",
+   "Susumu Ishikawa",
+   "Yusuke Takahashi",
+   "Yoko Aizawa",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2021-09-22",
+  "year": 2021,
+  "doi": "10.1002/chem.202103183",
+  "url": "https://doi.org/10.1002/chem.202103183",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kyoto University",
+   "Kyoto Katsura Hospital",
+   "Toagosei (Japan)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8690fda45548af8c",
   "title": "Automated High-Pressure Atline Analysis of Photo-High-P,T Vitamin D3 Microfluidic Synthesis",
   "authors": [
@@ -145,6 +181,44 @@
    "University of Graz",
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "f6564187b8c78821",
+  "title": "Biomass Waste-Derived Pd–PiNe Catalyst for the Continuous-Flow Copper-Free Sonogashira Reaction in a CPME–Water Azeotropic Mixture",
+  "authors": [
+   "Francesco Ferlin",
+   "Federica Valentini",
+   "Daniele Sciosci",
+   "Massimo Calamante",
+   "Elena Petricci",
+   "Luigi Vaccaro"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-09-01",
+  "year": 2021,
+  "doi": "10.1021/acssuschemeng.1c03634",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c03634",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Flow Reactor",
+   "Liquid-Liquid"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "University of Perugia",
+   "Institute for the Chemistry of OrganoMetallic Compounds",
+   "University of Florence",
+   "University of Siena"
   ],
   "added": "2026-07-27"
  },

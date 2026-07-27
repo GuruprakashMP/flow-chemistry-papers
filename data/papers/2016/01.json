@@ -26,6 +26,42 @@
   "added": "2026-07-27"
  },
  {
+  "id": "f850461d1850abf9",
+  "title": "Self-optimisation of the final stage in the synthesis of EGFR kinase inhibitor AZD9291 using an automated flow reactor",
+  "authors": [
+   "Nicholas Holmes",
+   "Geoffrey R. Akien",
+   "A. John Blacker",
+   "Robert L. Woodward",
+   "Rebecca E. Meadows",
+   "Richard A. Bourne"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.1039/c6re00059b",
+  "url": "https://doi.org/10.1039/c6re00059b",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Self-Optimization"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Leeds",
+   "Lancaster University",
+   "AstraZeneca (United Kingdom)",
+   "Macclesfield College",
+   "AstraZeneca (Singapore)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e1770ba3ab699caf",
   "title": "Segmented flow in micro- and mini-coiled flow inverters for continuous extraction : extraction efficiency, metal (catalyst) recovery and kilo-lab upscaling",
   "authors": [
@@ -149,6 +185,30 @@
   "affiliations": [
    "Massachusetts Institute of Technology"
   ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a49550629bc70970",
+  "title": "Synthesis of organofluorine compounds using flow microreactors",
+  "authors": [
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemical Sciences Journal",
+  "publisher": "OMICS Publishing Group",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.4172/2150-3494.c1.005",
+  "url": "https://doi.org/10.4172/2150-3494.c1.005",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
   "added": "2026-07-27"
  },
  {
@@ -350,6 +410,33 @@
   "added": "2026-07-27"
  },
  {
+  "id": "378570b8c7060e21",
+  "title": "Chapter 12. The Growing Impact of Continuous Flow Methods on the Twelve Principles of Green Chemistry",
+  "authors": [
+   "A. John Blacker",
+   "Jessica Breen",
+   "Richard A. Bourne",
+   "Christopher A. Hone"
+  ],
+  "journal": "RSC green chemistry series",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.1039/9781782625940-00140",
+  "url": "https://doi.org/10.1039/9781782625940-00140",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Process Development"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "2fdf4fb8cd71bb8d",
   "title": "ChemInform Abstract: Liquid Phase Oxidation Chemistry in Continuous‐Flow Microreactors",
   "authors": [
@@ -443,6 +530,35 @@
   "added": "2026-07-27"
  },
  {
+  "id": "1458eb78d665d809",
+  "title": "Photoredox catalysis accelerated in continuous-flow microreactors",
+  "authors": [
+   "Timothy Noël"
+  ],
+  "journal": "TU/e Research Portal",
+  "publisher": "",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "",
+  "url": "https://research.tue.nl/en/publications/ba962f46-7f65-4180-abc2-170a183555b5",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor",
+   "Photoredox"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Synthetic Biologics (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "0eb0a57780c99064",
   "title": "Editorial – Flow Chemistry and Catalysis",
   "authors": [
@@ -464,6 +580,31 @@
   "relevance_score": 46,
   "affiliations": [
    "University of Cambridge"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "07c39b5c36bcb130",
+  "title": "Organometallic Flow Chemistry",
+  "authors": [
+   "Timothy Noël"
+  ],
+  "journal": "Topics in organometallic chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.1007/978-3-319-33243-7",
+  "url": "https://doi.org/10.1007/978-3-319-33243-7",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Eindhoven University of Technology"
   ],
   "added": "2026-07-27"
  }

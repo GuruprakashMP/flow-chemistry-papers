@@ -1,5 +1,39 @@
 [
  {
+  "id": "24d8e27a24cfdc67",
+  "title": "Continuous Manufacturing of Active Pharmaceutical Ingredients: Current Trends and Perspectives",
+  "authors": [
+   "Andres P. Hyer",
+   "Daniel H. Gregory",
+   "Kaitlin E. Kay",
+   "Quang Le",
+   "J.C. Turnage",
+   "Frank Gupton",
+   "James K. Ferri"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2023-12-31",
+  "year": 2023,
+  "doi": "10.1002/adsc.202301137",
+  "url": "https://doi.org/10.1002/adsc.202301137",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Process Intensification"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Manufacturing",
+   "Process Intensification"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Virginia Commonwealth University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "53a5a3c8b3a8a47b",
   "title": "Modular Synthesis of Benzoylpyridines Exploiting a Reductive Arylation Strategy",
   "authors": [
@@ -59,6 +93,73 @@
   "relevance_score": 72,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "a8db412f287dffb4",
+  "title": "Multiphasic Continuous‐Flow Reactors for Handling Gaseous Reagents in Organic Synthesis: Enhancing Efficiency and Safety in Chemical Processes",
+  "authors": [
+   "Annechien A. H. Laporte",
+   "Tom M. Masson",
+   "Stefan D. A. Zondag",
+   "Timothy Noël"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-12-14",
+  "year": 2023,
+  "doi": "10.1002/anie.202316108",
+  "url": "https://doi.org/10.1002/anie.202316108",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Continuous Manufacturing & Pharma",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Flow Reactor",
+   "Scale-up"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "University of Amsterdam",
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5bf22b2d504a077d",
+  "title": "Intensified continuous flow process for the scalable production of bio-based glycerol carbonate",
+  "authors": [
+   "Claire Muzyka",
+   "Sébastien Renson",
+   "Bruno Grignard",
+   "Christophe Detrembleur",
+   "Jean‐Christophe M. Monbaliu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-12-11",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-wx40q",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-wx40q",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Process Intensification",
+   "Residence Time",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Liège"
   ],
   "added": "2026-07-27"
  }

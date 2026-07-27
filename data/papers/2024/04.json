@@ -44,6 +44,48 @@
   "added": "2026-07-27"
  },
  {
+  "id": "64c629f1aa4acf47",
+  "title": "Spatiotemporal Control of Protein Refolding through Flash-Change Reaction Conditions",
+  "authors": [
+   "Yuichi Nakahara",
+   "Tomoko Kawaguchi",
+   "Yutaka Matsuda",
+   "Yuta Endo",
+   "Masayo Date",
+   "Kazutoshi Takahashi",
+   "Keisuke Kato",
+   "Takahiro Okasora",
+   "Daisuke Ejima",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2024-04-15",
+  "year": 2024,
+  "doi": "10.1021/acs.langmuir.4c00024",
+  "url": "https://doi.org/10.1021/acs.langmuir.4c00024",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor",
+   "Scale-up",
+   "Throughput"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Suzuki (Japan)",
+   "Hokkaido University",
+   "Ajinomoto (Japan)",
+   "Ajinomoto (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "bc914362513b83ce",
   "title": "One-Step Synthesis of Pt–Pd@ACF Catalyst in the Microreactor System for the Hydrogen Evolution Reaction",
   "authors": [
@@ -107,6 +149,34 @@
   "relevance_score": 55,
   "affiliations": [
    "University of Padua"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0ead1b77b636ac5f",
+  "title": "Flow Chemistry of Metal Carbenoid Species towards Selective Organic Synthesis",
+  "authors": [
+   "Kazuhiro Okamoto",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2024-04-09",
+  "year": 2024,
+  "doi": "10.1055/a-2302-5363",
+  "url": "https://doi.org/10.1055/a-2302-5363",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Lithiation",
+   "Residence Time"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Hokkaido University"
   ],
   "added": "2026-07-27"
  },

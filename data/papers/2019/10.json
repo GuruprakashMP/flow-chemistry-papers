@@ -27,6 +27,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ad7a8a033330baeb",
+  "title": "A Hybridised Optimisation of an Automated Photochemical Continuous Flow Reactor",
+  "authors": [
+   "Jamie A. Manson",
+   "Adam D. Clayton",
+   "Carlos González Niño",
+   "Ricardo Labes",
+   "Thomas W. Chamberlain",
+   "A. John Blacker",
+   "Nikil Kapur",
+   "Richard A. Bourne"
+  ],
+  "journal": "CHIMIA International Journal for Chemistry",
+  "publisher": "Swiss Chemical Society",
+  "published": "2019-10-24",
+  "year": 2019,
+  "doi": "10.2533/chimia.2019.817",
+  "url": "https://doi.org/10.2533/chimia.2019.817",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "CSTR",
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "aa389a5cff32d3fa",
   "title": "Continuous Pd-Catalyzed Carbonylative Cyclization Using Iron Pentacarbonyl as a CO Source",
   "authors": [
@@ -83,6 +118,32 @@
   "relevance_score": 78,
   "affiliations": [
    "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "34b21a553fcce646",
+  "title": "Rational Design of Continuous Flow Processes for Synthesis of Functional Molecules",
+  "authors": [
+   "Alexei A. Lapkin"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2019-10-18",
+  "year": 2019,
+  "doi": "10.1016/b978-0-12-814681-1.00016-3",
+  "url": "https://doi.org/10.1016/b978-0-12-814681-1.00016-3",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Cambridge",
+   "The Cambridge Centre for Advanced Research and Education in Singapore"
   ],
   "added": "2026-07-27"
  },
@@ -185,6 +246,77 @@
    "Research Center Pharmaceutical Engineering (Austria)",
    "AstraZeneca (United Kingdom)",
    "Chemtrix (Netherlands)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "68c3dc48de9bfbc9",
+  "title": "Iron‐Catalyzed Cross‐Coupling of Alkynyl and Styrenyl Chlorides with Alkyl Grignard Reagents in Batch and Flow",
+  "authors": [
+   "Yuchao Deng",
+   "Xiao‐Jing Wei",
+   "Xiao Wang",
+   "Yuhan Sun",
+   "Timothy Noël"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2019-10-01",
+  "year": 2019,
+  "doi": "10.1002/chem.201904480",
+  "url": "https://doi.org/10.1002/chem.201904480",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Grignard",
+   "Telescoped Flow"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "ShanghaiTech University",
+   "Eindhoven University of Technology",
+   "Nanjing University",
+   "Chinese Academy of Sciences",
+   "Shanghai Advanced Research Institute"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "209046956ed4d7aa",
+  "title": "The Fundamentals Behind the Use of Flow Reactors in Electrochemistry",
+  "authors": [
+   "Timothy Noël",
+   "Yiran Cao",
+   "Gabriele Laudadio"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2019-10-01",
+  "year": 2019,
+  "doi": "10.1021/acs.accounts.9b00412",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00412",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Flow Electrochemistry",
+   "Microreactors & Microfluidics",
+   "In-line Analysis & PAT",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Electrochemistry",
+   "Flow Reactor",
+   "Microreactor",
+   "PAT",
+   "Scale-up"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Eindhoven University of Technology"
   ],
   "added": "2026-07-27"
  }

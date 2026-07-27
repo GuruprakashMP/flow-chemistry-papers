@@ -1,5 +1,37 @@
 [
  {
+  "id": "03ab01568ea19b34",
+  "title": "C(sp 3 )−H Arylation Promoted by a Heterogeneous Palladium‐N‐Heterocyclic Carbene Complex in Batch and Continuous Flow",
+  "authors": [
+   "Francesco Ferlin",
+   "Ioannis Anastasiou",
+   "Nihad Salameh",
+   "Takeru Miyakoshi",
+   "Olivier Baudoin",
+   "Luigi Vaccaro"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2022-01-30",
+  "year": 2022,
+  "doi": "10.1002/cssc.202102736",
+  "url": "https://doi.org/10.1002/cssc.202102736",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Perugia",
+   "University of Basel",
+   "Peoples' Friendship University of Russia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e2fbb16b7caa9bcb",
   "title": "Enantioselective Flow Synthesis of Rolipram Enabled by a Telescoped Asymmetric Conjugate Addition–Oxidative Aldehyde Esterification Sequence Using in Situ -Generated Persulfuric Acid as Oxidant",
   "authors": [
@@ -326,6 +358,113 @@
   "added": "2026-07-27"
  },
  {
+  "id": "a2f2e66c804f7b2d",
+  "title": "Waste-Minimized Continuous Flow Copper Catalyzed Azide-Alkyne Cycloaddition with Minimum Metal Contamination",
+  "authors": [
+   "Luigi Vaccaro",
+   "Giulia Brufani",
+   "Federica Valentini",
+   "Gabriele Rossini",
+   "Lucia Rosignoli",
+   "Yanlong Gu",
+   "Ping Liu"
+  ],
+  "journal": "SSRN Electronic Journal",
+  "publisher": "RELX Group (Netherlands)",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.2139/ssrn.4281424",
+  "url": "https://doi.org/10.2139/ssrn.4281424",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Perugia",
+   "Huazhong University of Science and Technology",
+   "Shihezi University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "9d28e48eeadbcc21",
+  "title": "Development of a multistep, electrochemical flow platform for automated catalyst screening",
+  "authors": [
+   "Christiane Schotten",
+   "Jamie A. Manson",
+   "Thomas W. Chamberlain",
+   "Richard A. Bourne",
+   "Bao N. Nguyen",
+   "Nikil Kapur",
+   "Charlotte E. Willans"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2cy00587e",
+  "url": "https://doi.org/10.1039/d2cy00587e",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Electrochemistry",
+   "Throughput"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "586588488966e0b0",
+  "title": "Automated stopped-flow library synthesis for rapid optimisation and machine learning directed experimentation",
+  "authors": [
+   "Claudio Ávila",
+   "Carlo Cassani",
+   "Thierry Kogej",
+   "Javier Mazuela",
+   "Sunil Sarda",
+   "Adam D. Clayton",
+   "Michael Kossenjans",
+   "Clive P. Green",
+   "Richard A. Bourne"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2sc03016k",
+  "url": "https://doi.org/10.1039/d2sc03016k",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Self-Optimization & Machine Learning",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Flow Synthesis",
+   "Machine Learning",
+   "Throughput"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "AstraZeneca (United Kingdom)",
+   "University of Leeds",
+   "AstraZeneca (Sweden)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "1ed27ec9e7534dbf",
   "title": "A continuous flow investigation of sulfonyl chloride synthesis using N -chloroamides: optimization, kinetics and mechanism",
   "authors": [
@@ -355,6 +494,72 @@
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)",
    "Lonza (Switzerland)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1df2bde39e359507",
+  "title": "Modern advancements in continuous-flow aided kinetic analysis",
+  "authors": [
+   "Connor J. Taylor",
+   "Jamie A. Manson",
+   "Graeme Clemens",
+   "Brian Taylor",
+   "Thomas W. Chamberlain",
+   "Richard A. Bourne"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d1re00467k",
+  "url": "https://doi.org/10.1039/d1re00467k",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Leeds",
+   "AstraZeneca (United Kingdom)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0f589a7facb211a2",
+  "title": "Interfacing single-atom catalysis with continuous-flow organic electrosynthesis",
+  "authors": [
+   "Mark A. Bajada",
+   "Jesús Sanjosé‐Orduna",
+   "Giovanni Di Liberto",
+   "Sergio Tosoni",
+   "Gianfranco Pacchioni",
+   "Timothy Noël",
+   "Gianvito Vilé"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2cs00100d",
+  "url": "https://doi.org/10.1039/d2cs00100d",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Electrochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Politecnico di Milano",
+   "Institute for Atomic and Molecular Physics",
+   "University of Amsterdam",
+   "University of Milano-Bicocca"
   ],
   "added": "2026-07-27"
  },

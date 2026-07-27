@@ -1,5 +1,37 @@
 [
  {
+  "id": "2b0b75a2f9238293",
+  "title": "Domino Hydrogenation–Reductive Amination of Phenols, a Simple Process To Access Substituted Cyclohexylamines",
+  "authors": [
+   "Varsha R. Jumde",
+   "Elena Petricci",
+   "Chiara Petrucci",
+   "Niccolò Santillo",
+   "Maurizio Taddei",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2015-07-31",
+  "year": 2015,
+  "doi": "10.1021/acs.orglett.5b01842",
+  "url": "https://doi.org/10.1021/acs.orglett.5b01842",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Siena",
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "85bf96b74c47bf3c",
   "title": "OpenFOAM Computational Fluid Dynamic Simulations of Single-Phase Flows in an Advanced-Flow Reactor",
   "authors": [
@@ -170,6 +202,38 @@
   "added": "2026-07-27"
  },
  {
+  "id": "007dafaf5d189858",
+  "title": "An Efficient and Waste-Minimized One-Pot Procedure for the Preparation of N -Boc-γ-amino Alcohols Starting from α,β-Unsaturated Ketones in Flow",
+  "authors": [
+   "Eleonora Ballerini",
+   "Raimondo Maggi",
+   "Ferdinando Pizzo",
+   "Oriana Piermatti",
+   "Dmitri Gelman",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2015-07-16",
+  "year": 2015,
+  "doi": "10.1021/acs.oprd.5b00163",
+  "url": "https://doi.org/10.1021/acs.oprd.5b00163",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Multistep Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Perugia",
+   "University of Parma",
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "972f4bea7da95eff",
   "title": "Homogeneous Gold-Catalyzed Glycosylations in Continuous Flow",
   "authors": [
@@ -261,6 +325,60 @@
    "TU Dortmund University",
    "Indian Institute of Technology Delhi"
   ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "e9a6bc4cc738cda6",
+  "title": "Continuous-flow reactors for the rapid evolution and validation of kinetic motifs",
+  "authors": [
+   "CA Hone",
+   "Richard A. Bourne",
+   "Frans L. Muller"
+  ],
+  "journal": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+  "publisher": "White Rose University Consortium",
+  "published": "2015-07-01",
+  "year": 2015,
+  "doi": "",
+  "url": "",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "afaf77f248be38f1",
+  "title": "ChemInform Abstract: Multistep Continuous‐Flow Synthesis of (R)‐ and (S)‐Rolipram Using Heterogeneous Catalysts.",
+  "authors": [
+   "Tetsu Tsubogo",
+   "H Oyamada",
+   "Shū Kobayashi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-07-01",
+  "year": 2015,
+  "doi": "10.1002/chin.201529260",
+  "url": "https://doi.org/10.1002/chin.201529260",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Synthesis",
+   "Heterogeneous Catalyst",
+   "Multistep Continuous"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
   "added": "2026-07-27"
  },
  {

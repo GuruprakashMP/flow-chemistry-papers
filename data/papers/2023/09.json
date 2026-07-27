@@ -32,6 +32,37 @@
   "added": "2026-07-27"
  },
  {
+  "id": "497d8d5590eae4ab",
+  "title": "Multi-objective Bayesian optimisation using q-Noisy Expected Hypervolume Improvement (qNEHVI) for Schotten-Baumann reaction",
+  "authors": [
+   "Jiyizhe Zhang",
+   "Naoto Sugisawa",
+   "Kobi Felton",
+   "Shinichiro Fuse",
+   "Alexei A. Lapkin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-09-26",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-dlkgl",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-dlkgl",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Cambridge",
+   "Nagoya University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ad27e08c64bc0a54",
   "title": "Application of an Oscillatory Plug Flow Reactor to Enable Scalable and Fast Reactions in Water Using a Biomass‐Based Polymeric Additive**",
   "authors": [
@@ -67,6 +98,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "5d2d2e8e3f8a7cf6",
+  "title": "Modular Synthesis of Congested b2,2-Amino Acids via the Merger of Photocatalysis and Oxidative Functionalisations",
+  "authors": [
+   "Khadijah Anwar",
+   "Luca Capaldo",
+   "Ting Wan",
+   "Timothy Noël",
+   "Adrián Gómez‐Suárez"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-09-20",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-dbc9d",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-dbc9d",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Wuppertal",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e3fba93cc11b84b8",
   "title": "Development of a Continuous Flow Baldwin Rearrangement Process and Its Comparison to Traditional Batch Mode",
   "authors": [
@@ -90,6 +151,37 @@
   "relevance_score": 52,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "3f543e9c61983cf6",
+  "title": "Reaction of Highly Volatile Organic Compounds with Organolithium Species in Flow Microreactor",
+  "authors": [
+   "Aiichiro Nagaki",
+   "Kensuke Muta",
+   "Kazuhiro Okamoto"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2023-09-07",
+  "year": 2023,
+  "doi": "10.1055/a-2170-2976",
+  "url": "https://doi.org/10.1055/a-2170-2976",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor",
+   "Organolithium"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Hokkaido University",
+   "Central Glass (Japan)"
   ],
   "added": "2026-07-27"
  },

@@ -32,6 +32,46 @@
   "added": "2026-07-27"
  },
  {
+  "id": "2cb83ae979065dcb",
+  "title": "A continuous flow generator of acetyl nitrate for the synthesis of nitrofuran-based pharmaceuticals",
+  "authors": [
+   "Hubert Hellwig",
+   "Loïc Bovy",
+   "Kristof Van Hecke",
+   "Cornelis P. Vlaar",
+   "Rodolfo J. Romañach",
+   "Md. Noor‐E‐Alam",
+   "Allan S. Myerson",
+   "Torsten Stelzer",
+   "Jean‐Christophe M. Monbaliu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2025-01-21",
+  "year": 2025,
+  "doi": "10.26434/chemrxiv-2025-dsx17",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-dsx17",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Nitration"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Liège",
+   "Ghent University Hospital",
+   "University of Puerto Rico System",
+   "University of Puerto Rico-Mayaguez",
+   "Universidad del Noreste",
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d5eb653a0291de27",
   "title": "Best practice approach for temperature measurement in flow chemistry based on CFD simulation",
   "authors": [
@@ -433,6 +473,44 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ac318caed61c6527",
+  "title": "Selective transfer hydrogenation of furfural under continuous flow conditions promoted by the recoverable homogeneous Shvo's catalyst",
+  "authors": [
+   "Giulia Brufani",
+   "Mirella Tavares Campos",
+   "Chiara Lenzi",
+   "Luís Adriano Santos do Nascimento",
+   "Emilia Paone",
+   "Andrea Piazzi",
+   "Rita Mazzoni",
+   "Luigi Vaccaro",
+   "Francesco Mauriello"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5re00176e",
+  "url": "https://doi.org/10.1039/d5re00176e",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Perugia",
+   "University of Reggio Calabria",
+   "Universidade Federal do Pará",
+   "University of Bologna",
+   "Bologna Research Area"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9dc8306c6c671c1a",
   "title": "Fast and scalable continuous flow synthesis of butenolides and coumarins",
   "authors": [
@@ -466,6 +544,68 @@
   "added": "2026-07-27"
  },
  {
+  "id": "75cab3931104bba1",
+  "title": "Self-optimising continuous-flow hydrothermal reactor for nanoparticle synthesis",
+  "authors": [
+   "Cameron Jackson",
+   "Karen Robertson",
+   "Vitaliy Sechenyh",
+   "Thomas W. Chamberlain",
+   "Richard A. Bourne",
+   "Edward Lester"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4re00339j",
+  "url": "https://doi.org/10.1039/d4re00339j",
+  "source": "openalex",
+  "categories": [
+   "Nanomaterial Synthesis in Flow",
+   "Self-Optimization & Machine Learning",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Machine Learning",
+   "Nanoparticle Synthesis",
+   "Throughput"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Nottingham",
+   "University of Leeds"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "622dc16a4be17f00",
+  "title": "Electrochemistry in Flow",
+  "authors": [
+   "Luigi Vaccaro",
+   "Francesco Ferlin"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1016/b978-0-443-15742-4.00087-9",
+  "url": "https://doi.org/10.1016/b978-0-443-15742-4.00087-9",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry"
+  ],
+  "tags": [
+   "Flow Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "487434709d4db584",
   "title": "Ignition of non-equilibrium methane dielectric barrier discharges in a multiphase plasma–liquid microfluidic device",
   "authors": [
@@ -492,6 +632,41 @@
   "affiliations": [
    "New York University",
    "University of Michigan"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "443eba4bda47964e",
+  "title": "Continuous flow synthesis of cyclobutenes via lithium ynolates",
+  "authors": [
+   "Aki Kohyama",
+   "Motoki Namioka",
+   "Hiroshi Naka",
+   "Yosuke Ashikari",
+   "Aiichiro Nagaki",
+   "Hiroshi Takikawa",
+   "Yousuke Yamaoka",
+   "Kiyosei Takasu"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4gc05102e",
+  "url": "https://doi.org/10.1039/d4gc05102e",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kyoto University",
+   "Kyoto Pharmaceutical University",
+   "Hokkaido University"
   ],
   "added": "2026-07-27"
  },
@@ -531,6 +706,35 @@
    "Universidad Nacional de Colombia",
    "Unité de catalyse et de chimie du solide de Lille",
    "Max Planck Institute of Colloids and Interfaces"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "02cc4937452789e0",
+  "title": "Continuous flow tube-in-tube oxidation of HMF to FDCA using heterogeneous manganese catalyst under mild conditions",
+  "authors": [
+   "Federica Valentini",
+   "Francesco Ferlin",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5gc02459e",
+  "url": "https://doi.org/10.1039/d5gc02459e",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Tube-in-Tube"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Perugia"
   ],
   "added": "2026-07-27"
  }

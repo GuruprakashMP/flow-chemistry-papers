@@ -186,6 +186,34 @@
   "added": "2026-07-27"
  },
  {
+  "id": "e6e5c2bd0b56837c",
+  "title": "Flow approaches towards sustainability",
+  "authors": [
+   "Luigi Vaccaro",
+   "Daniela Lanari",
+   "Assunta Marrocchi",
+   "Giacomo Strappaveccia"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2014-01-01",
+  "year": 2014,
+  "doi": "10.1039/c4gc00410h",
+  "url": "https://doi.org/10.1039/c4gc00410h",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Perugia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e694134268a5f46f",
   "title": "New temperature strategy for direct synthesis of adipic acid on micro flow packed-bed reactors",
   "authors": [
@@ -239,6 +267,39 @@
   "relevance_score": 40,
   "affiliations": [
    "Synthetic Biologics (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "bed80160f1b96fb5",
+  "title": "Multistep Flow Procedure for the Waste-Minimized Preparation of N-Boc-²-Amino Ketones",
+  "authors": [
+   "Tommaso Angelini",
+   "Simona Bonollo",
+   "Eleonora Ballerini",
+   "Daniela Lanari",
+   "Raimondo Maggi",
+   "Oriana Piermatti",
+   "Giovanni Sartori",
+   "Luigi Vaccaro"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2014-01-01",
+  "year": 2014,
+  "doi": "10.1556/jfc-d-13-00027",
+  "url": "https://doi.org/10.1556/jfc-d-13-00027",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Multistep Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Perugia",
+   "University of Parma"
   ],
   "added": "2026-07-27"
  },
@@ -490,6 +551,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "3359d077ac322b37",
+  "title": "Development of Novel Catalysts for Continuous Flow Synthesis",
+  "authors": [
+   "Tetsu Tsubogo",
+   "Shū Kobayashi"
+  ],
+  "journal": "Journal of Synthetic Organic Chemistry Japan",
+  "publisher": "Society of Synthetic Organic Chemistry, Japan",
+  "published": "2014-01-01",
+  "year": 2014,
+  "doi": "10.5059/yukigoseikyokaishi.72.484",
+  "url": "https://doi.org/10.5059/yukigoseikyokaishi.72.484",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Flow Synthesis",
+   "Heterogeneous Catalyst",
+   "Hydrogenation"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "1f2a197d777490d9",
   "title": "Flow chemistry with microchemical systems for energy, chemicals, and sustainability",
   "authors": [
@@ -510,6 +601,41 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1c3f0a236ca681c3",
+  "title": "Catalytic nanoreactors in continuous flow: hydrogenation inside single-walled carbon nanotubes using supercritical CO 2",
+  "authors": [
+   "Thomas W. Chamberlain",
+   "James H. Earley",
+   "Daniel P. Anderson",
+   "Andrei N. Khlobystov",
+   "Richard A. Bourne"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2014-01-01",
+  "year": 2014,
+  "doi": "10.1039/c3cc49247h",
+  "url": "https://doi.org/10.1039/c3cc49247h",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Hydrogenation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Nottingham",
+   "Centre de Nanosciences et de Nanotechnologies",
+   "University of Leeds",
+   "Institute for Research and Development"
+  ],
   "added": "2026-07-27"
  }
 ]

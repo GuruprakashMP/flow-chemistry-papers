@@ -1,5 +1,38 @@
 [
  {
+  "id": "fc238006cd0fd6e6",
+  "title": "Solar‐Driven Continuous CO 2 Reduction to CO and CH 4 using Heterogeneous Photothermal Catalysts: Recent Progress and Remaining Challenges",
+  "authors": [
+   "J. Schuurmans",
+   "Tom M. Masson",
+   "Stefan D. A. Zondag",
+   "Pascal Buskens",
+   "Timothy Noël"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2023-11-30",
+  "year": 2023,
+  "doi": "10.1002/cssc.202301405",
+  "url": "https://doi.org/10.1002/cssc.202301405",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Flow Photoreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "University of Amsterdam",
+   "Netherlands Organisation for Applied Scientific Research",
+   "Hasselt University",
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "823c0ba3438ec3e4",
   "title": "Electrifying Friedel–Crafts Intramolecular Alkylation toward 1,1-Disubstituted Tetrahydronaphthalenes",
   "authors": [
@@ -36,6 +69,38 @@
    "University of Graz",
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "27115b742d2ac5a2",
+  "title": "Telescoped synthesis of vicinal diamines via ring-opening of electrochemically generated aziridines in flow",
+  "authors": [
+   "Marharyta V. Laktsevich‐Iskryk",
+   "Anastasiya Krech",
+   "Mihhail Fokin",
+   "Mariliis Kimm",
+   "Tatsiana Jarg",
+   "Timothy Noël",
+   "Maksim Ošeka"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2023-11-29",
+  "year": 2023,
+  "doi": "10.1007/s41981-023-00296-8",
+  "url": "https://doi.org/10.1007/s41981-023-00296-8",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Telescoped Synthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tallinn University of Technology",
+   "University of Amsterdam"
   ],
   "added": "2026-07-27"
  },
@@ -215,6 +280,45 @@
    "Nawi Graz",
    "Research Center Pharmaceutical Engineering (Austria)",
    "Roche (Switzerland)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "124cb493ef8f90a4",
+  "title": "Development of a Continuous Flow Grignard Reaction to Manufacture a Key Intermediate of Ipatasertib",
+  "authors": [
+   "Dainis Kaldre",
+   "Severin Stocker",
+   "David Linder",
+   "Helena Reymond",
+   "Andreas Schuster",
+   "Jens Lamerz",
+   "Stefan Hildbrand",
+   "Kurt Püntener",
+   "Malcolm B. Berry",
+   "Jörg Sedelmeier"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2023-11-07",
+  "year": 2023,
+  "doi": "10.1021/acs.oprd.3c00235",
+  "url": "https://doi.org/10.1021/acs.oprd.3c00235",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Design of Experiments",
+   "Grignard"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Roche (Switzerland)",
+   "BH Consulting (Ireland)"
   ],
   "added": "2026-07-27"
  }

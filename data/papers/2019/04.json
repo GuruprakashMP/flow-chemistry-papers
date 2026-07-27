@@ -1,5 +1,78 @@
 [
  {
+  "id": "e83f89702d8ea5af",
+  "title": "Anionic Polymerization Using Flow Microreactors",
+  "authors": [
+   "Yusuke Takahashi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2019-04-18",
+  "year": 2019,
+  "doi": "10.3390/molecules24081532",
+  "url": "https://doi.org/10.3390/molecules24081532",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "18a5b4bdd49095ab",
+  "title": "Highly Selective and Solvent-Dependent Reduction of Nitrobenzene to N -Phenylhydroxylamine, Azoxybenzene, and Aniline Catalyzed by Phosphino-Modified Polymer Immobilized Ionic Liquid-Stabilized AuNPs",
+  "authors": [
+   "Simon Doherty",
+   "Julian G. Knight",
+   "Tom Backhouse",
+   "Ryan J. Summers",
+   "Einas Abood",
+   "William Simpson",
+   "William Paget",
+   "Richard A. Bourne",
+   "Thomas W. Chamberlain",
+   "Rebecca Stones",
+   "Kevin R. J. Lovelock",
+   "Jake M. Seymour",
+   "Mark A. Isaacs",
+   "Christopher Hardacre",
+   "Helen Daly",
+   "Nicholas H. Rees"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2019-04-15",
+  "year": 2019,
+  "doi": "10.1021/acscatal.9b00347",
+  "url": "https://doi.org/10.1021/acscatal.9b00347",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Newcastle University",
+   "University of Leeds",
+   "University of Reading",
+   "Research Complex at Harwell",
+   "University of Manchester",
+   "University of Oxford"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "acab6a4a8052df78",
   "title": "Seven‐Step Continuous Flow Synthesis of Linezolid Without Intermediate Purification",
   "authors": [
@@ -25,6 +98,42 @@
   "relevance_score": 84,
   "affiliations": [
    "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "66b0bbbd888edcc3",
+  "title": "Online Stereochemical Process Monitoring by Molecular Rotational Resonance Spectroscopy",
+  "authors": [
+   "Justin L. Neill",
+   "Yuan Yang",
+   "Matt T. Muckle",
+   "Roger L. Reynolds",
+   "Luca Evangelisti",
+   "Reilly E. Sonstrom",
+   "Brooks H. Pate",
+   "B. Frank Gupton"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2019-04-02",
+  "year": 2019,
+  "doi": "10.1021/acs.oprd.9b00089",
+  "url": "https://doi.org/10.1021/acs.oprd.9b00089",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "BrightSpec",
+   "Virginia Commonwealth University",
+   "University of Bologna",
+   "University of Virginia"
   ],
   "added": "2026-07-27"
  }

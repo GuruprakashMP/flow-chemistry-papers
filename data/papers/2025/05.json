@@ -1,5 +1,43 @@
 [
  {
+  "id": "0d16cb85c5f737e3",
+  "title": "Sub-Millisecond Mixing in a T-Mixer in the Turbulent Flow Regime: Quantitative Chemiluminescence-Based Analysis",
+  "authors": [
+   "Yuki Ishii",
+   "Tomohiro Ogawa",
+   "Ken Onda",
+   "Hiromichi V. Miyagishi",
+   "Yosuke Ashikari",
+   "Aiichiro Nagaki",
+   "Shusaku Asano",
+   "Kiyoshi Miyata"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2025-05-30",
+  "year": 2025,
+  "doi": "10.26434/chemrxiv-2025-llskv",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-llskv",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Reactor Engineering & Design",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microreactor",
+   "T-Mixer",
+   "Throughput"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Kyushu University",
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "fa13f0adcc298dd9",
   "title": "Fiber-based plasmonic microreactor for flow chemistry",
   "authors": [
@@ -43,6 +81,69 @@
    "Euroimmun Medizinische Labordiagnostika (Germany)",
    "Universidad de La Laguna",
    "University of Warsaw"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d86554657122f2ce",
+  "title": "Front Cover: O ‐ C Glycoside Rearrangement through Time‐Controlled Electrochemical Flow Strategy: Switching between Kinetics and Thermodynamics (Eur. J. Org. Chem. 19/2025)",
+  "authors": [
+   "Yosuke Ashikari",
+   "Yiyue Yao",
+   "Takuya Kudo",
+   "Masahiro Takumi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2025-05-27",
+  "year": 2025,
+  "doi": "10.1002/ejoc.202581901",
+  "url": "https://doi.org/10.1002/ejoc.202581901",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Electrochemistry",
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "73c160e1082c531a",
+  "title": "Amino Acid‒Catalyzed Marschalk Reaction and Its Application to an Integrated Continuous-Flow Synthetic Process",
+  "authors": [
+   "Hiroyuki Miyamura",
+   "Shusaku Asano",
+   "Ryosuke Kajiyama",
+   "Masataka Takata",
+   "Shū Kobayashi",
+   "Yoshihiro Kon"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2025-05-16",
+  "year": 2025,
+  "doi": "10.21203/rs.3.rs-6644372/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-6644372/v1",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology",
+   "The University of Tokyo"
   ],
   "added": "2026-07-27"
  }

@@ -30,6 +30,37 @@
   "added": "2026-07-27"
  },
  {
+  "id": "5f02f66ce81c0d63",
+  "title": "Front Cover: Sequential‐Flow Synthesis of Donepezil: A Green and Sustainable Strategy Featuring Heterogeneous Catalysis and Hydrogenation (Chem. Eur. J. 59/2024)",
+  "authors": [
+   "Haruro Ishitani",
+   "Hideyuki Sogo",
+   "Yuichi Furiya",
+   "Shū Kobayashi"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2024-10-23",
+  "year": 2024,
+  "doi": "10.1002/chem.202485901",
+  "url": "https://doi.org/10.1002/chem.202485901",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Hydrogenation"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "The University of Tokyo",
+   "Towa Pharmaceutical (Japan)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f4315b3a3b76b531",
   "title": "Interaction of Light with Gas-Liquid Interfaces: Influence on Photon Absorption in Continuous-Flow Photoreactors",
   "authors": [
@@ -130,6 +161,50 @@
   "affiliations": [
    "TU Dortmund University",
    "Constructor University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c7c7fa7f9ac739ae",
+  "title": "Automated Optimization of a Multistep, Multiphase Continuous Flow Process for Pharmaceutical Synthesis",
+  "authors": [
+   "Sarah L. Boyall",
+   "Holly Clarke",
+   "Thomas M. Dixon",
+   "Robert W. M. Davidson",
+   "Kevin Leslie",
+   "Graeme Clemens",
+   "Frans L. Muller",
+   "Adam D. Clayton",
+   "Richard A. Bourne",
+   "Thomas W. Chamberlain"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2024-10-03",
+  "year": 2024,
+  "doi": "10.1021/acssuschemeng.4c05015",
+  "url": "https://doi.org/10.1021/acssuschemeng.4c05015",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Self-Optimization & Machine Learning",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Hydrogenation",
+   "Telescoping"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Leeds",
+   "Institute of Process Engineering",
+   "Dr. Reddy's Laboratories (United Kingdom)",
+   "AstraZeneca (Brazil)",
+   "Pharmaceutical Product Development (India)"
   ],
   "added": "2026-07-27"
  }

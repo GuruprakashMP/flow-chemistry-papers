@@ -1,5 +1,45 @@
 [
  {
+  "id": "9635df021daf0c36",
+  "title": "Practical Synthesis of 6-Amino-1-hydroxy-2,1-benzoxaborolane: A Key Intermediate of DNDI-6148",
+  "authors": [
+   "Pankaj V. Khairnar",
+   "John M. Saathoff",
+   "Daniel W. Cook",
+   "Samuel R. Hochstetler",
+   "Urvish R. Pandya",
+   "Stephen J. Robinson",
+   "Vijay Satam",
+   "Kai Donsbach",
+   "B. Frank Gupton",
+   "limei jin",
+   "Charles S. Shanahan"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2024-03-29",
+  "year": 2024,
+  "doi": "10.1021/acs.oprd.4c00031",
+  "url": "https://doi.org/10.1021/acs.oprd.4c00031",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation",
+   "Nitration",
+   "Scale-up"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Virginia Commonwealth University",
+   "Drugs for Neglected Diseases Initiative"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "40f6b43e75b0f111",
   "title": "Catalytic Ammonia Formation in a Microreaction Chamber with Electrically Intensified Arc Plasma",
   "authors": [
@@ -78,6 +118,44 @@
   "added": "2026-07-27"
  },
  {
+  "id": "ee8832fe3727673a",
+  "title": "Photocatalytic Functionalization of Dehydroalanine‐Derived Peptides in Batch and Flow",
+  "authors": [
+   "Nikolaos Kaplaneris",
+   "Merve Akdeniz",
+   "Méritxell Fillols",
+   "Francesca Arrighi",
+   "Fabian Raymenants",
+   "Gana Sanil",
+   "Daniel T. Gryko",
+   "Timothy Noël"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-03-18",
+  "year": 2024,
+  "doi": "10.1002/anie.202403271",
+  "url": "https://doi.org/10.1002/anie.202403271",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Scale-up"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Amsterdam",
+   "Sapienza University of Rome",
+   "Institute of Organic Chemistry",
+   "Polish Academy of Sciences",
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ccc56c1b1fecfc55",
   "title": "Fluent Integration of Laboratory Data into Biocatalytic Process Simulation Using EnzymeML, DWSIM, and Ontologies",
   "authors": [
@@ -143,6 +221,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "e635421c7b287995",
+  "title": "Highly Productive Flow Synthesis for Lithiation, Borylation, and/or Suzuki Coupling Reaction",
+  "authors": [
+   "Hiroki Soutome",
+   "Kei Maekawa",
+   "Yosuke Ashikari",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2024-03-13",
+  "year": 2024,
+  "doi": "10.1021/acs.oprd.4c00021",
+  "url": "https://doi.org/10.1021/acs.oprd.4c00021",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Flow Synthesis",
+   "Lithiation"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "300e0f11577014ff",
   "title": "Preparation of Sulfonyl Chlorides by Oxidative Chlorination of Thiols and Disulfides using HNO 3 /HCl/O 2 in a Flow Reactor",
   "authors": [
@@ -171,6 +279,38 @@
   "affiliations": [
    "University of Graz",
    "Research Center Pharmaceutical Engineering (Austria)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d354413c5db0e72b",
+  "title": "Front Cover: Flowmicro In‐Line Analysis‐Driven Design of Reactions Mediated by Unstable Intermediates: Flash Monitoring Approach (Chem. Eur. J. 18/2024)",
+  "authors": [
+   "Yosuke Ashikari",
+   "Rikako Yoshioka",
+   "Yuya Yonekura",
+   "Dong‐eun Yoo",
+   "Kazuhiro Okamoto",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2024-03-12",
+  "year": 2024,
+  "doi": "10.1002/chem.202400844",
+  "url": "https://doi.org/10.1002/chem.202400844",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hokkaido University",
+   "Toagosei (Japan)"
   ],
   "added": "2026-07-27"
  },
@@ -228,6 +368,66 @@
   "relevance_score": 78,
   "affiliations": [
    "University College Dublin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d60a3256c0b4e595",
+  "title": "Synthesis of Deuterated Compounds by Flow Chemistry",
+  "authors": [
+   "Shintaro Kamio",
+   "Kazuhiro Okamoto",
+   "Takehiro Yamagishi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "ChemPlusChem",
+  "publisher": "Wiley",
+  "published": "2024-03-07",
+  "year": 2024,
+  "doi": "10.1002/cplu.202300744",
+  "url": "https://doi.org/10.1002/cplu.202300744",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Hokkaido University of Science",
+   "Hokkaido Pharmaceutical University",
+   "Hokkaido University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b91c5336b1d98436",
+  "title": "Life cycle assessment of a process for paracetamol flow synthesis from bio-waste derived β-pinene",
+  "authors": [
+   "Sabine Hallamasek",
+   "Veera Ubbenjans",
+   "Alexei A. Lapkin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-03-01",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-7jn0d",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-7jn0d",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Cambridge",
+   "RWTH Aachen University"
   ],
   "added": "2026-07-27"
  }
