@@ -33,6 +33,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "f940fe70c7d18faa",
+  "title": "Automated Dynamic Flow Experimentation for Rapid Kinetic Fitting of Transition Metal Catalysis",
+  "authors": [
+   "Florian Wagner",
+   "Klara Silber",
+   "Tobias A. Doliner",
+   "C. Oliver Kappe"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2026-05-15",
+  "year": 2026,
+  "doi": "10.1002/ange.6944441",
+  "url": "https://doi.org/10.1002/ange.6944441",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Design of Experiments",
+   "Kinetic Modeling",
+   "Reaction Optimization"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Graz",
+   "Research Center Pharmaceutical Engineering (Austria)",
+   "Graz University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "2ba277725f706ee3",
   "title": "Phase-inversion constructed Mo2C@NC microreactor with optimized pyridinic N p-band center for high-performance Li-S batteries.",
   "authors": [
@@ -59,6 +94,36 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6be45a19c9c732c9",
+  "title": "A participatory action research project on implementing a laboratory course on flow chemistry in a master’s program at university",
+  "authors": [
+   "Ricarda Ringdorfer",
+   "Doris Dallinger",
+   "C. Oliver Kappe",
+   "Philipp Spitzer"
+  ],
+  "journal": "Eurasia Journal of Mathematics Science and Technology Education",
+  "publisher": "Modestum Limited",
+  "published": "2026-05-04",
+  "year": 2026,
+  "doi": "10.29333/ejmste/18508",
+  "url": "https://doi.org/10.29333/ejmste/18508",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Graz University of Technology",
+   "Private Pädagogische Hochschule Augustinum",
+   "Nawi Graz"
+  ],
   "added": "2026-07-27"
  }
 ]

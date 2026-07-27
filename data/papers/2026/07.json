@@ -382,6 +382,39 @@
   "added": "2026-07-27"
  },
  {
+  "id": "3849211bd8c301e5",
+  "title": "Scale‐up and Automation of Multicomponent Reactions via Continuous Flow",
+  "authors": [
+   "Johannes Bingold",
+   "Andreas Brunschweiger",
+   "Norbert Kockmann"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-07-22",
+  "year": 2026,
+  "doi": "10.1002/9783527853793.ch12",
+  "url": "https://doi.org/10.1002/9783527853793.ch12",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Residence Time",
+   "Scale-up"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Würzburg",
+   "TU Dortmund University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "10f681e294534e45",
   "title": "Recyclable Pt‐Catalyzed Biphase Hydrosilylation on Water: From Functionalized Monomers to Polymer Materials",
   "authors": [
@@ -842,6 +875,38 @@
   ],
   "relevance_score": 82,
   "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "60e2e2ddfe431bc4",
+  "title": "Guiding photochemical process intensification through kinetic diagnostics",
+  "authors": [
+   "J. Schuurmans",
+   "Prakash C. Tiwari",
+   "Timothy Noël"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-07-03",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15005636/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15005636/v1",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Gas-Liquid",
+   "Process Intensification",
+   "Productivity"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "High Institute for Management Sciences",
+   "Vrije Universiteit Amsterdam"
+  ],
   "added": "2026-07-27"
  }
 ]
