@@ -23,16 +23,38 @@ _Last updated: 2026-07-27 (initial release)_
 - [x] Pioneers list: Ley, Jensen, Yoshida, Kappe, Seeberger, Jamison, Noël,
       Hessel, Watts, Cantillo, Kirschning, Browne, Gilmore, Baumann,
       Baxendale, Kockmann, Wirth and more (config/pioneers.json).
-- [x] Unit tests adapted and passing.
-- [x] First live pipeline run + relevance inspection.
-- [x] Published: repo `GuruprakashMP/flow-chemistry-papers`, GitHub Pages.
-- [x] Daily workflow at 05:00 UTC collects, classifies, rebuilds, commits.
+- [x] Unit tests adapted and passing (40).
+- [x] First live pipeline run + relevance inspection; vocabulary tuned to
+      reject nuclear microreactors, medical/organ-on-chip microfluidics and
+      the metaphorical "acts as a microreactor" usage.
+- [x] Published: repo `GuruprakashMP/flow-chemistry-papers`, GitHub Pages
+      live at https://guruprakashmp.github.io/flow-chemistry-papers/
+- [x] Daily workflow at 05:00 UTC collects, classifies, rebuilds, commits
+      (verified green in CI).
 
 ## Ongoing (automatic, no maintenance)
 
 - Daily GitHub Actions run keeps the index growing from 8 sources.
-- Historical backfill 1975→2026 running newest-first in year batches via the
-  backfill workflow (pioneer sweep first as its own run).
+
+## Historical backfill — in progress
+
+Run newest-first, one year per workflow run, driven by a local monitor.
+
+- Pioneer sweep: **DONE** (two runs, 31 author entries, +1,801 papers). The
+  OpenAlex quoted-phrase author search is spelling-exact, so accented forms
+  are listed alongside plain ones ("Timothy Noël" matches 387 works,
+  "Timothy Noel" only 82).
+- Topic years confirmed done: **2026, 2025, 2024, 2023** (+9,201 papers).
+- Remaining: **1975–2022**.
+- Index size at pause: 11,040 papers.
+
+A year counts as done only when its run logs `=== YYYY done`; an
+`INCOMPLETE` year lost papers to a transient failure and must be re-run.
+
+**Paused** pending the sibling `mechanochemistry-papers` backfill finishing —
+OpenAlex throttling appears shared across the sibling projects, so only one
+backfill chain runs at a time. Check with
+`gh run list -R GuruprakashMP/mechanochemistry-papers` before resuming.
 
 ## Known issues (inherited environment quirks)
 
