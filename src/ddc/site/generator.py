@@ -191,8 +191,9 @@ def _categories_page(papers: List[Paper], ctx: dict) -> str:
         for cat, count in sorted(counts.items()))  # alphabetical for findability
     content = f"""
 <h1>Categories</h1>
-<p>Every paper belongs to several categories — a chemistry field and the
-data-driven methods it uses. Click one to browse.</p>
+<p>Every paper belongs to several categories — the flow chemistry it reports
+and the reactor technology, analytics or methods it uses. Click one to
+browse.</p>
 <ul class="tile-list">{items or '<li>No categories yet.</li>'}</ul>"""
     return page(title=f"Categories · {ctx['site_title']}", content=content,
                 depth=1, active="categories/index.html", **ctx)
