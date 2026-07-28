@@ -1,5 +1,91 @@
 [
  {
+  "id": "91a944028c08391c",
+  "title": "Improved Method for Determining the Stable-Hydrogen Isotopic Composition (δD) of Complex Organic Materials of Environmental Interest",
+  "authors": [
+   "Leonard I. Wassenaar",
+   "Keith A. Hobson"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-29",
+  "year": 2000,
+  "doi": "10.1021/es990804i",
+  "url": "https://doi.org/10.1021/es990804i",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Nitration",
+   "Throughput"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Environment and Climate Change Canada"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a936e03b93fb20f1",
+  "title": "Hydrolysis of N 2 O 5 on Submicron Sulfuric Acid Aerosols",
+  "authors": [
+   "Mattias Hallquist",
+   "David J. Stewart",
+   "Jacob Baker",
+   "R. A. Cox"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-27",
+  "year": 2000,
+  "doi": "10.1021/jp9939625",
+  "url": "https://doi.org/10.1021/jp9939625",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Laminar Flow"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "8daadd96f1b6b16f",
+  "title": "High-Pressure Flow Reactor: Design and Application to Pertinent Oil Recovery Studies",
+  "authors": [
+   "Rafiq Akhtar Kazi",
+   "H. B. Al-Saffar",
+   "Dennis Price",
+   "R. Hughes"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-27",
+  "year": 2000,
+  "doi": "10.1021/ef9900177",
+  "url": "https://doi.org/10.1021/ef9900177",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Salford"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "d96283a315d8d38b",
   "title": "State of the Art of Microreaction Technology",
   "authors": [
@@ -171,5 +257,491 @@
    "Fraunhofer Institute for Microengineering and Microsystems"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "989842daa6936e6f",
+  "title": "Low-Temperature (553 K) Catalytic Growth of Highly Ordered Carbon Filaments during Hydrodechlorination Reactions",
+  "authors": [
+   "Claudia Menini",
+   "Colin Park",
+   "Rik Brydson",
+   "Mark A. Keane"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-14",
+  "year": 2000,
+  "doi": "10.1021/jp000048z",
+  "url": "https://doi.org/10.1021/jp000048z",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Leeds"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "897b65302fd347f9",
+  "title": "Continuous Flow NMR with Hyperpolarized Xenon for the Characterization of Materials and Processes",
+  "authors": [
+   "Igor Moudrakovski",
+   "Andrej Nossov",
+   "Stephen Lang",
+   "Steven R. Breeze",
+   "Christopher I. Ratcliffe",
+   "Benoît Simard",
+   "Giles Santyr",
+   "John A. Ripmeester"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-14",
+  "year": 2000,
+  "doi": "10.1021/cm9908015",
+  "url": "https://doi.org/10.1021/cm9908015",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Steacie Institute for Molecular Sciences",
+   "Carleton University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d475700499b3ef57",
+  "title": "Enzymatic resolution of (S)-(+)-Naproxen in a trapped aqueous-organic solvent biphase continuous reactor",
+  "authors": [
+   "Jia-Ying Xin",
+   "Shuben Li",
+   "Yi Xu",
+   "Lailai Wang"
+  ],
+  "journal": "Biotechnology and Bioengineering",
+  "publisher": "Wiley",
+  "published": "2000-04-05",
+  "year": 2000,
+  "doi": "10.1002/(sici)1097-0290(20000405)68:1<78::aid-bit9>3.0.co;2-i",
+  "url": "https://doi.org/10.1002/(sici)1097-0290(20000405)68:1<78::aid-bit9>3.0.co;2-i",
+  "source": "openalex",
+  "categories": [
+   "Biocatalysis & Enzymatic Flow",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "CSTR",
+   "Continuous Flow",
+   "Immobilized Enzyme"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7b6e44f18e4316b9",
+  "title": "Direct Use of Kinetic Parameters for Modeling and Simulation of a Selective Catalytic Reduction Process",
+  "authors": [
+   "Ho Jeong Chae",
+   "Soo Tae Choo",
+   "Hoon Choi",
+   "In‐Sik Nam",
+   "Hee Sung Yang",
+   "Seok Lyong Song"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2000-04-04",
+  "year": 2000,
+  "doi": "10.1021/ie9907270",
+  "url": "https://doi.org/10.1021/ie9907270",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Packed Bed",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Pohang University of Science and Technology",
+   "Hyundai Heavy Industries (South Korea)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e8b8fcf05d1f02d0",
+  "title": "Animal Guts as Nonideal Chemical Reactors: Partial Mixing and Axial Variation in Absorption Kinetics",
+  "authors": [
+   "Peter A. Jumars"
+  ],
+  "journal": "The American Naturalist",
+  "publisher": "University of Chicago Press",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1086/303334",
+  "url": "https://doi.org/10.1086/303334",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "CSTR",
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Maine Medical Center",
+   "University of Maine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d89733fc7aeca536",
+  "title": "Effect of C/N values on microbial simultaneous removal of carbonaceous and nitrogenous substances in wastewater by single continuous-flow fluidized-bed bioreactor containing porous carrier particles",
+  "authors": [
+   "Xin‐Hui Xing",
+   "Byong-Hee Jun",
+   "Mari Yanagida",
+   "Yasunori Tanji",
+   "Hajime Unno"
+  ],
+  "journal": "Biochemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1016/s1369-703x(99)00056-x",
+  "url": "https://doi.org/10.1016/s1369-703x(99)00056-x",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yokohama National University",
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c8175fa38ab04d15",
+  "title": "Soot Catalytic Combustion in the Presence of NO",
+  "authors": [
+   "Paolo Ciambelli",
+   "Vincenzo Palma",
+   "Paola Russo",
+   "Salvatore Vaccaro"
+  ],
+  "journal": "Combustion Science and Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1080/00102200008947268",
+  "url": "https://doi.org/10.1080/00102200008947268",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Microreactor",
+   "Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Salerno",
+   "University of Naples Federico II"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c74141c5ac0410b1",
+  "title": "Continuous-Flow Culture of Hepatocytes in Sugar-derivatized Poly(lactide-co-glycolide) Scaffolds Prepared by Gas-foaming/salt-leaching Method",
+  "authors": [
+   "Tae Gwan Park"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "",
+  "url": "https://koasas.kaist.ac.kr/handle/10203/128053",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bde80120ffc7f1de",
+  "title": "Chemically Reacting Flows and Continuous Flow Stirred Tank Reactors: The Large Diffusivity Limit",
+  "authors": [
+   "David E. Norman"
+  ],
+  "journal": "Journal of Dynamics and Differential Equations",
+  "publisher": "Springer Science+Business Media",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1023/a:1009016408577",
+  "url": "https://doi.org/10.1023/a:1009016408577",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Minnesota"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ad945c37331fad54",
+  "title": "Contribution of Multivitamins, Air, and Light in the Generation of Peroxides in Adult and Neonatal Parenteral Nutrition Solutions",
+  "authors": [
+   "Sophie Laborie",
+   "Jean‐Claude Lavoie",
+   "Marjolain Pineault",
+   "Philippe Chessex"
+  ],
+  "journal": "Annals of Pharmacotherapy",
+  "publisher": "SAGE Publishing",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1345/aph.19182",
+  "url": "https://doi.org/10.1345/aph.19182",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre Hospitalier Universitaire Sainte-Justine",
+   "Université de Montréal"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a9b9ce1de6a676a4",
+  "title": "Evaluation of a continuous flow centrifuge for recovery of Cryptosporidium oocysts from large volume water samples",
+  "authors": [
+   "C Swales"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1016/s0043-1354(99)00353-x",
+  "url": "https://doi.org/10.1016/s0043-1354(99)00353-x",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Moredun Research Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a5c1db6043b4b778",
+  "title": "Animal Guts as Ideal Chemical Reactors: Maximizing Absorption Rates",
+  "authors": [
+   "Peter A. Jumars"
+  ],
+  "journal": "The American Naturalist",
+  "publisher": "University of Chicago Press",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1086/303333",
+  "url": "https://doi.org/10.1086/303333",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Process Intensification"
+  ],
+  "tags": [
+   "CSTR",
+   "Flow Reactor",
+   "Plug-Flow Reactor",
+   "Throughput"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Maine Medical Center",
+   "University of Maine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9a6fc8b166f6dfd3",
+  "title": "Fluorimetric Measurement of Plasma α-l-Fucosidase Activity with a Centrifugal Analyzer: Reference Values in a Healthy French Adult Population",
+  "authors": [
+   "Maryvonne Cuer",
+   "Anne Barnier",
+   "Pauline de La Salmonière",
+   "Geneviève Durand",
+   "Nathalie Séta"
+  ],
+  "journal": "Clinical Chemistry",
+  "publisher": "American Association for Clinical Chemistry",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1093/clinchem/46.4.560f",
+  "url": "https://doi.org/10.1093/clinchem/46.4.560f",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Hôpital Bichat-Claude-Bernard",
+   "Hôpital Saint-Louis"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "835595bb4383ded1",
+  "title": "Cr(VI) Reduction in Continuous-Flow Coculture Bioreactor",
+  "authors": [
+   "Yi‐Tin Wang",
+   "Evans M. N. Chirwa",
+   "Hai Shen"
+  ],
+  "journal": "Journal of Environmental Engineering",
+  "publisher": "American Society of Civil Engineers",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1061/(asce)0733-9372(2000)126:4(300)",
+  "url": "https://doi.org/10.1061/(asce)0733-9372(2000)126:4(300)",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Kentucky",
+   "Consolidated Safety Services-Dynamac (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "609c803c36191276",
+  "title": "Development of a simulation system for a continuous flow, quiescent, aqueous environment",
+  "authors": [
+   "Wendell P. Ela"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1016/s0043-1354(99)00299-7",
+  "url": "https://doi.org/10.1016/s0043-1354(99)00299-7",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Arizona"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0d27632932e3ba60",
+  "title": "Field Evaluation of Surge and Continuous Flows in Furrow Irrigation Systems",
+  "authors": [
+   "Tarek Gamal El-Dine",
+   "Magdy Hosny"
+  ],
+  "journal": "Water Resources Management",
+  "publisher": "Springer Science+Business Media",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1023/a:1008189004992",
+  "url": "https://doi.org/10.1023/a:1008189004992",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Water Research Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "05002eaa4dda6523",
+  "title": "Determination of Vanadium by Solid-Phase Spectrophotometry in a Continuous Flow System",
+  "authors": [
+   "María José Ayora‐Cañada",
+   "Antonio Molina‐Díaz",
+   "M. I. Pascual-Reguera"
+  ],
+  "journal": "International Journal of Environmental & Analytical Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "2000-04-01",
+  "year": 2000,
+  "doi": "10.1080/03067310008034139",
+  "url": "https://doi.org/10.1080/03067310008034139",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Jaén"
+  ],
+  "added": "2026-07-28"
  }
 ]
