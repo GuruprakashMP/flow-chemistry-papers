@@ -1,5 +1,247 @@
 [
  {
+  "id": "2fdf87ae7ba57a2b",
+  "title": "Two- and Three-Phase Flows in Bubble Columns: Numerical Predictions and Measurements",
+  "authors": [
+   "D. Mitra‐Majumdar",
+   "Bakhtier Farouk",
+   "Y. T. Shah",
+   "Nelson Macken",
+   "Yool-Kwon Oh"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-30",
+  "year": 1998,
+  "doi": "10.1021/ie980022i",
+  "url": "https://doi.org/10.1021/ie980022i",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow",
+   "Gas-Liquid & Multiphase Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Hydrogenation",
+   "Multiphase Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Drexel University",
+   "Clemson University",
+   "Swarthmore College"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "21e7f974c324c1b1",
+  "title": "Hydrodynamic Focusing on a Silicon Chip: Mixing Nanoliters in Microseconds",
+  "authors": [
+   "James B. Knight",
+   "Ashvin Vishwanath",
+   "James P. Brody",
+   "Robert H. Austin"
+  ],
+  "journal": "Physical Review Letters",
+  "publisher": "American Physical Society",
+  "published": "1998-04-27",
+  "year": 1998,
+  "doi": "10.1103/physrevlett.80.3863",
+  "url": "https://doi.org/10.1103/physrevlett.80.3863",
+  "source": "openalex",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Princeton University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f41fcbffbd8eca92",
+  "title": "Release of HCN, NH 3 , and HNCO from the Thermal Gas-Phase Cracking of Coal Pyrolysis Tars",
+  "authors": [
+   "Elmer B. Ledesma",
+   "Chun‐Zhu Li",
+   "Peter F. Nelson",
+   "John C. Mackie"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-23",
+  "year": 1998,
+  "doi": "10.1021/ef970147k",
+  "url": "https://doi.org/10.1021/ef970147k",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Commonwealth Scientific and Industrial Research Organisation",
+   "The University of Sydney",
+   "Monash University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2c5a9d2416db59e2",
+  "title": "Cryogenic spectrometric ellipsometer for studying solid state optical properties",
+  "authors": [
+   "A. I. Belyaeva",
+   "T. G. Grebennik"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1998-04-20",
+  "year": 1998,
+  "doi": "10.1117/12.306252",
+  "url": "https://doi.org/10.1117/12.306252",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "B. Verkin Institute for Low Temperature Physics and Engineering of the National Academy of Sciences of Ukraine"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e2078640db6f748c",
+  "title": "Direct Observation of H 2 O 2 during Alcohol Oxidation by O 2 in Supercritical Water",
+  "authors": [
+   "Eric Croiset",
+   "Steven F. Rice"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-16",
+  "year": 1998,
+  "doi": "10.1021/ie970711e",
+  "url": "https://doi.org/10.1021/ie970711e",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Sandia National Laboratories California"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2feafb322be15548",
+  "title": "Asymmetric Cyanomet Valency Hybrid Hemoglobin, (α +CN- β +CN- )(αβ): The Issue of Valency Exchange",
+  "authors": [
+   "Naoya Shibayama",
+   "Hideki Morimoto",
+   "Satoshi Saigo"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-16",
+  "year": 1998,
+  "doi": "10.1021/bi980134d",
+  "url": "https://doi.org/10.1021/bi980134d",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Jichi Medical University",
+   "The University of Osaka"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e578632073371b91",
+  "title": "Photoionization spectra and ionization energies of HSCl, HSSSH, SSCl, and HSSCl formed in the reaction system Cl/Cl2/H2S",
+  "authors": [
+   "Jürg Eberhard",
+   "Wei-Chen Chen",
+   "Chin‐Hui Yu",
+   "Yuan‐Pern Lee",
+   "Bing‐Ming Cheng"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1998-04-15",
+  "year": 1998,
+  "doi": "10.1063/1.476026",
+  "url": "https://doi.org/10.1063/1.476026",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National Tsing Hua University",
+   "National Synchrotron Radiation Research Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a0a7ff363e5af0e3",
+  "title": "Supercritical Water Oxidation of NH 3 over a MnO 2 /CeO 2 Catalyst",
+  "authors": [
+   "Zhong Ding",
+   "Lixiong Li",
+   "Daniel Wade",
+   "Earnest F. Gloyna"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-15",
+  "year": 1998,
+  "doi": "10.1021/ie9709345",
+  "url": "https://doi.org/10.1021/ie9709345",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling",
+   "Oxidation",
+   "Packed Bed",
+   "Packed-Bed Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "0e5f14b4f07277e0",
   "title": "Finite Element Approach for Reactive Microfluidic Devices",
   "authors": [
@@ -25,5 +267,263 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "f2dc85c0359bf30b",
+  "title": "The Kinetics of the Low‐Pressure Chemical Vapor Deposition of Polycrystalline Silicon from Silane",
+  "authors": [
+   "W.L.M. Weerts",
+   "M.H.J.M. de Croon",
+   "Guy Marin"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1149/1.1838458",
+  "url": "https://doi.org/10.1149/1.1838458",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e3e8a450ebb97d2c",
+  "title": "Screening for Inhibitors of Dihydrofolate Reductase using Pulsed Ultrafiltration Mass Spectrometry",
+  "authors": [
+   "Dejan Nikolić",
+   "Richard B. van Breemen"
+  ],
+  "journal": "Combinatorial Chemistry & High Throughput Screening",
+  "publisher": "Bentham Science Publishers",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.2174/138620730101220118152909",
+  "url": "https://doi.org/10.2174/138620730101220118152909",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Illinois Chicago"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e1dd458839fa8c6d",
+  "title": "OXIDATIVE COUPLING OF METHANE USING INORGANIC MEMBRANE REACTORS",
+  "authors": [
+   "Yi Ma",
+   "William R. Moser",
+   "Anthony G. Dixon",
+   "A. Ramachandra",
+   "Ya Lu",
+   "C. Binkerd"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.2172/766717",
+  "url": "https://doi.org/10.2172/766717",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d8ca2de6b27bfde1",
+  "title": "Original Article",
+  "authors": [
+   "Fukushi",
+   "Matsui",
+   "Tambo"
+  ],
+  "journal": "Journal of Water Supply Research and Technology—AQUA",
+  "publisher": "UWA Publishing",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1046/j.1365-2087.1998.00085.x",
+  "url": "https://doi.org/10.1046/j.1365-2087.1998.00085.x",
+  "source": "openalex",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hachinohe Institute of Technology",
+   "Gifu University",
+   "Hokkaido University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "aaf5b1aa2d562e8e",
+  "title": "Performance of Human Mass Balance Studies with Stable Isotope‐Labeled Drug and Continuous Flow‐Isotope Ratio Mass Spectrometry: A Progress Report",
+  "authors": [
+   "Thomas R. Browne",
+   "George Szabó",
+   "Alfred Ajami",
+   "David G. Browne"
+  ],
+  "journal": "The Journal of Clinical Pharmacology",
+  "publisher": "Wiley",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1002/j.1552-4604.1998.tb04429.x",
+  "url": "https://doi.org/10.1002/j.1552-4604.1998.tb04429.x",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Boston University",
+   "Boston Medical Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "47782532050072e8",
+  "title": "Lung Volume Changes (ΔVL) During Nasal Continuous Positive Airway Pressure (NCPAP) in Preterm Infants: Comparison of a Variable vs a Continuous Flow Device † 989",
+  "authors": [
+   "Sherry E. Courtney",
+   "Kee H. Pyon",
+   "Judy Saslow",
+   "Robert Habib"
+  ],
+  "journal": "Pediatric Research",
+  "publisher": "Springer Nature",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1203/00006450-199804001-01010",
+  "url": "https://doi.org/10.1203/00006450-199804001-01010",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Rutgers, The State University of New Jersey",
+   "Cooper University Hospital"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "335306437d36aa24",
+  "title": "Direct determination of biogenic amines in wine by integrating continuous flow clean-up and capillary electrophoresis with indirect UV detection",
+  "authors": [
+   "Lourdes Arce",
+   "Ángel Ríos",
+   "Miguel Valcárcel"
+  ],
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1016/s0021-9673(97)01255-7",
+  "url": "https://doi.org/10.1016/s0021-9673(97)01255-7",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Capillary",
+   "Continuous Flow"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "2cf7591a2caa1ddd",
+  "title": "Emissions from burning tire-derived fuel (TDF): Comparison of batch combustion of tire chips and continuous combustion of tire crumb mixed with coal",
+  "authors": [
+   "Yiannis A. Levendis",
+   "Ajay Atal",
+   "Joel Carlson"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/585269",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Residence Time"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "004e61c33d65b789",
+  "title": "Synthesis of a Benzenium Ion in a Zeolite with Use of a Catalytic Flow Reactor",
+  "authors": [
+   "Teng Xu",
+   "Dewey H. Barich",
+   "Patrick W. Goguen",
+   "Weiguo Song",
+   "Zhike Wang",
+   "John B. Nicholas",
+   "James F. Haw"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1998-04-01",
+  "year": 1998,
+  "doi": "10.1021/ja973791m",
+  "url": "https://doi.org/10.1021/ja973791m",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pacific Northwest National Laboratory",
+   "Environmental Molecular Sciences Laboratory",
+   "Texas A&M University"
+  ],
+  "added": "2026-07-28"
  }
 ]
