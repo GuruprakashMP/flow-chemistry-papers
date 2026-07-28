@@ -1,5 +1,121 @@
 [
  {
+  "id": "b3d5282e50143452",
+  "title": "Nanocatalysts for the electrochemical reduction of carbon dioxide to fuels",
+  "authors": [
+   "Kalyani Gupta"
+  ],
+  "journal": "UCL Discovery (University College London)",
+  "publisher": "University College London",
+  "published": "2018-02-28",
+  "year": 2018,
+  "doi": "",
+  "url": "https://discovery.ucl.ac.uk/id/eprint/10044005/",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Synthesis",
+   "Oxidation",
+   "Throughput"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1206cc5bd5f908d8",
+  "title": "Review of Gasification of Organic Compounds in Continuous-Flow, Supercritical Water Reactors",
+  "authors": [
+   "Brian R. Pinkard",
+   "David J. Gorman",
+   "Kartik Tiwari",
+   "John C. Kramlich",
+   "Per G. Reinhall",
+   "Igor Novosselov"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-28",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.8b00068",
+  "url": "https://doi.org/10.1021/acs.iecr.8b00068",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Washington"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fd506d0f9fb73e6c",
+  "title": "Conversão catalítica do óleo de soja utilizando catalisadores de ni e ni-sn suportados em γ-al2o3",
+  "authors": [
+   "Camilo Aurélio Brandão Crisóstomo"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "10.14393/ufu.te.2018.761",
+  "url": "https://doi.org/10.14393/ufu.te.2018.761",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Hydrogenation"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Agricultural Research Service",
+   "Universidade Federal de Uberlândia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d80dc8fb7ea8b1ca",
+  "title": "Effect of Preoperative Atrial Fibrillation on Patients with Chronic Heart Failure Who Undergo Long-Term Continuous-Flow LVAD Implantation",
+  "authors": [
+   "Chitaru Kurihara",
+   "Andre C. Critsinelis",
+   "Masashi Kawabori",
+   "Tadahisa Sugiura",
+   "Andrew B. Civitello",
+   "Jeffrey A. Morgan"
+  ],
+  "journal": "ASAIO Journal",
+  "publisher": "Lippincott Williams & Wilkins",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "10.1097/mat.0000000000000762",
+  "url": "https://doi.org/10.1097/mat.0000000000000762",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Baylor College of Medicine",
+   "Tokyo Metropolitan Geriatric Hospital"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "8a9e4f0e87e46adb",
   "title": "Accelerating Visible‐Light Photoredox Catalysis in Continuous‐Flow Reactors",
   "authors": [
@@ -31,6 +147,318 @@
    "Eindhoven University of Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "62a49a4a9a784eac",
+  "title": "Modelling of Bubbly Flow Using CFD-PBM Solver in OpenFOAM: Study of Local Population Balance Models and Extended Quadrature Method of Moments Applications",
+  "authors": [
+   "Ehsan Askari",
+   "Pierre Proulx",
+   "Alberto Passalacqua"
+  ],
+  "journal": "ChemEngineering",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "10.3390/chemengineering2010008",
+  "url": "https://doi.org/10.3390/chemengineering2010008",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Gas-Liquid"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Université de Sherbrooke",
+   "Iowa State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6268878e7118cf6f",
+  "title": "SO 3 Removal from Flue Gas with Ca(OH) 2 in Entrained Flow Reactors",
+  "authors": [
+   "Hui Wang",
+   "Denggao Chen",
+   "Zhenshan Li",
+   "Dinghai Zhang",
+   "Ningsheng Cai",
+   "Jin Yang",
+   "Geng Wei"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "10.1021/acs.energyfuels.8b00274",
+  "url": "https://doi.org/10.1021/acs.energyfuels.8b00274",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tsinghua University",
+   "Dongfang Electric Corporation (China)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "492b53ebee05dff9",
+  "title": "Fluid therapy with maintenance electrolyte solutions containing different glicaemic precursors administered in continuous flow by nasorruminal route in bovines",
+  "authors": [
+   "Pedro Ancelmo Nunes Ermita"
+  ],
+  "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "publisher": "LA Referencia",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "",
+  "url": "http://www.locus.ufv.br/handle/123456789/18692",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "031b02c5bceffb76",
+  "title": "Continuous manufacturing and analytical characterization of fixed-dose, multilayer orodispersible films",
+  "authors": [
+   "Yasmin Thabet",
+   "Dominique Jasmin Lunter",
+   "Jörg Breitkreutz"
+  ],
+  "journal": "European Journal of Pharmaceutical Sciences",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-27",
+  "year": 2018,
+  "doi": "10.1016/j.ejps.2018.02.030",
+  "url": "https://doi.org/10.1016/j.ejps.2018.02.030",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Manufacturing"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Heinrich Heine University Düsseldorf",
+   "University of Tübingen"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b68604fcb0e20e06",
+  "title": "Highly Efficient Au Nanocatalysts for Heterogeneous Continuous-Flow Reactions Using Hollow CeO 2 Microspheres as a Functional Skeleton",
+  "authors": [
+   "Sai Zhang",
+   "Huan Zhang",
+   "Ting Ni",
+   "Xuetao Shen"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-26",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.7b04637",
+  "url": "https://doi.org/10.1021/acs.iecr.7b04637",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4daa21fc8e17265d",
+  "title": "Kinetics Study of Heterogeneous Bromine Release from the Reaction between Gaseous Ozone and Aqueous Bromide Solution",
+  "authors": [
+   "Yosuke Sakamoto",
+   "Motoki Goda",
+   "Jun Hirokawa"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-26",
+  "year": 2018,
+  "doi": "10.1021/acs.jpca.7b12819",
+  "url": "https://doi.org/10.1021/acs.jpca.7b12819",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Gas-Liquid"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "37627218f2b9da45",
+  "title": "Supercritical Fluid Flow Synthesis to Support Sustainable Production of Engineered Nanomaterials: Case Study of Titanium Dioxide",
+  "authors": [
+   "Michael Tsang",
+   "Gilles Philippot",
+   "Cyril Aymonier",
+   "Guido Sonnemann"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-26",
+  "year": 2018,
+  "doi": "10.1021/acssuschemeng.7b04800",
+  "url": "https://doi.org/10.1021/acssuschemeng.7b04800",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Synthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Institut de Chimie de la Matière Condensée de Bordeaux",
+   "Institut Polytechnique de Bordeaux",
+   "Institut des Sciences Moléculaires"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "33295ecb3a91d776",
+  "title": "Zinc oxide nano-enabled microfluidic reactor for water purification and its applicability to volatile organic compounds",
+  "authors": [
+   "Imadeddine Azzouz",
+   "Yamina Ghozlane Habba",
+   "Martine Capochichi‐Gnambodoe",
+   "Frédéric Marty",
+   "Jérôme Vial",
+   "Yamin Leprince‐Wang",
+   "Tarik Bourouina"
+  ],
+  "journal": "Microsystems & Nanoengineering",
+  "publisher": "Springer Nature",
+  "published": "2018-02-26",
+  "year": 2018,
+  "doi": "10.1038/micronano.2017.93",
+  "url": "https://doi.org/10.1038/micronano.2017.93",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Reactor",
+   "Microfluidics",
+   "Microreactor",
+   "Residence Time"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "UniLaSalle Amiens (ESIEE-Amiens)",
+   "ESIEA University",
+   "Université Gustave Eiffel",
+   "Laboratoire d'électronique, systèmes de communication et microsystèmes",
+   "Centre National de la Recherche Scientifique",
+   "ParisTech",
+   "Université Paris Sciences et Lettres",
+   "Sorbonne Université",
+   "Chimie Biologie Innovation",
+   "ESPCI Paris"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "40d0d71335e833b4",
+  "title": "Prediction of Necrotic Core and Hypoxic Zone of Multicellular Spheroids in a Microbioreactor with a U-Shaped Barrier",
+  "authors": [
+   "Maryam Barisam",
+   "Mohammad Said Saidi",
+   "Navid Kashaninejad",
+   "Nam‐Trung Nguyen"
+  ],
+  "journal": "Micromachines",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-25",
+  "year": 2018,
+  "doi": "10.3390/mi9030094",
+  "url": "https://doi.org/10.3390/mi9030094",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Microfluidics"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Sharif University of Technology",
+   "Griffith University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "adb30e150d9ecbdf",
+  "title": "Bioinspired Design of Alcohol Dehydrogenase@nano TiO2 Microreactors for Sustainable Cycling of NAD+/NADH Coenzyme",
+  "authors": [
+   "Sen Lin",
+   "Shiyong Sun",
+   "Ke Wang",
+   "Kexuan Shen",
+   "Biaobiao Ma",
+   "Yuquan Ren",
+   "Xiaoyu Fan"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-24",
+  "year": 2018,
+  "doi": "10.3390/nano8020127",
+  "url": "https://doi.org/10.3390/nano8020127",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor",
+   "Oxidation"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Southwest University of Science and Technology",
+   "China International Science and Technology Cooperation"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "fab33c5b3ed2044f",
@@ -68,6 +496,310 @@
   "added": "2026-07-27"
  },
  {
+  "id": "bad36a2cdccb5d48",
+  "title": "Bridging to a Long‐Term Ventricular Assist Device With Short‐Term Mechanical Circulatory Support",
+  "authors": [
+   "Chitaru Kurihara",
+   "Masashi Kawabori",
+   "Tadahisa Sugiura",
+   "Andre C. Critsinelis",
+   "Suwei Wang",
+   "William E. Cohn",
+   "Andrew B. Civitello",
+   "O.H. Frazier",
+   "Jeffrey A. Morgan"
+  ],
+  "journal": "Artificial Organs",
+  "publisher": "Wiley",
+  "published": "2018-02-23",
+  "year": 2018,
+  "doi": "10.1111/aor.13112",
+  "url": "https://doi.org/10.1111/aor.13112",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Baylor College of Medicine",
+   "Cardiopulmonary Research Science and Technology Institute",
+   "Tokyo Metropolitan Geriatric Hospital",
+   "Houston Methodist"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9c5c4b803a1eba8e",
+  "title": "Síntese de nanopartículas baseadas em peptídeos via tecnologia microfluídica",
+  "authors": [
+   "Thays França Naves"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-23",
+  "year": 2018,
+  "doi": "10.47749/t/unicamp.2018.998778",
+  "url": "https://doi.org/10.47749/t/unicamp.2018.998778",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics",
+   "Residence Time"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "83357f27d7a7b631",
+  "title": "Photocatalytic transformation in aerogel-based optofluidic microreactors",
+  "authors": [
+   "Yaprak Özbakır",
+   "Alexandr Jonáš",
+   "Alper Kıraz",
+   "Can Erkey"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-23",
+  "year": 2018,
+  "doi": "10.1117/12.2292309",
+  "url": "https://doi.org/10.1117/12.2292309",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microreactor",
+   "Monolith"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Koç University",
+   "Czech Academy of Sciences, Institute of Scientific Instruments"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7c0b184a30cb4f38",
+  "title": "Sustainable synthesis of N-methylated peptides in a continuous-flow fixed bed reactor",
+  "authors": [
+   "Aliz Szloszár",
+   "István M. Mándity",
+   "Ferenc Fülöp"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-23",
+  "year": 2018,
+  "doi": "10.1007/s41981-018-0002-9",
+  "url": "https://doi.org/10.1007/s41981-018-0002-9",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Szeged",
+   "Hungarian Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e950bacd79047219",
+  "title": "Development of an Organometallic Flow Chemistry Reaction at Pilot-Plant Scale for the Manufacture of Verubecestat",
+  "authors": [
+   "David A. Thaisrivongs",
+   "John R. Naber",
+   "Nicholas J. Rogus",
+   "Glenn Spencer"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-22",
+  "year": 2018,
+  "doi": "10.1021/acs.oprd.7b00385",
+  "url": "https://doi.org/10.1021/acs.oprd.7b00385",
+  "source": "openalex",
+  "categories": [
+   "In-line Analysis & PAT",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Rate",
+   "Organolithium",
+   "PAT",
+   "Static Mixer"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c6248997680962b0",
+  "title": "Removal of elemental mercury from flue gas by recyclable CuCl2 modified magnetospheres from fly ash. Part 4. Performance of sorbent injection in an entrained flow reactor system",
+  "authors": [
+   "Jianping Yang",
+   "Yongchun Zhao",
+   "Xin Guo",
+   "Hailong Li",
+   "Junying Zhang",
+   "Chuguang Zheng"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-22",
+  "year": 2018,
+  "doi": "10.1016/j.fuel.2018.01.132",
+  "url": "https://doi.org/10.1016/j.fuel.2018.01.132",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central South University",
+   "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "627a1dbcb081ef2f",
+  "title": "Micromotors for “Chemistry-on-the-Fly”",
+  "authors": [
+   "Emil Karshalev",
+   "Berta Esteban‐Fernández de Ávila",
+   "Joseph Wang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-22",
+  "year": 2018,
+  "doi": "10.1021/jacs.8b00088",
+  "url": "https://doi.org/10.1021/jacs.8b00088",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of California San Diego"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "91c53c90881bbc2b",
+  "title": "Palladium–poly(ionic liquid) membranes for permselective sonochemical flow catalysis",
+  "authors": [
+   "Mark R. Wilson",
+   "Rajkumar Kore",
+   "A.W. Ritchie",
+   "R.C. Fraser",
+   "Simon K. Beaumont",
+   "Rajendra Srivastava",
+   "J. P. S. Badyal"
+  ],
+  "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-21",
+  "year": 2018,
+  "doi": "10.1016/j.colsurfa.2018.02.044",
+  "url": "https://doi.org/10.1016/j.colsurfa.2018.02.044",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Durham University",
+   "Indian Institute of Technology Ropar"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4fc49ffd6c747c44",
+  "title": "Computational Fluid Dynamics simulation of hydrothermal liquefaction of microalgae in a continuous plug-flow reactor",
+  "authors": [
+   "Panneerselvam Ranganathan",
+   "S. Savithri"
+  ],
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-21",
+  "year": 2018,
+  "doi": "10.1016/j.biortech.2018.02.076",
+  "url": "https://doi.org/10.1016/j.biortech.2018.02.076",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Institute for Interdisciplinary Science and Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "467dc7dcfb46435f",
+  "title": "CFD modeling of sawdust gasification in a lab-scale entrained flow reactor based on char intrinsic kinetics. Part 1: Model development",
+  "authors": [
+   "Xiaoyan Gao",
+   "Yaning Zhang",
+   "Fubing Bao",
+   "Bingxi Li",
+   "Yijun Zhao",
+   "Cunfeng Ke",
+   "Baocheng Jiang"
+  ],
+  "journal": "Chemical Engineering and Processing - Process Intensification",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-21",
+  "year": 2018,
+  "doi": "10.1016/j.cep.2018.02.017",
+  "url": "https://doi.org/10.1016/j.cep.2018.02.017",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Harbin Institute of Technology",
+   "China Jiliang University",
+   "University of Minnesota"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "1c651eb8af435796",
   "title": "Literally Green Chemical Synthesis of Artemisinin from Plant Extracts",
   "authors": [
@@ -99,6 +831,1090 @@
    "Otto-von-Guericke-Universität Magdeburg"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "f4cdada49eb69a62",
+  "title": "Potassium Capture by Kaolin, Part 2: K 2 CO 3 , KCl, and K 2 SO 4",
+  "authors": [
+   "Guoliang Wang",
+   "Peter Arendt Jensen",
+   "Hao Wu",
+   "Flemming Frandsen",
+   "Bo Sander",
+   "Peter Glarborg"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.1021/acs.energyfuels.7b04055",
+  "url": "https://doi.org/10.1021/acs.energyfuels.7b04055",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Technical University of Denmark",
+   "Ørsted (Denmark)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f2f79c20d03827ef",
+  "title": "Clinical applications of acoustophoresis in blood based diagnostics",
+  "authors": [
+   "Klara Petersson"
+  ],
+  "journal": "Lund University Publications (Lund University)",
+  "publisher": "Lund University",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "",
+  "url": "https://lup.lub.lu.se/record/9fbc7a10-897a-4f80-814f-9ccdec62c85f",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d71e97d0018b7289",
+  "title": "Fracta-like Microreactor for Hydrogen Production",
+  "authors": [
+   "Jonas Gerson"
+  ],
+  "journal": "Inquiry Queen s Undergraduate Research Conference Proceedings",
+  "publisher": "",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.24908/iqurcp.10728",
+  "url": "https://doi.org/10.24908/iqurcp.10728",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "adbd42ae2701b4bb",
+  "title": "Iron oxide-modified nanoporous geopolymers for arsenic removal from ground water",
+  "authors": [
+   "Dong‐Kyun Seo",
+   "Dinesh Medpelli",
+   "R.P. Sandoval",
+   "Laurie Sherrill",
+   "Kiril Hristovski"
+  ],
+  "journal": "Resource-Efficient Technologies",
+  "publisher": "",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.18799/24056529/2015/1/25",
+  "url": "https://doi.org/10.18799/24056529/2015/1/25",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Arizona State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "85fb310bae6bc4b0",
+  "title": "Continuous Preparation of Water-Dispersible Magnetite Nanoparticles by Electrochemical Synthesis",
+  "authors": [
+   "Do-Hyeong Kim",
+   "Jin‐Soo Park",
+   "Moon‐Sung Kang"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.1166/jnn.2018.15398",
+  "url": "https://doi.org/10.1166/jnn.2018.15398",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Sangmyung University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dfe3d439b82a8b13",
+  "title": "Combustion Chemistry of Fuels: Quantitative Speciation Data Obtained from an Atmospheric High-temperature Flow Reactor with Coupled Molecular-beam Mass Spectrometer",
+  "authors": [
+   "Markus Köhler",
+   "Patrick Oßwald",
+   "Dominik Krueger",
+   "Ryan Whitside"
+  ],
+  "journal": "Journal of Visualized Experiments",
+  "publisher": "MyJOVE",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.3791/56965",
+  "url": "https://doi.org/10.3791/56965",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Laminar Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d223e496f2d2441f",
+  "title": "Optical coherence tomography characterization of femtosecond laser manufactured microfluidic circuits",
+  "authors": [
+   "Anderson Zanardi de Freitas",
+   "Lucas Ramos De Pretto",
+   "Ricardo Elgul Samad",
+   "Wagner de Rossi"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1117/12.2289937",
+  "url": "https://doi.org/10.1117/12.2289937",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidics",
+   "Microreactor"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Instituto de Pesquisas Energéticas e Nucleares"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "79c7fc1cb3486b05",
+  "title": "CFD modeling of sawdust gasification in a lab-scale entrained flow reactor based on char intrinsic kinetics. Part 2: Parameter study and multi-objective optimization",
+  "authors": [
+   "Yaning Zhang",
+   "Xiaoyan Gao",
+   "Fubing Bao",
+   "Bingxi Li",
+   "Yijun Zhao",
+   "Cunfeng Ke",
+   "Baocheng Jiang"
+  ],
+  "journal": "Chemical Engineering and Processing - Process Intensification",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1016/j.cep.2018.02.018",
+  "url": "https://doi.org/10.1016/j.cep.2018.02.018",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Minnesota",
+   "Harbin Institute of Technology",
+   "China Jiliang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "50558c9399c34cf3",
+  "title": "Continuous Synthesis of Ag/AgCl/ZnO Composites Using Flow Chemistry and Photocatalytic Application",
+  "authors": [
+   "Sha Tao",
+   "Mei Yang",
+   "Huihui Chen",
+   "Shuainan Zhao",
+   "Guangwen Chen"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.7b05263",
+  "url": "https://doi.org/10.1021/acs.iecr.7b05263",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Rate",
+   "Microfluidics"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "45e9d7b8c38a4a84",
+  "title": "P-alm Oil Mill Effluent Treatment Using Rotating Biological Contactor",
+  "authors": [
+   "Mohd. Azraii Kassim",
+   "Mohd Nor Othman"
+  ],
+  "journal": "Malaysian Journal of Civil Engineering",
+  "publisher": "",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.11113/mjce.v11.15616",
+  "url": "https://doi.org/10.11113/mjce.v11.15616",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Technology Malaysia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "181de0a7ed64bfa7",
+  "title": "The effect of HRT on biohydrogen production from acid hydrolyzed waste wheat in a continuously operated packed bed reactor",
+  "authors": [
+   "Betül Kirli",
+   "İlgi Karapınar"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1016/j.ijhydene.2018.01.175",
+  "url": "https://doi.org/10.1016/j.ijhydene.2018.01.175",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Dokuz Eylül University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "12215bb7ba0f3616",
+  "title": "Pattern Formation in Chemical Systems: Roles of Open Reactors",
+  "authors": [
+   "Wing Yim Tam"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1201/9780429493362-14",
+  "url": "https://doi.org/10.1201/9780429493362-14",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "CSTR",
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0c717f484a332fe2",
+  "title": "Synthesis of Cd-free Quantum Dots using Micro Flow Reactor",
+  "authors": [
+   "Hirakawa"
+  ],
+  "journal": "The Chemical Society of Japan",
+  "publisher": "",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "",
+  "url": "https://confit.atlas.jp/guide/event/csj98th/subject/1PB-061/detail",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9e8df0098c13d1f3",
+  "title": "Sulfamethoxazole photocatalytic degradation in a continuous flow reactor using artificial radiation",
+  "authors": [
+   "Pablo Ricardo Piceti Pretto",
+   "Soraya Moreno Palácio",
+   "Élvio Antônio de Campos",
+   "Claudia Regina Pazini",
+   "Márcia Teresinha Veit"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-18",
+  "year": 2018,
+  "doi": "10.1016/j.jece.2018.02.018",
+  "url": "https://doi.org/10.1016/j.jece.2018.02.018",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Universidade Estadual do Oeste do Paraná"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "08039848007bf780",
+  "title": "Sensitivity and Bifurcation Analysis of a DAE Model for a Microbial Electrolysis Cell",
+  "authors": [
+   "Harry J. Dudley",
+   "Lu Lü",
+   "Zhiyong Jason Ren",
+   "David M. Bortz"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2018-02-18",
+  "year": 2018,
+  "doi": "10.48550/arxiv.1802.06326",
+  "url": "https://doi.org/10.48550/arxiv.1802.06326",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9cafacf2d6592869",
+  "title": "Palladium nanoparticles supported on ceria thin film for capillary microreactor application",
+  "authors": [
+   "Abdulkadir Tanimu",
+   "Saheed A. Ganiyu",
+   "Oki Muraza",
+   "Khalid Alhooshani"
+  ],
+  "journal": "Process Safety and Environmental Protection",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-17",
+  "year": 2018,
+  "doi": "10.1016/j.cherd.2018.01.040",
+  "url": "https://doi.org/10.1016/j.cherd.2018.01.040",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Capillary",
+   "Capillary Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "King Fahd University of Petroleum and Minerals"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4906918dca5c4bc2",
+  "title": "Organic Synthesis: Taming Chemistry using Enabling Technologies",
+  "authors": [
+   "Shing Hing Lau"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2018-02-17",
+  "year": 2018,
+  "doi": "10.17863/cam.20374",
+  "url": "https://doi.org/10.17863/cam.20374",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Gas-Liquid",
+   "Hydrogenation",
+   "Oxidation",
+   "Tube-in-Tube"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "dfe71d8300eb3d02",
+  "title": "Single-step full-state feedback control design for nonlinear hyperbolic PDEs",
+  "authors": [
+   "Qingqing Xu",
+   "Ilyasse Aksikas",
+   "Stevan Dubljević"
+  ],
+  "journal": "International Journal of Control",
+  "publisher": "Taylor & Francis",
+  "published": "2018-02-16",
+  "year": 2018,
+  "doi": "10.1080/00207179.2018.1442024",
+  "url": "https://doi.org/10.1080/00207179.2018.1442024",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Alberta",
+   "Qatar University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c4fcd244213adb89",
+  "title": "Enzymatic Continuous Flow Synthesis of Thiol‐Terminated Poly(δ‐Valerolactone) and Block Copolymers",
+  "authors": [
+   "Ning Zhu",
+   "Weijun Huang",
+   "Xin Hu",
+   "Yihuan Liu",
+   "Zheng Fang",
+   "Kai Guo"
+  ],
+  "journal": "Macromolecular Rapid Communications",
+  "publisher": "Wiley",
+  "published": "2018-02-16",
+  "year": 2018,
+  "doi": "10.1002/marc.201700807",
+  "url": "https://doi.org/10.1002/marc.201700807",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Microreactor",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Nanjing Tech University",
+   "The Synergetic Innovation Center for Advanced Materials"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b1bbb24a6ea930db",
+  "title": "Modeling chemical looping syngas production in a microreactor using perovskite oxygen carriers",
+  "authors": [
+   "Hadi Ebrahimi",
+   "Amir M. Rahmani"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-16",
+  "year": 2018,
+  "doi": "10.1016/j.ijhydene.2018.01.108",
+  "url": "https://doi.org/10.1016/j.ijhydene.2018.01.108",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Amirkabir University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "43fb94463785f32f",
+  "title": "Droplet-microfluidics for the controlled synthesis and efficient photocatalysis of TiO 2 nanoparticles",
+  "authors": [
+   "Arabinda Baruah",
+   "Astha Singh",
+   "Vandana Sheoran",
+   "Bhanu Prakash",
+   "Ashok K. Ganguli"
+  ],
+  "journal": "Materials Research Express",
+  "publisher": "IOP Publishing",
+  "published": "2018-02-16",
+  "year": 2018,
+  "doi": "10.1088/2053-1591/aaafed",
+  "url": "https://doi.org/10.1088/2053-1591/aaafed",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Droplet",
+   "Flow Microreactor",
+   "Microfluidic Reactor",
+   "Microfluidics",
+   "Microreactor"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Institute of Nano Science and Technology",
+   "Indian Institute of Technology Delhi"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b23179f648895009",
+  "title": "Continuous-Flow Electrosynthesis of Benzothiazoles and Thiazolopyridines",
+  "authors": [
+   "Victor Snieckus",
+   "Yuan Zhang"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2018-02-15",
+  "year": 2018,
+  "doi": "10.1055/s-0037-1609308",
+  "url": "https://doi.org/10.1055/s-0037-1609308",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "81622cfbbc374579",
+  "title": "Controlled Tandem Isomerization of o-Lith-iated Aryl Benzyl Ethers in Continuous Flow",
+  "authors": [
+   "Paul Knochel",
+   "Marthe Ketels"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2018-02-15",
+  "year": 2018,
+  "doi": "10.1055/s-0037-1609099",
+  "url": "https://doi.org/10.1055/s-0037-1609099",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Lithiation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7f4d78f7a025feb1",
+  "title": "Esterification of benzoic acid in a continuous flow microwave reactor",
+  "authors": [
+   "Ádám Tajti",
+   "Nóra Popovics-Tóth",
+   "Erika Bálint",
+   "György Keglevich"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-15",
+  "year": 2018,
+  "doi": "10.1007/s41981-018-0001-x",
+  "url": "https://doi.org/10.1007/s41981-018-0001-x",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Budapest University of Technology and Economics"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4b56eb0298706110",
+  "title": "Bulk and molecular-level characterization of laboratory-aged biomass burning organic aerosol from oak leaf and heartwood fuels",
+  "authors": [
+   "Claire Fortenberry",
+   "Michael J. Walker",
+   "Yaping Zhang",
+   "Dhruv Mitroo",
+   "W. H. Brune",
+   "Brent J. Williams"
+  ],
+  "journal": "Atmospheric chemistry and physics",
+  "publisher": "Copernicus Publications",
+  "published": "2018-02-15",
+  "year": 2018,
+  "doi": "10.5194/acp-18-2199-2018",
+  "url": "https://doi.org/10.5194/acp-18-2199-2018",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Washington University in St. Louis",
+   "University of Miami",
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f351a912c48f5d8e",
+  "title": "Continuous manufacturing: Is the process mean stationary?",
+  "authors": [
+   "Levente L. Simon"
+  ],
+  "journal": "AIChE Journal",
+  "publisher": "Wiley",
+  "published": "2018-02-14",
+  "year": 2018,
+  "doi": "10.1002/aic.16125",
+  "url": "https://doi.org/10.1002/aic.16125",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Manufacturing"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Illinois Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "98f06c3750997f91",
+  "title": "Cellulose Depolymerization over Heterogeneous Catalysts",
+  "authors": [
+   "Abhijit Shrotri",
+   "Hirokazu Kobayashi",
+   "Atsushi Fukuoka"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-14",
+  "year": 2018,
+  "doi": "10.1021/acs.accounts.7b00614",
+  "url": "https://doi.org/10.1021/acs.accounts.7b00614",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Heterogeneous Catalyst",
+   "Oxidation"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "74cb8093cd71eb22",
+  "title": "Study on Sooting Behavior and Soot Precursor Formation Process in Premixed C1-C4 n-Alkane/Air Flames using a Micro Flow Reactor with a Controlled Temperature Profile",
+  "authors": [
+   "Ajit Kumar Dubey"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2018-02-14",
+  "year": 2018,
+  "doi": "",
+  "url": "https://tohoku.repo.nii.ac.jp/records/126883",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f83f3f46296908b5",
+  "title": "Photocatalytic Reduction of CO2 from Simulated Flue Gas with Colored Anatase",
+  "authors": [
+   "Yebin Guan",
+   "Ming Xia",
+   "Alessandro Marchetti",
+   "Xiaohong Wang",
+   "Weicheng Cao",
+   "Hanxi Guan",
+   "Xueqian Kong"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.3390/catal8020078",
+  "url": "https://doi.org/10.3390/catal8020078",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Anqing Normal University",
+   "Zhejiang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f0ced6a2e654d65e",
+  "title": "Process intensification using corning® advanced-flow™ reactor for continuous flow synthesis of biodiesel from fresh oil and used cooking oil",
+  "authors": [
+   "Srinath Suranani",
+   "Yadagiri Maralla",
+   "Shekhar M. Gaikwad",
+   "Shirish H. Sonawane"
+  ],
+  "journal": "Chemical Engineering and Processing - Process Intensification",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1016/j.cep.2018.02.013",
+  "url": "https://doi.org/10.1016/j.cep.2018.02.013",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Process Intensification"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "National Institute of Technology Warangal",
+   "Tata Technologies (India)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ef57d8d3b88e958d",
+  "title": "Photocatalytic degradation of H 2 S in the gas-phase using a continuous flow reactor coated with TiO 2 -based acrylic paint",
+  "authors": [
+   "Eduardo Borges Lied",
+   "Camilo Freddy Mendoza Morejon",
+   "Rodrigo Leonardo de Oliveira Basso",
+   "Ana Paula Trevisan",
+   "Paulo Rodrigo Stival Bittencourt",
+   "Fábio Luiz Fronza"
+  ],
+  "journal": "Environmental Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1080/09593330.2018.1440010",
+  "url": "https://doi.org/10.1080/09593330.2018.1440010",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Flow Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Universidade Tecnológica Federal do Paraná",
+   "Universidade Estadual do Oeste do Paraná",
+   "Universidade Federal da Integração Latino-Americana"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a1d972615cbf52ba",
+  "title": "A continuous-flow external ventricular assist device for cardiogenic shock: Evolution over 10 years",
+  "authors": [
+   "Masahiko Ando",
+   "A.R. Garan",
+   "Hiroo Takayama",
+   "Veli K. Topkara",
+   "Jiho Han",
+   "Paul Kurlansky",
+   "M. Yuzefpolskaya",
+   "Maryjane Farr",
+   "P.C. Colombo",
+   "Yoshifumi Naka",
+   "Koji Takeda"
+  ],
+  "journal": "Journal of Thoracic and Cardiovascular Surgery",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1016/j.jtcvs.2017.12.148",
+  "url": "https://doi.org/10.1016/j.jtcvs.2017.12.148",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Columbia University Irving Medical Center"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9f99b5adc579f6c3",
+  "title": "Dehydration of an Insoluble Urea Byproduct Enables the Condensation of DCC and Malonic Acid in Flow",
+  "authors": [
+   "Alexander G. O’Brien",
+   "Eric M. Ricci",
+   "Michel Journet"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1021/acs.oprd.7b00375",
+  "url": "https://doi.org/10.1021/acs.oprd.7b00375",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "GlaxoSmithKline (United States)"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "866b1b8701083ba6",
+  "title": "The effect of shear flow on microreactor clogging",
+  "authors": [
+   "Luca Sicignano",
+   "Giovanna Tomaiuolo",
+   "Antonio Perazzo",
+   "Steven P. Nolan",
+   "Pier Luca Maffettone",
+   "Stefano Guido"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1016/j.cej.2018.02.037",
+  "url": "https://doi.org/10.1016/j.cej.2018.02.037",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Naples Federico II",
+   "Ghent University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "7fa01c74917d4c66",
+  "title": "A Training on: Continuous Manufacturing (Direct Compaction) of Solid Dose Pharmaceutical Products",
+  "authors": [
+   "Sara Moghtadernejad",
+   "M. Sebastian Escotet‐Espinoza",
+   "Sarang Oka",
+   "Ravendra Singh",
+   "Zhanjie Liu",
+   "Andrés D. Román-Ospino",
+   "Tianyi Li",
+   "Sonia M. Razavi",
+   "Savitha S. Panikar",
+   "James V. Scicolone",
+   "Gerardo Callegari",
+   "Douglas B. Hausner",
+   "Fernando J. Muzzio"
+  ],
+  "journal": "Journal of Pharmaceutical Innovation",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1007/s12247-018-9313-5",
+  "url": "https://doi.org/10.1007/s12247-018-9313-5",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Manufacturing"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Rutgers, The State University of New Jersey"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1319254b3df5d1ee",
+  "title": "Peripheral Artery Disease and Continuous Flow Left Ventricle Assist Device: An Engaging Complement Analysis May Help to Guide Treatment",
+  "authors": [
+   "Calogero Falletta",
+   "Salvatore Pasta",
+   "Giuseppe Maria Raffa",
+   "Francesca Crinó",
+   "Sergio Sciacca",
+   "Francesco Clemenza"
+  ],
+  "journal": "Artificial Organs",
+  "publisher": "Wiley",
+  "published": "2018-02-13",
+  "year": 2018,
+  "doi": "10.1111/aor.13105",
+  "url": "https://doi.org/10.1111/aor.13105",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Istituto Mediterraneo per i Trapianti e Terapie ad Alta Specializzazione",
+   "Ri.MED"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d6ae89268bbfbdfe",
+  "title": "Process Intensification of Sulfuric Acid Alkylation Using a Microstructured Chemical System",
+  "authors": [
+   "Liantang Li",
+   "Jisong Zhang",
+   "Chencan Du",
+   "Guangsheng Luo"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-12",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.8b00040",
+  "url": "https://doi.org/10.1021/acs.iecr.8b00040",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Microreaction Technology",
+   "Process Intensification"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "State Key Laboratory of Chemical Engineering",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
  },
  {
   "id": "9878ab94b64b7726",
@@ -135,6 +1951,175 @@
   "added": "2026-07-27"
  },
  {
+  "id": "68d378542672fb1b",
+  "title": "Optimization and scale up of microfluidic nanolipomer production method for preclinical and potential clinical trials",
+  "authors": [
+   "Andrew Gdowski",
+   "K. V. B. Johnson",
+   "Sunil Shah",
+   "Ignacy Gryczyński",
+   "Jamboor K. Vishwanatha",
+   "Amalendu P. Ranjan"
+  ],
+  "journal": "Journal of Nanobiotechnology",
+  "publisher": "BioMed Central",
+  "published": "2018-02-12",
+  "year": 2018,
+  "doi": "10.1186/s12951-018-0339-0",
+  "url": "https://doi.org/10.1186/s12951-018-0339-0",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Nanomaterial Synthesis in Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microfluidic Synthesis",
+   "Microfluidics",
+   "Nanoparticle Synthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of North Texas",
+   "University of North Texas Health Science Center",
+   "Tuskegee University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c5041582e044d562",
+  "title": "DNA-directed trypsin immobilization on a polyamidoamine dendrimer-modified capillary to form a renewable immobilized enzyme microreactor",
+  "authors": [
+   "Nan Wu",
+   "Siming Wang",
+   "Yang Ye",
+   "Yang Ye",
+   "Jiayi Song",
+   "Ping Su",
+   "Yi Yang",
+   "Yi Yang"
+  ],
+  "journal": "International Journal of Biological Macromolecules",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-11",
+  "year": 2018,
+  "doi": "10.1016/j.ijbiomac.2018.02.057",
+  "url": "https://doi.org/10.1016/j.ijbiomac.2018.02.057",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Capillary",
+   "Immobilized Enzyme",
+   "Microreactor"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Beijing University of Chemical Technology",
+   "Beijing Hospital",
+   "Beijing University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e781341c0b7d25f9",
+  "title": "Simultaneous removal of fluoride and arsenic from groundwater by electrocoagulation using a filter-press flow reactor with a three-cell stack",
+  "authors": [
+   "Miguel A. Sandoval",
+   "Rosalba Fuentes‐Ramírez",
+   "José L. Nava",
+   "Oscar Coreño",
+   "Yanmei Li",
+   "Jesús Horacio Hernández Anguiano"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-10",
+  "year": 2018,
+  "doi": "10.1016/j.seppur.2018.02.018",
+  "url": "https://doi.org/10.1016/j.seppur.2018.02.018",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad de Guanajuato"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "32ef9354ca92de83",
+  "title": "A continuous-flow synthesis of primary amides from hydrolysis of nitriles using hydrogen peroxide as oxidant",
+  "authors": [
+   "Wei Zhan",
+   "Ling Ji",
+   "Zemei Ge",
+   "Xin Wang",
+   "Runtao Li"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-10",
+  "year": 2018,
+  "doi": "10.1016/j.tet.2018.02.017",
+  "url": "https://doi.org/10.1016/j.tet.2018.02.017",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Peking University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fe95e3879fb9cfe7",
+  "title": "Process Intensification of Continuous Flow Synthesis of Tryptophol",
+  "authors": [
+   "Yogeshwar R. Dubhashe",
+   "Vishal Manohar Sawant",
+   "Vilas G. Gaikar"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-09",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.7b04483",
+  "url": "https://doi.org/10.1021/acs.iecr.7b04483",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Process Intensification",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Flow Synthesis",
+   "Kinetic Modeling",
+   "Process Intensification",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Institute of Chemical Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "bb0f481af25bff2e",
   "title": "A Catalyst‐Free Amination of Functional Organolithium Reagents by Flow Chemistry",
   "authors": [
@@ -166,6 +2151,1333 @@
   "added": "2026-07-27"
  },
  {
+  "id": "1d9cbc88467b2c23",
+  "title": "Study on the photocatalytic reaction kinetics in a TiO2 nanoparticles coated microreactor integrated microfluidics device",
+  "authors": [
+   "Ai‐Lin Liu",
+   "Zhong‐Qiu Li",
+   "Zeng‐Qiang Wu",
+   "Xing‐Hua Xia"
+  ],
+  "journal": "Talanta",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-09",
+  "year": 2018,
+  "doi": "10.1016/j.talanta.2018.02.028",
+  "url": "https://doi.org/10.1016/j.talanta.2018.02.028",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Microfluidics",
+   "Microreactor",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Fujian Medical University",
+   "China Pharmaceutical University",
+   "Nanjing University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fb566611a98de9d6",
+  "title": "Remediation of Gulf War Oil Spill Contaminated Soil by a Subcritical Water Extraction Process: Oil Removal, Recovery, and Degradation",
+  "authors": [
+   "Mohammad Nazrul Islam",
+   "Golam Taki",
+   "Yeon Jae Jung",
+   "Sun-Kook Jung",
+   "Jeong‐Hun Park"
+  ],
+  "journal": "Soil and Sediment Contamination An International Journal",
+  "publisher": "Taylor & Francis",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1080/15320383.2018.1432563",
+  "url": "https://doi.org/10.1080/15320383.2018.1432563",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Chonnam National University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f54b7f1bfdb16073",
+  "title": "Microfluidic synthesis of functional inorganic micro-/nanoparticles and applications in biomedical engineering",
+  "authors": [
+   "Nanjing Hao",
+   "Yuan Nie",
+   "John X. J. Zhang"
+  ],
+  "journal": "International Materials Reviews",
+  "publisher": "Taylor & Francis",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1080/09506608.2018.1434452",
+  "url": "https://doi.org/10.1080/09506608.2018.1434452",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Synthesis",
+   "Microfluidic Reactor",
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Dartmouth College"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "acdfe16f426c8365",
+  "title": "Preoperative Right-Sided Cardiac Congestion Is Associated with Gastrointestinal Bleeding in Patients with Continuous-Flow Left Ventricular Assist Devices",
+  "authors": [
+   "Yutaka Tomizawa",
+   "Akiko Tanaka",
+   "Hiroto Kitahara",
+   "Atsushi Sakuraba",
+   "Nir Uriel",
+   "Valluvan Jeevanandam",
+   "Takeyoshi Ota"
+  ],
+  "journal": "Digestive Diseases and Sciences",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1007/s10620-018-4916-8",
+  "url": "https://doi.org/10.1007/s10620-018-4916-8",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Chicago"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5508cd5c26ec2a45",
+  "title": "Long-Acting Octreotide Reduces the Recurrence of Gastrointestinal Bleeding in Patients With a Continuous-Flow Left Ventricular Assist Device",
+  "authors": [
+   "C. Juricek",
+   "Teruhiko Imamura",
+   "Ann Nguyen",
+   "Ben Chung",
+   "D. Rodgers",
+   "Nitasha Sarswat",
+   "Gene Kim",
+   "J. Raikhelkar",
+   "Takeyoshi Ota",
+   "T. Song",
+   "Daniel Burkhoff",
+   "G. Sayer",
+   "Valluvan Jeevanandam",
+   "Nir Uriel"
+  ],
+  "journal": "Journal of Cardiac Failure",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1016/j.cardfail.2018.01.011",
+  "url": "https://doi.org/10.1016/j.cardfail.2018.01.011",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Chicago Medical Center",
+   "Columbia University Irving Medical Center",
+   "Cardiovascular Research Foundation"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "51e5be56a103e1bb",
+  "title": "Revealing the Structure and Mechanism of Palladium during Direct Synthesis of Hydrogen Peroxide in Continuous Flow Using Operando Spectroscopy",
+  "authors": [
+   "Manuel Selinsek",
+   "Benedikt J. Deschner",
+   "Dmitry E. Doronkin",
+   "Thomas L. Sheppard",
+   "Jan‐Dierk Grunwaldt",
+   "Roland Dittmeyer"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1021/acscatal.7b03514",
+  "url": "https://doi.org/10.1021/acscatal.7b03514",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "Kerntechnische Entsorgung Karlsruhe (Germany)",
+   "Fraunhofer Institute for Chemical Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "d028cfa50c651917",
+  "title": "Detailed Experimental and Kinetic Modeling Study of Cyclopentadiene Pyrolysis in the Presence of Ethene",
+  "authors": [
+   "Alexander Vervust",
+   "Marko Djokic",
+   "Shamel S. Merchant",
+   "Hans‐Heinrich Carstensen",
+   "Alan E. Long",
+   "Guy Marin",
+   "William H. Green",
+   "Kevin M. Van Geem"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.1021/acs.energyfuels.7b03560",
+  "url": "https://doi.org/10.1021/acs.energyfuels.7b03560",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Ghent University",
+   "ExxonMobil (United States)",
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9d69da07a318df0c",
+  "title": "Boosting multistep synthetic organic chemistry with Corning Advanced-Flow Reactors",
+  "authors": [
+   "Jean‐Christophe M. Monbaliu"
+  ],
+  "journal": "Open Repository and Bibliography (University of Liège)",
+  "publisher": "University of Liège",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "",
+  "url": "https://orbi.uliege.be/handle/2268/221315",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Multistep & Telescoped Synthesis",
+   "Microreactors & Microfluidics",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Mesofluidic",
+   "Multistep Continuous",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Liège"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "764382fd2f770290",
+  "title": "Simultaneous anaerobic oxidation/partial nitrification–denitrification for cost-effective and efficient removal of organic carbon and nitrogen from highly polluted streams",
+  "authors": [
+   "Daniel Hosseinlou",
+   "Majid Sartaj",
+   "Robert Delatolla"
+  ],
+  "journal": "Environmental Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.1080/09593330.2018.1438522",
+  "url": "https://doi.org/10.1080/09593330.2018.1438522",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Ottawa"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6183407266fb2453",
+  "title": "Catalytic Steam and Partial Oxidation Reforming of Liquid Fuels for Application in Improving the Efficiency of Internal Combustion Engines",
+  "authors": [
+   "D. William Brookshear",
+   "Josh A. Pihl",
+   "James P. Szybist"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.1021/acs.energyfuels.7b02576",
+  "url": "https://doi.org/10.1021/acs.energyfuels.7b02576",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Oak Ridge National Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "51de236e49aa5910",
+  "title": "Continuous flow adsorption of ciprofloxacin by using a nanostructured chitin/graphene oxide hybrid material",
+  "authors": [
+   "Joaqúın González",
+   "Jonathan Germán Bafico",
+   "María Emilia Villanueva",
+   "Sergio A. Giorgieri",
+   "Guillermo Javier Copello"
+  ],
+  "journal": "Carbohydrate Polymers",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.1016/j.carbpol.2018.02.021",
+  "url": "https://doi.org/10.1016/j.carbpol.2018.02.021",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Consejo Nacional de Investigaciones Científicas y Técnicas",
+   "Universidad de Buenos Aires",
+   "Instituto de Química y Fisicoquímica Biológicas"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "25f844352101bad7",
+  "title": "Microfluidic synthesis of elastomeric microparticles: A case study in catalysis of palladium‐mediated cross‐coupling",
+  "authors": [
+   "Jeffrey A. Bennett",
+   "Andrew J. Kristof",
+   "Vishal Vasudevan",
+   "Jan Genzer",
+   "Jiří Šrogl",
+   "Milad Abolhasani"
+  ],
+  "journal": "AIChE Journal",
+  "publisher": "Wiley",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.1002/aic.16119",
+  "url": "https://doi.org/10.1002/aic.16119",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Capillary",
+   "Droplet",
+   "Flow Rate",
+   "Microfluidic Synthesis",
+   "Microfluidics",
+   "Microreaction Technology",
+   "Microreactor",
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "North Carolina State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fdb0697347906586",
+  "title": "Good Manufacturing Practices (GMP) of Magnetic Nanoparticles",
+  "authors": [
+   "Nazende Gűnday Tűreli",
+   "Akif Emre Türeli"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-06",
+  "year": 2018,
+  "doi": "10.1201/9781315168258-26",
+  "url": "https://doi.org/10.1201/9781315168258-26",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Manufacturing",
+   "GMP"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b3c6a2f3a577ffa0",
+  "title": "Selective Etching of N‐Doped Graphene Meshes as Metal‐Free Catalyst with Tunable Kinetics, High Activity and the Origin of New Catalytic Behaviors",
+  "authors": [
+   "Yunqian Dai",
+   "Jie Zhou",
+   "Chengqian Huang",
+   "Qing Gu",
+   "Yi Zeng",
+   "Wanlin Xu",
+   "Xiangyu Meng",
+   "Wanlin Fu",
+   "Yueming Sun"
+  ],
+  "journal": "Particle & Particle Systems Characterization",
+  "publisher": "Wiley",
+  "published": "2018-02-06",
+  "year": 2018,
+  "doi": "10.1002/ppsc.201700395",
+  "url": "https://doi.org/10.1002/ppsc.201700395",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Zhejiang University",
+   "Southeast University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "604a8e46ca94adff",
+  "title": "Easy-to-perform and cost-effective fabrication of continuous-flow reactors and their application for nanomaterials synthesis",
+  "authors": [
+   "Domenico A. Cristaldi",
+   "Fatih Yanar",
+   "Ali Mosayyebi",
+   "Pablo García‐Manrique",
+   "Eugen Stulz",
+   "Dario Carugo",
+   "Xunli Zhang"
+  ],
+  "journal": "New Biotechnology",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-06",
+  "year": 2018,
+  "doi": "10.1016/j.nbt.2018.02.002",
+  "url": "https://doi.org/10.1016/j.nbt.2018.02.002",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Southampton",
+   "Universidad de Oviedo"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "01d67adf84052b64",
+  "title": "Upgrading of Bio-Sourced Platform Molecules Using Flow Chemistry",
+  "authors": [
+   "Jean‐Christophe M. Monbaliu"
+  ],
+  "journal": "Open Repository and Bibliography (University of Liège)",
+  "publisher": "University of Liège",
+  "published": "2018-02-06",
+  "year": 2018,
+  "doi": "",
+  "url": "https://orbi.uliege.be/handle/2268/220072",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "University of Liège"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "fe4778927ca3ba4f",
+  "title": "Flow Photo-Nazarov Reactions of 2-Furyl Vinyl Ketones: Cyclizing a Class of Traditionally Unreactive Heteroaromatic Enones",
+  "authors": [
+   "William L. Ashley",
+   "Evan Timpy",
+   "Thomas C. Coombs"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-05",
+  "year": 2018,
+  "doi": "10.1021/acs.joc.7b03171",
+  "url": "https://doi.org/10.1021/acs.joc.7b03171",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of North Carolina Wilmington"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a95ccc4ff78d6d7f",
+  "title": "Investigation of micromixing and precipitation process in a rotating packed bed reactor with PTFE packing",
+  "authors": [
+   "Xu‐Jia Yue",
+   "Yong Luo",
+   "Qiu‐Yun Chen",
+   "Guang‐Wen Chu",
+   "Jiangzhou Luo",
+   "Liang‐Liang Zhang",
+   "Jian‐Feng Chen"
+  ],
+  "journal": "Chemical Engineering and Processing - Process Intensification",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-05",
+  "year": 2018,
+  "doi": "10.1016/j.cep.2018.01.024",
+  "url": "https://doi.org/10.1016/j.cep.2018.01.024",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Micromixing",
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Beijing University of Chemical Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "eb647f51a5d3e5b1",
+  "title": "Development of a more robust correlation for predicting heat transfer performance in oscillatory baffled reactors",
+  "authors": [
+   "Richard Law",
+   "Safaa M.R. Ahmed",
+   "Nicole K. Y. Tang",
+   "Anh N. Phan",
+   "Adam Harvey"
+  ],
+  "journal": "Chemical Engineering and Processing - Process Intensification",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-04",
+  "year": 2018,
+  "doi": "10.1016/j.cep.2018.01.016",
+  "url": "https://doi.org/10.1016/j.cep.2018.01.016",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Oscillatory Baffled Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Newcastle University",
+   "University of Tikrit"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0ed200a81656f13c",
+  "title": "Investigation of a new double-stage aerobic-anoxic continuous-flow cyclic baffled bioreactor efficiency for wastewater nutrient removal",
+  "authors": [
+   "Abooalfazl Azhdarpoor",
+   "Leila Abbasi",
+   "Mohammad Reza Samaei"
+  ],
+  "journal": "Journal of Environmental Management",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-04",
+  "year": 2018,
+  "doi": "10.1016/j.jenvman.2018.01.048",
+  "url": "https://doi.org/10.1016/j.jenvman.2018.01.048",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shiraz University of Medical Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "cf719ff8ad5c86b6",
+  "title": "Rate analysis of sorption of Ce3+, Sm3+, and Yb3+ ions from aqueous solution using Dowex 50W-X8 as a sorbent in a continuous flow reactor",
+  "authors": [
+   "Esmail R. Monazam",
+   "Ranjani Siriwardane",
+   "Duane D. Miller",
+   "Dustin L. McIntyre"
+  ],
+  "journal": "Journal of Rare Earths",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-03",
+  "year": 2018,
+  "doi": "10.1016/j.jre.2017.10.010",
+  "url": "https://doi.org/10.1016/j.jre.2017.10.010",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "National Energy Technology Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b015d0f60ad372b4",
+  "title": "Biodiesel production in micro-reactors: A review",
+  "authors": [
+   "Appurva Tiwari",
+   "V.M. Rajesh",
+   "Sanjeev Yadav"
+  ],
+  "journal": "Energy Sustainable Development/Energy for sustainable development",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-03",
+  "year": 2018,
+  "doi": "10.1016/j.esd.2018.01.002",
+  "url": "https://doi.org/10.1016/j.esd.2018.01.002",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shiv Nadar University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "95375f8994b012c7",
+  "title": "Investigating continuous biodiesel production from linseed oil in the presence of a Co-solvent and a heterogeneous based catalyst in a packed bed reactor",
+  "authors": [
+   "Mahdi Hashemzadeh Gargari",
+   "Seyed Mojtaba Sadrameli"
+  ],
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-03",
+  "year": 2018,
+  "doi": "10.1016/j.energy.2018.01.105",
+  "url": "https://doi.org/10.1016/j.energy.2018.01.105",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Tarbiat Modares University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "56d2ba81a3801a02",
+  "title": "Enhanced adsorption of ionizable antibiotics on activated carbon fiber under electrochemical assistance in continuous-flow modes",
+  "authors": [
+   "Sitan Wang",
+   "Xiaona Li",
+   "Huimin Zhao",
+   "Xie Quan",
+   "Shuo Chen",
+   "Hongtao Yu"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-03",
+  "year": 2018,
+  "doi": "10.1016/j.watres.2018.01.068",
+  "url": "https://doi.org/10.1016/j.watres.2018.01.068",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Liaoning Technical University",
+   "Dalian University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0651178c8896f923",
+  "title": "Self-Test Procedures for Gas Sensors Embedded in Microreactor Systems",
+  "authors": [
+   "Andreas Helwig",
+   "Angelika Hackner",
+   "Gerhard Müller",
+   "Dario Zappa",
+   "Giorgio Sberveglieri"
+  ],
+  "journal": "Sensors",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-03",
+  "year": 2018,
+  "doi": "10.3390/s18020453",
+  "url": "https://doi.org/10.3390/s18020453",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Airbus (Germany)",
+   "Munich University of Applied Sciences",
+   "University of Brescia"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b98c9cb9447c3f31",
+  "title": "Dynamic Tracking of Highly Toxic Intermediates in Photocatalytic Degradation of Pentachlorophenol by Continuous Flow Chemiluminescence",
+  "authors": [
+   "Haiyan Ma",
+   "Lixia Zhao",
+   "Da-Bin Wang",
+   "Hui Zhang",
+   "Liang‐Hong Guo"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1021/acs.est.7b05518",
+  "url": "https://doi.org/10.1021/acs.est.7b05518",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Research Center for Eco-Environmental Sciences",
+   "University of Chinese Academy of Sciences",
+   "Tobacco Research Institute",
+   "Chinese Academy of Agricultural Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a3b231a497b91a33",
+  "title": "Temperature-Responsive Anisotropic Slippery Surface for Smart Control of the Droplet Motion",
+  "authors": [
+   "By Lili Wang",
+   "Liping Heng",
+   "Lei Jiang"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1021/acsami.7b16818",
+  "url": "https://doi.org/10.1021/acsami.7b16818",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Droplet",
+   "Microreactor"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Beihang University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "96151e155af40c9a",
+  "title": "Process Analysis on Preparation of Cyclobutanetetracarboxylic Dianhydride in a Photomicroreactor within Gas–Liquid Taylor Flow",
+  "authors": [
+   "Wenhua Xu",
+   "Yuanhai Su",
+   "Yang Song",
+   "Minjing Shang",
+   "Li Zha",
+   "Qinghua Lu"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1021/acs.iecr.7b04572",
+  "url": "https://doi.org/10.1021/acs.iecr.7b04572",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Capillary",
+   "Capillary Microreactor",
+   "Gas-Liquid",
+   "Microreactor",
+   "Residence Time",
+   "Taylor Flow"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Shanghai Jiao Tong University",
+   "Tongji University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "4ed061d8da838b65",
+  "title": "Liquid gating elastomeric porous system with dynamically controllable gas/liquid transport",
+  "authors": [
+   "Zhizhi Sheng",
+   "Honglong Wang",
+   "Yongliang Tang",
+   "Miao Wang",
+   "Lizhi Huang",
+   "Lingli Min",
+   "Haiqiang Meng",
+   "Songyue Chen",
+   "Lei Jiang",
+   "Xu Hou"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1126/sciadv.aao6724",
+  "url": "https://doi.org/10.1126/sciadv.aao6724",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Microreactor",
+   "Multiphase Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials",
+   "Chinese Academy of Sciences",
+   "Technical Institute of Physics and Chemistry",
+   "Xiamen University of Technology"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3829e27e3424eaaa",
+  "title": "Highly Selective Continuous Flow Hydrogenation of Cinnamaldehyde to Cinnamyl Alcohol in a Pt/SiO2 Coated Tube Reactor",
+  "authors": [
+   "Yang Bai",
+   "Nikolay Cherkasov",
+   "Steven Huband",
+   "David Walker",
+   "Richard I. Walton",
+   "Evgeny V. Rebrov"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.3390/catal8020058",
+  "url": "https://doi.org/10.3390/catal8020058",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation",
+   "Process Intensification",
+   "Throughput"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Coventry (United Kingdom)",
+   "University of Warwick",
+   "Tver State Technical University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "156889829947e4d1",
+  "title": "PdAg Nanoparticles Supported on Functionalized Mesoporous Carbon: Promotional Effect of Surface Amine Groups in Reversible Hydrogen Delivery/Storage Mediated by Formic Acid/CO 2",
+  "authors": [
+   "Shinya Masuda",
+   "Kohsuke Mori",
+   "Yuya Futamura",
+   "Hiromi Yamashita"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1021/acscatal.7b04099",
+  "url": "https://doi.org/10.1021/acscatal.7b04099",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Heterogeneous Catalyst",
+   "Hydrogenation"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "The University of Osaka",
+   "Kyoto University",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "13ee544e8da88c90",
+  "title": "PENGOLAHAN LIMBAH RUMAH TANGGA DENGAN MENGGUNAKAN BUFFLED UP-FLOW REACTOR",
+  "authors": [
+   "Wuryani Artiningsih",
+   "Rita Dewi Triastianti"
+  ],
+  "journal": "Jurnal Teknologi Technoscientia",
+  "publisher": "",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.34151/technoscientia.v10i2.93",
+  "url": "https://doi.org/10.34151/technoscientia.v10i2.93",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universitas Teknologi Yogyakarta"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "f5701a60cfa8e2ed",
+  "title": "Implantable vascular access devices – past, present, and future",
+  "authors": [
+   "David Lin",
+   "Yanyun Wu"
+  ],
+  "journal": "Transfusion",
+  "publisher": "Wiley",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1111/trf.14485",
+  "url": "https://doi.org/10.1111/trf.14485",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Bloodworks Northwest"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "ef1c6df0e087c494",
+  "title": "Model Catalyst Performance and Efficiency during the Hydro-treatment of Heavy Oil Residuum",
+  "authors": [
+   "Jamal Mohammad Amous"
+  ],
+  "journal": "Chemical and Materials Engineering",
+  "publisher": "",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.13189/cme.2018.060103",
+  "url": "https://doi.org/10.13189/cme.2018.060103",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Ha'il"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "e4154a82291de14e",
+  "title": "Continuous-flow retro-Diels–Alder reaction: an efficient method for the preparation of pyrimidinone derivatives",
+  "authors": [
+   "Imane Nekkaa",
+   "Márta Palkó",
+   "István M. Mándity",
+   "Ferenc Fülöp"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.3762/bjoc.14.20",
+  "url": "https://doi.org/10.3762/bjoc.14.20",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Szeged",
+   "Hungarian Academy of Sciences"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b42a948bcdbc5442",
+  "title": "Bioremediation of Phenolic Compounds in Circulating Packed Bed Bioreactor",
+  "authors": [
+   "Yi Zhou"
+  ],
+  "journal": "University Library (University of Saskatchewan)",
+  "publisher": "University of Saskatchewan",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "",
+  "url": "http://hdl.handle.net/10388/8452",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Packed Bed",
+   "Residence Time"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9cc5f2467c59b7e1",
+  "title": "A Continuous-Flow, Two-Step, Metal-Free Process for the Synthesis of Differently Substituted Chiral 1,2-Diamino Derivatives",
+  "authors": [
+   "Maurizio Benaglia",
+   "Margherita Pirola",
+   "Maria Elena Compostella",
+   "Laura Raimondi",
+   "Alessandra Puglisi"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1055/s-0036-1591911",
+  "url": "https://doi.org/10.1055/s-0036-1591911",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation",
+   "Microreactor"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Milan"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "99dd42894403dbcc",
+  "title": "Biodiesel production from soybean oil using ionic liquid as a catalyst in a microreactor",
+  "authors": [
+   "Faezeh Mohammadi",
+   "Masoud Rahimi",
+   "Arsalan Parvareh",
+   "M. Feyzi"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "",
+  "url": "https://doaj.org/article/a60d3713a25b475aa46b14e03ca3542d",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Razi University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9645794ff8f8b452",
+  "title": "Synthesis of Aminophosphine-based InP Nanocrystals and InP@ZnS Quantum Dots Through Versatile Steel Microfluidic Reactor System",
+  "authors": [
+   "Dong-Woo Seo"
+  ],
+  "journal": "Scholarworks@UNIST (Ulsan National Institute of Science and Technology)",
+  "publisher": "Ulsan National Institute of Science and Technology",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "",
+  "url": "http://unist.dcollection.net/common/orgView/200000010336",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Nanomaterial Synthesis in Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Microfluidic Reactor",
+   "Microfluidics",
+   "Microreactor",
+   "Nanoparticle Synthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 86,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "85bee523e3a624aa",
+  "title": "Potential of Archimedes Screw Turbine in Rural India Electrification: a Review",
+  "authors": [
+   "Pallav Gogoi",
+   "Mousam Handique",
+   "Subrendu Purkayastha",
+   "Khemraj Newar"
+  ],
+  "journal": "ADBU Journal of Electrical and Electronics Engineering",
+  "publisher": "",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "",
+  "url": "http://journals.dbuniversity.ac.in/ojs/index.php/AJEEE/article/download/554/516",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Assam Don Bosco University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "6610b14d624b8aea",
+  "title": "Diseño, construcción y arranque de operación de un reactor de lodos activados a escala de laboratorio",
+  "authors": [
+   "Michelle Stefania Crespo Ruiz",
+   "Diana Lizet Martínez Chulde"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "",
+  "url": "https://dspace.ups.edu.ec/bitstream/123456789/15235/1/UPS%20-%20ST003445.pdf",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "5e5bc0c21847a03c",
+  "title": "Hydrogen production from cylindrical methanol steam reforming microreactor with porous Cu-Al fiber sintered felt",
+  "authors": [
+   "Wei Zhou",
+   "Yuzhi Ke",
+   "Pucheng Pei",
+   "Wei Yu",
+   "Xuyang Chu",
+   "Shuangli Li",
+   "Kun Yang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1016/j.ijhydene.2017.12.118",
+  "url": "https://doi.org/10.1016/j.ijhydene.2017.12.118",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Xiamen University",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3839f2ceab9deb0a",
+  "title": "Metal Doped Core–Shell Metal‐Organic Frameworks@Covalent Organic Frameworks (MOFs@COFs) Hybrids as a Novel Photocatalytic Platform",
+  "authors": [
+   "Dengrong Sun",
+   "Seungwook Jang",
+   "Se‐Jun Yim",
+   "Lin Ye",
+   "Dong‐Pyo Kim"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1002/adfm.201707110",
+  "url": "https://doi.org/10.1002/adfm.201707110",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Flow Microreactor",
+   "Hydrogenation",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Pohang University of Science and Technology",
+   "Chinese Academy of Sciences",
+   "Fujian Institute of Research on the Structure of Matter"
+  ],
+  "added": "2026-07-28"
+ },
+ {
   "id": "3009eb721abd3ea6",
   "title": "Producing much with less : scaling-out approaches for continuous flow",
   "authors": [
@@ -189,5 +3501,36 @@
    "Synthetic Biologics (United States)"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "253e295f290165f7",
+  "title": "Microfluidic Synthesis and Electrochemical Performance of Ternary Metals Nanoalloy: FePtSn",
+  "authors": [
+   "Ju Gang",
+   "Junmei Wang",
+   "Shuai Li",
+   "Yu Song"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.4028/www.scientific.net/msf.913.831",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.913.831",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics",
+   "Oxidation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Science and Technology Beijing",
+   "AviChina Industry & Technology (China)"
+  ],
+  "added": "2026-07-28"
  }
 ]
