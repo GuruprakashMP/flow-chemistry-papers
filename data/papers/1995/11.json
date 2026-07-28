@@ -1,0 +1,649 @@
+[
+ {
+  "id": "92a448c9596a65dc",
+  "title": "Online Microreactors/Capillary Electrophoresis/Mass Spectrometry for the Analysis of Proteins and Peptides",
+  "authors": [
+   "Larry Licklider",
+   "Werner G. Kuhr",
+   "Martin P. Lacey",
+   "T. Keough",
+   "Michael P. Purdon",
+   "Ray Takigiku"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1995-11-15",
+  "year": 1995,
+  "doi": "10.1021/ac00118a021",
+  "url": "https://doi.org/10.1021/ac00118a021",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Capillary",
+   "Microreactor"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "676ccaa7f12fe222",
+  "title": "Continuous-Flow MALDI Mass Spectrometry Using an Ion Trap/Reflectron Time-of-Flight Detector",
+  "authors": [
+   "Ling He",
+   "Liang Li",
+   "David M. Lubman"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1995-11-15",
+  "year": 1995,
+  "doi": "10.1021/ac00118a015",
+  "url": "https://doi.org/10.1021/ac00118a015",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Michigan"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1f6b435b4aea13de",
+  "title": "Spatial coupling in heterogeneous catalysis",
+  "authors": [
+   "S. Y. Yamamoto",
+   "C. M. Surko",
+   "M. B. Maple"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1995-11-08",
+  "year": 1995,
+  "doi": "10.1063/1.470185",
+  "url": "https://doi.org/10.1063/1.470185",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of California San Diego"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "101ffca0ecaca3f5",
+  "title": "Chemical kinetic modeling of high pressure propane oxidation and comparison to experimental results",
+  "authors": [
+   "D.N. Koert",
+   "William J. Pitz",
+   "JW Bozzelli",
+   "Nicholas P. Cernansky"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1995-11-08",
+  "year": 1995,
+  "doi": "10.2172/179187",
+  "url": "https://doi.org/10.2172/179187",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Kinetic Modeling",
+   "Oxidation",
+   "Residence Time"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Wichita State University",
+   "Lawrence Livermore National Laboratory",
+   "New Jersey Institute of Technology",
+   "Drexel University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "c4140ee563681257",
+  "title": "Formation of phase-change and relief-change recording media by joint oxidative thermodecomposition of hexacarbonyls on the surface",
+  "authors": [
+   "D. A. Grinko",
+   "A. A. Krujchin"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1995-11-03",
+  "year": 1995,
+  "doi": "10.1117/12.226239",
+  "url": "https://doi.org/10.1117/12.226239",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Institute for Information Recording"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "bacfbe3956c9b4f2",
+  "title": "Raman studies of silicon layers formed by cluster beam deposition",
+  "authors": [
+   "M. Ehbrecht",
+   "L. Holz",
+   "F. Huisken",
+   "Yu. N. Polivanov",
+   "В. В. Смирнов",
+   "O. M. Stelmakh"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1995-11-03",
+  "year": 1995,
+  "doi": "10.1117/12.226210",
+  "url": "https://doi.org/10.1117/12.226210",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Max Planck Society",
+   "Max-Born-Institute for Nonlinear Optics and Short Pulse Spectroscopy",
+   "Prokhorov General Physics Institute"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "43056c9a47b0ab6b",
+  "title": "Radiofrequency Encoded Combinatorial Chemistry",
+  "authors": [
+   "K. C. Nicolaou",
+   "Xiao‐Yi Xiao",
+   "Zahra Parandoosh",
+   "Andrew E. Senyei",
+   "Michael P. Nova"
+  ],
+  "journal": "Angewandte Chemie International Edition in English",
+  "publisher": "",
+  "published": "1995-11-03",
+  "year": 1995,
+  "doi": "10.1002/anie.199522891",
+  "url": "https://doi.org/10.1002/anie.199522891",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of California San Diego",
+   "Torrey Pines Institute For Molecular Studies"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "b8a947b72c8cf4de",
+  "title": "A PARTIAL SEQUENCE OF AN IgG LIGHT CHAIN USING CONTINUOUS FLOW HPLC-FAB MASS SPECTROSCOPY",
+  "authors": [
+   "Martin A. Claydon",
+   "Derek B. Gordon",
+   "G V Garner",
+   "G.A. Lord"
+  ],
+  "journal": "Biochemical Society Transactions",
+  "publisher": "Portland Press",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1042/bst023633s",
+  "url": "https://doi.org/10.1042/bst023633s",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Manchester Metropolitan University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "a89262a97ca4f9be",
+  "title": "Stability of recombinant protein production by Penicillium chrysogenum in prolonged chemostat culture",
+  "authors": [
+   "Julie M. Withers",
+   "Marilyn G. Wiebe",
+   "Geoffrey D. Robson",
+   "David J. Osborne",
+   "Geoffrey Turner",
+   "Anthony P. J. Trinci"
+  ],
+  "journal": "FEMS Microbiology Letters",
+  "publisher": "Oxford University Press",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1111/j.1574-6968.1995.tb07892.x",
+  "url": "https://doi.org/10.1111/j.1574-6968.1995.tb07892.x",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Manchester",
+   "University of Sheffield"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "9efe74a41be06edf",
+  "title": "Atomic‐Scale Imaging of Catalytic Surface Reactions",
+  "authors": [
+   "J.H. Block",
+   "W. Drachsel",
+   "N. Ernst",
+   "B. Sieben",
+   "V. V. Gorodetskii"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1002/bbpc.199500086",
+  "url": "https://doi.org/10.1002/bbpc.199500086",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Fritz Haber Institute of the Max Planck Society",
+   "Boreskov Institute of Catalysis"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "88ff5513cf1fa1fc",
+  "title": "Mechanisms of Silicon Dioxide Deposition from the Low Pressure Chemical Vapor Deposition of Diethylsilane/Oxygen Mixtures",
+  "authors": [
+   "J. G. Martin",
+   "H. E. O’Neal",
+   "M. A. Ring",
+   "David A. Roberts",
+   "Arthur K. Hochberg"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1149/1.2048427",
+  "url": "https://doi.org/10.1149/1.2048427",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Flow Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "San Diego State University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "73d81a941eaa34d4",
+  "title": "Reaction of Cytochrome bo3 with Oxygen: Extra Redox Center(s) are Present in the Protein",
+  "authors": [
+   "Jianling Wang",
+   "Jon N. Rumbley",
+   "Yuan‐chin Ching",
+   "Satoshi Takahashi",
+   "Robert B. Gennis",
+   "Denis L. Rousseau"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1021/bi00047a016",
+  "url": "https://doi.org/10.1021/bi00047a016",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "AT&T (United States)",
+   "Alcatel Lucent (Germany)",
+   "University of Illinois Urbana-Champaign"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "673eda9ac36ab932",
+  "title": "In situ processing of high- T c YBaCuO superconducting devices by focused ion beam micromachining at low temperature",
+  "authors": [
+   "Gérard Assayag",
+   "J. Giérak",
+   "J. F. Hamet",
+   "C. Prouteau",
+   "Stéphane Flament",
+   "C. Dolabdjian",
+   "F. Gire",
+   "E. Lesquey",
+   "Gerrit Günther",
+   "C. Dubuc",
+   "D. Bloyet",
+   "D. Robbes"
+  ],
+  "journal": "Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena",
+  "publisher": "American Institute of Physics",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1116/1.588263",
+  "url": "https://doi.org/10.1116/1.588263",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Laboratoire d'Étude des Microstructures"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "64acddcfb0a749c5",
+  "title": "Influence of mass transfer coefficient fluctuation frequency on performance of three-phase packed-bed reactors",
+  "authors": [
+   "Ruiyun Wu",
+   "Mark J. McCready",
+   "Arvind Varma"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1016/0009-2509(95)00186-9",
+  "url": "https://doi.org/10.1016/0009-2509(95)00186-9",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Notre Dame"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "57cae68e524b37b1",
+  "title": "Abdominal venous system in the normal fetus",
+  "authors": [
+   "Giancarlo Mari",
+   "Boonchai Uerpairojkit",
+   "Joshua A. Copel"
+  ],
+  "journal": "Obstetrics and Gynecology",
+  "publisher": "Lippincott Williams & Wilkins",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1016/0029-7844(95)00264-r",
+  "url": "https://doi.org/10.1016/0029-7844(95)00264-r",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Biphasic",
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Yale University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "459677d3ce7ef642",
+  "title": "Evaluation of intrinsic immobilized kinetic parameters for factor X activation in a flow reactor",
+  "authors": [
+   "S. Gir"
+  ],
+  "journal": "Biotechnology Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1007/bf00128397",
+  "url": "https://doi.org/10.1007/bf00128397",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Memphis"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "3eda51977869498f",
+  "title": "Extraction of Indium From Sulphate Solutions with D2EHPA Solutions Using Static Mixers",
+  "authors": [
+   "N. Nacevski",
+   "Filimena A. Poposka",
+   "B. Nikov"
+  ],
+  "journal": "Journal de Physique IV (Proceedings)",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1051/jp4:1995712",
+  "url": "https://doi.org/10.1051/jp4:1995712",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Residence Time",
+   "Static Mixer"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Ss. Cyril and Methodius University in Skopje"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "38a3d1406b346a81",
+  "title": "Structure of transient radicals from cytostatic-active p-alkoxyphenols by continuous-flow EPR",
+  "authors": [
+   "G. Laßmann",
+   "Stephan Pötsch"
+  ],
+  "journal": "Free Radical Biology and Medicine",
+  "publisher": "Elsevier BV",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1016/0891-5849(95)00054-2",
+  "url": "https://doi.org/10.1016/0891-5849(95)00054-2",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Max Delbrück Center",
+   "Technische Universität Berlin"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "1bccdb48521eb418",
+  "title": "The pressurized entrained flow reactor at Risoe. Design report",
+  "authors": [
+   "L.K. Hansen",
+   "Jan Fjellerup",
+   "Peder Stoholm",
+   "Mogens Kirkegaard"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "",
+  "url": "https://www.osti.gov/etdeweb/biblio/168685",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "0e2528efe905396f",
+  "title": "Synthesis of a Fluorescent Analog of Polychlorinated Biphenyls for Use in a Continuous Flow Immunosensor Assay",
+  "authors": [
+   "Paul T. Charles",
+   "David W. Conrad",
+   "Megan S. Jacobs",
+   "John C. Bart",
+   "Anne W. Kusterbeck"
+  ],
+  "journal": "Bioconjugate Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1021/bc00036a005",
+  "url": "https://doi.org/10.1021/bc00036a005",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "United States Naval Research Laboratory"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "06f7c31a81a04ef5",
+  "title": "Prothrombin Contributes to the Assembly of the Factor Va-Factor Xa Complex at Phosphatidylserine-containing Phospholipid Membranes",
+  "authors": [
+   "Didier Billy",
+   "George M. Willems",
+   "H.C. Hemker",
+   "Theo Lindhout"
+  ],
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1074/jbc.270.45.26883",
+  "url": "https://doi.org/10.1074/jbc.270.45.26883",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Rate",
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Maastricht University"
+  ],
+  "added": "2026-07-28"
+ },
+ {
+  "id": "06437694e3e0cf1e",
+  "title": "Hexavalent Chromium Removal in Two-Stage Bioreactor System",
+  "authors": [
+   "Hai Shen",
+   "Yi‐Tin Wang"
+  ],
+  "journal": "Journal of Environmental Engineering",
+  "publisher": "American Society of Civil Engineers",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1061/(asce)0733-9372(1995)121:11(798)",
+  "url": "https://doi.org/10.1061/(asce)0733-9372(1995)121:11(798)",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Kentucky"
+  ],
+  "added": "2026-07-28"
+ }
+]
