@@ -2,6 +2,43 @@
 
 All notable changes to FlowChemistryPapers.
 
+## [1.1.0] — 2026-07-28
+
+Historical backfill 1975→2026 complete and verified: **49,419 papers**
+indexed (from 38), spanning the whole modern history of continuous
+processing and microreactor technology.
+
+### Added
+- Full topic sweep of all 52 years across 56 workflow runs, driven
+  newest-first by a local monitor. **Zero `INCOMPLETE` years** — every year
+  logged `=== YYYY done` on its first attempt.
+- Pioneer sweep (31 author entries, +1,801 papers) run first as its own
+  workflow run, so the bounded high-value sweep could not be starved by the
+  much larger topic sweep.
+- Accented pioneer name variants. The OpenAlex quoted-phrase author search
+  is spelling-exact: `"Timothy Noel"` matches 82 works while
+  `"Timothy Noël"` matches 387. Both forms are now listed, along with eight
+  further flow chemistry leaders (Kobayashi, Nagaki, Vaccaro, Bourne,
+  Gupton, Lapkin, Gutmann, Monbaliu).
+
+### Fixed
+- Classifier precision against three "flow"/"microreactor" false-friend
+  classes found in the first live run: nuclear microreactors (NRC/emergency
+  planning vocabulary), medical and organ-on-chip microfluidics (arterial
+  spin labelling, perfusion, nucleic-acid testing), and the metaphorical
+  "acts as a microreactor" usage for droplets, cells and nanopores.
+  Recall on canonical flow chemistry papers was re-verified afterwards.
+- Stale categories-page copy inherited from the template.
+
+### Known limitations
+- OpenAlex throttling appears **shared across the sibling paper-index
+  projects** — only one backfill chain may run at a time. This chain was
+  paused mid-way on 2026-07-27 for the `mechanochemistry-papers` chain and
+  resumed the next morning.
+- arXiv carries very little flow chemistry (6 works total for "flow
+  chemistry"), so that collector contributes almost nothing here — unlike
+  in the parent project. Not a fault.
+
 ## [1.0.0] — 2026-07-27
 
 Initial release, adapted from the proven

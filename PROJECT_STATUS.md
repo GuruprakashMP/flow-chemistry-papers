@@ -36,25 +36,29 @@ _Last updated: 2026-07-27 (initial release)_
 
 - Daily GitHub Actions run keeps the index growing from 8 sources.
 
-## Historical backfill — in progress
+## Historical backfill — COMPLETE and VERIFIED (2026-07-28)
 
-Run newest-first, one year per workflow run, driven by a local monitor.
+**49,419 papers**, spanning an unbroken 1975→2026 series.
 
-- Pioneer sweep: **DONE** (two runs, 31 author entries, +1,801 papers). The
+- Pioneer sweep: done in two runs (31 author entries, +1,801 papers). The
   OpenAlex quoted-phrase author search is spelling-exact, so accented forms
   are listed alongside plain ones ("Timothy Noël" matches 387 works,
-  "Timothy Noel" only 82).
-- Topic years confirmed done: **2026, 2025, 2024, 2023** (+9,201 papers).
-- Remaining: **1975–2022**.
-- Index size at pause: 11,040 papers.
+  "Timothy Noel" only 82) — worth re-checking on the sibling projects.
+- Topic sweep: all **52 years** confirmed done across 56 workflow runs,
+  newest-first, with **zero `INCOMPLETE` years** — every year logged
+  `=== YYYY done` on its first attempt.
+- Verified independently of the run logs: `data/state/backfill_progress.json`
+  holds 31 author keys plus all 23 queries × 52 years, with no year short of
+  23 queries.
 
 A year counts as done only when its run logs `=== YYYY done`; an
 `INCOMPLETE` year lost papers to a transient failure and must be re-run.
 
-**Paused** pending the sibling `mechanochemistry-papers` backfill finishing —
-OpenAlex throttling appears shared across the sibling projects, so only one
-backfill chain runs at a time. Check with
-`gh run list -R GuruprakashMP/mechanochemistry-papers` before resuming.
+Coordination note: the chain was paused mid-way on 2026-07-27 because the
+sibling `mechanochemistry-papers` backfill was still running — OpenAlex
+throttling appears shared across the sibling projects, so only one backfill
+chain runs at a time. Check `gh run list` on **every** sibling repo before
+starting one.
 
 ## Known issues (inherited environment quirks)
 
