@@ -1,5 +1,43 @@
 [
  {
+  "id": "5af52efe4d591d4d",
+  "title": "Prior Knowledge‐Based Bayesian Optimization With Real‐Time Process Analytical Technology for the Transition From Batch to Continuous Flow Biocatalysis: Lipase‐Mediated Dynamic Kinetic Resolution",
+  "authors": [
+   "Yuwei Song",
+   "Chasheng He",
+   "Guihua Luo",
+   "Weike Su",
+   "Hongliang Duan",
+   "Yuanyuan Xie",
+   "Guijun Zhang",
+   "An Su"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-07-29",
+  "year": 2026,
+  "doi": "10.1002/adsc.70679",
+  "url": "https://doi.org/10.1002/adsc.70679",
+  "source": "crossref",
+  "categories": [
+   "In-line Analysis & PAT",
+   "Process Intensification",
+   "Self-Optimization & Machine Learning",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Biocatalysis",
+   "Continuous Flow",
+   "Flow Chemistry",
+   "PAT",
+   "Process Intensification"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "514bc847d5331cb7",
   "title": "Predictive Modeling of Bacterial Inactivation With Hydrogen Peroxide Over a Cobalt Ferrite Catalyst.",
   "authors": [
@@ -32,6 +70,76 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "22acc44dd816d2a5",
+  "title": "Chemoenzymatic Synthesis of Chiral Piperidines Using the Immobilized Transaminase ATA‐117 in Continuous Flow Reactors",
+  "authors": [
+   "Sara Vicinanza",
+   "Ilaria Magrini Alunno",
+   "Stefania Patti",
+   "Morena Pirotta",
+   "Francesca Annunziata",
+   "Raffaella Gandolfi",
+   "Paola Conti",
+   "Chiara Borsari",
+   "Ivan Bassanini",
+   "Erica Elisa Ferrandi",
+   "Daniela Monti",
+   "Lucia Tamborini"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-07-29",
+  "year": 2026,
+  "doi": "10.1002/adsc.70676",
+  "url": "https://doi.org/10.1002/adsc.70676",
+  "source": "crossref",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Flow Reactor",
+   "Residence Time"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "049faeddcf3a9c97",
+  "title": "Enzyme-Mimicking \"All-Nucleotide\" G-Quadruplex Hydrogel as a Dual-Function Microreactor for Biomimetic Cascade Catalysis.",
+  "authors": [
+   "Sarma S",
+   "Deshwal D",
+   "Sahu TK",
+   "Vishwakarma R",
+   "Prasun A",
+   "Sarma TK."
+  ],
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-07-29",
+  "year": 2026,
+  "doi": "10.1002/chem.71444",
+  "url": "https://doi.org/10.1002/chem.71444",
+  "source": "europepmc",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Liquid-Liquid",
+   "Microreactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
  },
  {
   "id": "f24847a590b8130b",
@@ -69,6 +177,94 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-07-29"
+ },
+ {
+  "id": "efa2391cdff062de",
+  "title": "Harnessing Biocatalysis for Green Chemistry: Emerging Innovations and Sustainable Frontiers",
+  "authors": [
+   "Sachin K. Bhosale",
+   "Sakshi Rajesh Singh",
+   "Nirmala V Shinde",
+   "Yogesh V Ushir"
+  ],
+  "journal": "Journal of Pharmaceutical Research",
+  "publisher": "Krupanidhi College of Pharmacy",
+  "published": "2026-07-28",
+  "year": 2026,
+  "doi": "10.18579/jopcr/v25.i2.37",
+  "url": "https://doi.org/10.18579/jopcr/v25.i2.37",
+  "source": "openalex",
+  "categories": [
+   "Biocatalysis & Enzymatic Flow",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Machine Learning"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Savitribai Phule Pune University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ed0c410123506f0d",
+  "title": "CONTINUOUS-FLOW SYNTHESIS AND OPTIMIZATION OF ASPIRIN AS A MODEL ACTIVE PHARMACEUTICAL INGREDIENT: PROCESS EVALUATION AND COMPARATIVE PHARMACEUTICAL RELEVANCE",
+  "authors": [
+   "Reena Rathore"
+  ],
+  "journal": "TMP Universal Journal of Advances in Pharmaceutical sciences",
+  "publisher": "",
+  "published": "2026-07-28",
+  "year": 2026,
+  "doi": "10.69557/t1fd3z14",
+  "url": "https://doi.org/10.69557/t1fd3z14",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Synthesis",
+   "Residence Time"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "783f1c872375a6d8",
+  "title": "Visible-light-Enabled O-Selective Radical Etherification of 1,2-Dicarbonyl Compounds for the Synthesis of Sterically Congested Ethers",
+  "authors": [
+   "Shengkun Guo",
+   "Sita Claesen",
+   "Erik V. Van der Eycken",
+   "Upendra K. Sharma"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-07-28",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15006666/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15006666/v1",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "KU Leuven",
+   "Peoples' Friendship University of Russia",
+   "University of Missouri–St. Louis"
+  ],
+  "added": "2026-07-30"
  },
  {
   "id": "d0e301b42c4f8637",
@@ -5359,6 +5555,41 @@
    "Otto-von-Guericke-Universität Magdeburg"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "e0425210c66f1a19",
+  "title": "Continuous-flow synthesis of 4-aminophenol through integrated catalytic reduction and catalyst separation in a hybrid membrane process enabled by Re-, Os-, and W-based microsphere catalysts",
+  "authors": [
+   "Tomasz Piotrowski",
+   "Joanna Wolska",
+   "Mateusz M.Marzec",
+   "Magdalena Wojtas",
+   "Zuzanna Oświecińska",
+   "Krystian Sokolowski",
+   "Katarzyna Berent",
+   "Anna Leśniewicz",
+   "Andrzej Bernasik",
+   "Marek Bryjak",
+   "Nalan Kabay",
+   "Piotr Cyganowski"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-01",
+  "year": 2026,
+  "doi": "10.1016/j.seppur.2026.139560",
+  "url": "https://doi.org/10.1016/j.seppur.2026.139560",
+  "source": "crossref",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-30"
  },
  {
   "id": "d9884e0cbc4c609c",
