@@ -1,5 +1,143 @@
 [
  {
+  "id": "cf3004b28bf26495",
+  "title": "Photochromic Single-Unit-Cell ZnIn2S4 Nanosheets with Large Lateral Sizes for Boosting H2O2 Photosynthesis",
+  "authors": [
+   "Shiwei Yan",
+   "Yingqing Wu",
+   "Liyu Chen",
+   "Yingwei Li",
+   "Kui Shen"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c03282",
+  "url": "https://doi.org/10.1021/acscatal.6c03282",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "South China University of Technology"
+  ],
+  "added": "2026-08-09"
+ },
+ {
+  "id": "80221a5f0244d9f9",
+  "title": "Direct Access to the Simplest N -SubstitutedPyrroles from Furans Enabled by Tailored Photocatalysts",
+  "authors": [
+   "Hyeonbhin Byeon",
+   "H.-K. Hong",
+   "Da Hye Lee",
+   "Yoonjee Park",
+   "Taeyang Ha",
+   "Ha Eun Kim",
+   "Yoonsu Park"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1021/jacsau.6c01035",
+  "url": "https://doi.org/10.1021/jacsau.6c01035",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology",
+   "Innovative Research (United States)",
+   "Ulsan National Institute of Science and Technology"
+  ],
+  "added": "2026-08-09"
+ },
+ {
+  "id": "63ebdd69953a114d",
+  "title": "Toolbox for Bio Safety Manufacturing Waste Treatment.",
+  "authors": [
+   "Denk R",
+   "Maeck R",
+   "Motzkus D",
+   "Dreier C",
+   "Steidle B",
+   "Eriksson H",
+   "Mittelviefhaus M",
+   "Konrad S",
+   "Hieke C",
+   "Seiffert A",
+   "Prause M",
+   "Proeschel N",
+   "Williams C",
+   "Woog S",
+   "Regel J",
+   "Verguts S",
+   "Dalmagne S."
+  ],
+  "journal": "PDA journal of pharmaceutical science and technology",
+  "publisher": "",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.5731/pdajpst.2025-000066.1",
+  "url": "https://doi.org/10.5731/pdajpst.2025-000066.1",
+  "source": "europepmc",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-09"
+ },
+ {
+  "id": "358bcc570b56c03a",
+  "title": "Bimetallic-bienzyme-cofactor Co-immobilized catalyst for continuous-flow concurrent chemoenzymatic ketone formation-conversion cascade",
+  "authors": [
+   "Pengbo Liu",
+   "Liya Zhou",
+   "Xinlong Liu",
+   "Kesheng Fu",
+   "Zhongxu Guo",
+   "Quan Yuan",
+   "Hengquan Yang",
+   "Yunting Liu",
+   "Yanjun Jiang"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1016/s1872-2067(26)65145-5",
+  "url": "https://doi.org/10.1016/s1872-2067(26)65145-5",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Immobilized Catalyst"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hebei University of Technology",
+   "Shanxi University"
+  ],
+  "added": "2026-08-09"
+ },
+ {
   "id": "2613ec0b0ee3cbb0",
   "title": "Electrochemical One- or Two-Electron Oxidation Enables Chemoselective α-Amino C(sp3)-H Arylation and Cyanation.",
   "authors": [
@@ -33,6 +171,43 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-08-08"
+ },
+ {
+  "id": "16584e3411590632",
+  "title": "Chemical recycling of rigid polyurethane foam via thermocatalytic conversion to aniline",
+  "authors": [
+   "Tim G.W. Engels",
+   "Ruben Stevelink",
+   "Shruti Vaze",
+   "Marlies van der Zijpp",
+   "Martin Pillich",
+   "Stefanie Eiden",
+   "Niels Schenk",
+   "André Bardow",
+   "Hero J. Heeres",
+   "Peter J. Deuss"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15007182/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15007182/v1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Groningen",
+   "Bioclear Earth (Netherlands)",
+   "ETH Zurich",
+   "Covestro (Germany)"
+  ],
+  "added": "2026-08-09"
  },
  {
   "id": "ebe42a1e93d0a4d8",
@@ -97,6 +272,67 @@
    "Rensselaer Polytechnic Institute"
   ],
   "added": "2026-08-08"
+ },
+ {
+  "id": "6a8a8dfb24e446fe",
+  "title": "Designing Amphiphilic Gelatin Hydrogels through Control of Polyester and Polycarbonate Graft Length",
+  "authors": [
+   "Nicolas Deroose",
+   "D. Haddleton",
+   "William Pointer",
+   "Rowan Radmall",
+   "Kristof Van Hecke",
+   "P. Dubruel"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "10.1021/acs.chemmater.6c01025",
+  "url": "https://doi.org/10.1021/acs.chemmater.6c01025",
+  "source": "semanticscholar",
+  "categories": [
+   "In-line Analysis & PAT"
+  ],
+  "tags": [
+   "Benchtop NMR",
+   "Continuous Flow"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-08-09"
+ },
+ {
+  "id": "40a766f543e0bc50",
+  "title": "Accelerating nanodrug development in continuous flow systems using informed prediction models based on low-cost surrogate nanoparticles",
+  "authors": [
+   "K. Dahms",
+   "Eilien Heinrich",
+   "Jochen Schmid",
+   "Michael Bortz",
+   "Iryna Savych",
+   "R. Bleul"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "",
+  "url": "https://www.semanticscholar.org/paper/24ad25522f012a128d63877de001560fb3fd13fd",
+  "source": "semanticscholar",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Microfluidics",
+   "Process Development"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-08-09"
  },
  {
   "id": "21b52821c16250a8",
