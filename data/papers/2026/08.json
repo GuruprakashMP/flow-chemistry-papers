@@ -1,5 +1,123 @@
 [
  {
+  "id": "6b5af00a442458a8",
+  "title": "ElectrochemicalSynthesis of β-ArylaminoKetones from Tertiary Anilines and Silyl Enol Ethers",
+  "authors": [
+   "Yingli Xu",
+   "Zhiqi Yang",
+   "Chenxi Cai",
+   "Wangqing Xiao",
+   "Chongduo Xiong",
+   "Ting Bai",
+   "Pengcheng Zhou"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-11",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c01064",
+  "url": "https://doi.org/10.1021/acs.joc.6c01064",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Wuhan Textile University"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "5cc635b65c004eac",
+  "title": "Spatially Extended DNA Phase Separation in Viscosity-Stratified Miscible Interfaces: Application in Microliter Viscometry.",
+  "authors": [
+   "Sakshi Juneja",
+   "Subhabrata Maiti"
+  ],
+  "journal": "Analytical chemistry",
+  "publisher": "",
+  "published": "2026-08-11",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c03591",
+  "url": "https://doi.org/10.1021/acs.analchem.6c03591",
+  "source": "pubmed",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Liquid-Liquid",
+   "Microfluidics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "4f12d91a69091f0d",
+  "title": "Continuous flow electrochemical oxidation of activated methylarenes using O2.",
+  "authors": [
+   "Noura Alqahtani",
+   "Suguru Iwai",
+   "Tribani Boruah",
+   "Rebecca L Melen",
+   "Thomas Wirth"
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-08-11",
+  "year": 2026,
+  "doi": "10.1039/d6ob01129b",
+  "url": "https://doi.org/10.1039/d6ob01129b",
+  "source": "pubmed",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Gas-Liquid",
+   "Oxidation"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "058981a3527129b7",
+  "title": "Near-ideal plug-flow enables stage separation during dry anaerobic digestion of biowaste in a rotating drum fermenter.",
+  "authors": [
+   "Daniel Krahe",
+   "Othilie Faucher",
+   "Felix Brück",
+   "Linda Knorr",
+   "Ulf Theilen",
+   "Harald Weigand"
+  ],
+  "journal": "Waste management (New York, N.Y.)",
+  "publisher": "",
+  "published": "2026-08-11",
+  "year": 2026,
+  "doi": "10.1016/j.wasman.2026.115802",
+  "url": "https://doi.org/10.1016/j.wasman.2026.115802",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor",
+   "RTD",
+   "Residence Time"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-08-12"
+ },
+ {
   "id": "f95cd94390ec9db7",
   "title": "Supercritical Synthesis of Phase-Pure GdxCe1-xO2-x/2 Nanoparticles (x ≤ 0.3) with a Random Defect Structure.",
   "authors": [
@@ -25,6 +143,206 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-08-11"
+ },
+ {
+  "id": "c6b23cf6b75cc7d7",
+  "title": "Engineered DynamicCo2+ Sites Resolve theComplete Reaction Network for C(sp3)–H Oxidation",
+  "authors": [
+   "Xin Zhao",
+   "Yueshuai Wang",
+   "Chenying Gong",
+   "Jie Wen",
+   "Jie Kang",
+   "Lifang Huang",
+   "Ruiqi Fang",
+   "Yingwei Li"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c09906",
+  "url": "https://doi.org/10.1021/jacs.6c09906",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "South China University of Technology",
+   "Beijing University of Technology",
+   "Yueyang Changling Equipment Research Institute (China)"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "a1e1f0e4458e5dc1",
+  "title": "Energy Transfer Photocatalytic Carboamination of Alkenestoward Primary Amine-Derivatized Trifluoromethyl Ketals",
+  "authors": [
+   "Yechun Wu",
+   "Xinqi Ye",
+   "Lipeng Qiao",
+   "Kai Sun",
+   "Xi Li",
+   "Zhong-Yan Cao",
+   "Xiaolan Chen",
+   "Lingbo Qu",
+   "Bing Yu"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03169",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03169",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Zhengzhou University",
+   "Nanjing Forestry University",
+   "Changsha Medical University",
+   "Henan University of Technology",
+   "Henan University of Engineering"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "8c471150bfc6db49",
+  "title": "Spatially ConfinedMicroreactors via Evaporation-InducedLiquid–Liquid Phase Separation for Integrated Bacterial Detectionand Elimination",
+  "authors": [
+   "Zhong Feng Gao",
+   "Yongsen Zhao",
+   "Xin Sui",
+   "Mengxue Sun",
+   "Jinze Li",
+   "Na Li",
+   "Fan Xia"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c03252",
+  "url": "https://doi.org/10.1021/acs.analchem.6c03252",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Jinan",
+   "Nanchang University",
+   "Qingdao University",
+   "China University of Geosciences",
+   "China University of Geosciences (Beijing)"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "62830bdcd27a9155",
+  "title": "Hybrid bibliometric and literature review of green hydrogen production via photocatalytic water splitting: trends, advances, and future directions",
+  "authors": [
+   "Rajkumar Bhimgonda Patil",
+   "Sonali Kale",
+   "Dhaval Birajdar",
+   "Shashikant Auti",
+   "Anindita Roy"
+  ],
+  "journal": "Discover Applied Sciences",
+  "publisher": "",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1007/s42452-026-09366-7",
+  "url": "https://doi.org/10.1007/s42452-026-09366-7",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Microreactor",
+   "Productivity"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National Institute of Construction Management and Research",
+   "Dwarkadas J. Sanghvi College of Engineering",
+   "Symbiosis International University"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "3af06f9e97b95e6d",
+  "title": "Metallized porphyrin-based covalent organic frameworks with orbital-hybridized conduction channels for continuous-flow adsorption-photocatalytic uranium extraction from seawater.",
+  "authors": [
+   "Bin Zuo",
+   "Ruoyu Wang",
+   "Guoze Yan",
+   "Jiayu Zuo",
+   "Likun Pan",
+   "Dong Jiang",
+   "Yusuke Yamauchi",
+   "Xingtao Xu"
+  ],
+  "journal": "Chemical science",
+  "publisher": "",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1039/d6sc00048g",
+  "url": "https://doi.org/10.1039/d6sc00048g",
+  "source": "pubmed",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Photochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "132bb311fb7d238d",
+  "title": "Automated Flow Synthesiser for Block, Block-statistical, and Gradient Copolymers Material Libraries Construction",
+  "authors": [
+   "WeiNian Wong"
+  ],
+  "journal": "Monash University",
+  "publisher": "",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.26180/33195267.v1",
+  "url": "https://doi.org/10.26180/33195267.v1",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Synthesis",
+   "Machine Learning",
+   "Throughput"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-08-12"
  },
  {
   "id": "9b89635d9193c1b0",
@@ -259,6 +577,37 @@
    "Covestro (Germany)"
   ],
   "added": "2026-08-09"
+ },
+ {
+  "id": "ecb01e04f4d92f37",
+  "title": "Oxygen-vacancy mediated CoFe bimetallic modified biochar for peroxymonosulfate activated degradation of organochlorine pesticides: Effect of the metal carbon interface.",
+  "authors": [
+   "Xuetao Liang",
+   "Longyan Cui",
+   "Mengying Wang",
+   "Jingran Li",
+   "Chen Wang",
+   "Pihong Geng",
+   "Qi Yang"
+  ],
+  "journal": "Journal of colloid and interface science",
+  "publisher": "",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141307",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141307",
+  "source": "pubmed",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-08-12"
  },
  {
   "id": "ebe42a1e93d0a4d8",
