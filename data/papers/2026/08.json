@@ -1,5 +1,167 @@
 [
  {
+  "id": "445df7577cd5e84b",
+  "title": "Mott-Schottky Interface in Bi2Fe4O9/Ag Boosting Piezocarriers Separation for Hydroxychloroquine Degradation.",
+  "authors": [
+   "Peng Liu",
+   "Jiaolong Zhang",
+   "Weibin Huang",
+   "Baisong Zhong",
+   "Miao Zhang",
+   "Chaolin Li",
+   "Wenhui Wang"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-08-27",
+  "year": 2026,
+  "doi": "10.1002/cssc.70959",
+  "url": "https://doi.org/10.1002/cssc.70959",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-08-14"
+ },
+ {
+  "id": "da716e35c8d5b131",
+  "title": "Multielement coordination regulates Co sites in high-entropy oxides for selective peroxymonosulfate activation",
+  "authors": [
+   "Lin H",
+   "Yu W",
+   "Ma H",
+   "Lu W",
+   "Liu R",
+   "Li B",
+   "Famba S",
+   "Zhao L."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-08-13",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-10589984/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-10589984/v1",
+  "source": "europepmc",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-14"
+ },
+ {
+  "id": "0739621b75140dd6",
+  "title": "Tailored Covalent Organic Frameworks Enable the Encapsulation of Living Cells to Produce Rare Ginsenoside.",
+  "authors": [
+   "Fengmei Liu",
+   "Shan Zhang",
+   "Shanrong Wei",
+   "Ziye Xing",
+   "Hongming He",
+   "Xiao Liang",
+   "Quanshun Li"
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "publisher": "",
+  "published": "2026-08-13",
+  "year": 2026,
+  "doi": "10.1002/advs.77136",
+  "url": "https://doi.org/10.1002/advs.77136",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Process Intensification",
+   "Biocatalysis & Enzymatic Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Flow Reactor",
+   "Scale-up",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-08-14"
+ },
+ {
+  "id": "89692b6d748c1e2c",
+  "title": "Green-synthesized metal and metal-oxide nanomaterials for pesticide removal: Synthesis, strategies, mechanistic insights, performance evaluation, and scale-up prospects",
+  "authors": [
+   "Usman Umaru",
+   "Hussein Kehinde Okoro",
+   "Haleemat I. Adegoke"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier BV",
+  "published": "2026-08-12",
+  "year": 2026,
+  "doi": "10.1016/j.nxmate.2026.103145",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103145",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Scale-up"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Ilorin"
+  ],
+  "added": "2026-08-14"
+ },
+ {
+  "id": "75f578b201166f3d",
+  "title": "Green nanoparticles in drug delivery: Translational challenges and AI solutions",
+  "authors": [
+   "Abdulhakim Alhinai",
+   "Raghad M. Al-Maliki",
+   "Hicham Meskher",
+   "Shahnaz Bassim"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier BV",
+  "published": "2026-08-12",
+  "year": 2026,
+  "doi": "10.1016/j.nxmate.2026.103081",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103081",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Machine Learning",
+   "Microfluidics"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Nizwa",
+   "University of Manchester",
+   "Ministry of Science and Technology",
+   "Shantou University",
+   "University of Technology - Iraq"
+  ],
+  "added": "2026-08-14"
+ },
+ {
   "id": "68b63fe6a17cac69",
   "title": "Immobilization of tryptophan synthase on a magnetic bead-T4 capsid biocarrier for multi-round biocatalysis producing high-value L-tryptophan analogs.",
   "authors": [
@@ -31,6 +193,47 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-08-13"
+ },
+ {
+  "id": "223850bfe860d525",
+  "title": "Data-driven optimization and scale-up of a nickel metallaphotoredox alkenylation",
+  "authors": [
+   "Jonas Djossou",
+   "Elia Savino",
+   "Alessandro Buono",
+   "Chiara De Luca",
+   "Anne-Fay de Jong",
+   "Guillaume Hopsort",
+   "Simone Lucarini",
+   "Andrea Duranti",
+   "Timothy Noël"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-08-12",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15007352/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15007352/v1",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up",
+   "Self-Optimization & Machine Learning",
+   "Catalysis in Flow",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Photoredox",
+   "Scale-up"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Amsterdam University of Applied Sciences",
+   "University of Urbino"
+  ],
+  "added": "2026-08-14"
  },
  {
   "id": "c19acb5cf56b721e",
