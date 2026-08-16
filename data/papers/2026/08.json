@@ -91,6 +91,148 @@
   "added": "2026-08-15"
  },
  {
+  "id": "b31bdbe0c7b916b7",
+  "title": "Covalent organic framework-based hybrid architectonics for catalytic upgrading of agro-waste-derived platform molecules into biofuels and fine chemicals",
+  "authors": [
+   "Lalit Goswami",
+   "Gopa Nandikes",
+   "Mohd Shabbir",
+   "Pritam Kumar Dikshit",
+   "Siddhartha Narayan Borah",
+   "Nirmal Kumar Katiyar",
+   "Harvinder Singh Sohal",
+   "Mohammad Moosazadeh",
+   "Gaurav Pandey",
+   "Sushant Singh -",
+   "Arti Choudhary",
+   "Seungdae Oh"
+  ],
+  "journal": "Biotechnology for Biofuels and Bioproducts",
+  "publisher": "BioMed Central",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.1186/s13068-026-02795-x",
+  "url": "https://doi.org/10.1186/s13068-026-02795-x",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Machine Learning"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Gachon University",
+   "Kyung Hee University",
+   "Chandigarh University",
+   "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+   "University of Petroleum and Energy Studies",
+   "Dongguk University",
+   "Earth Cryosphere Institute",
+   "Sharda University",
+   "University of Rajasthan"
+  ],
+  "added": "2026-08-16"
+ },
+ {
+  "id": "74ab43c9b3dca965",
+  "title": "Field-Assisted Crystallization of Thermoplastic Polyurethane During Continuous Processing: A Falsifiable Thermodynamic–Kinetic Framework for Electric, Magnetic, and Hybrid Fields",
+  "authors": [
+   "Andrea Correnti"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.5281/zenodo.21939738",
+  "url": "https://doi.org/10.5281/zenodo.21939738",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Continuous Processing",
+   "Residence Time"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-08-16"
+ },
+ {
+  "id": "65e5fab5ed130787",
+  "title": "A curved gas-liquid counter-current flow tube-in-tube microreactor for efficient CO2 absorption",
+  "authors": [
+   "潘德标",
+   "Caijin Zhou",
+   "Xiaoda Wang",
+   "Xuehui Ge"
+  ],
+  "journal": "Journal of CO2 Utilization",
+  "publisher": "Elsevier BV",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.1016/j.jcou.2026.103547",
+  "url": "https://doi.org/10.1016/j.jcou.2026.103547",
+  "source": "openalex",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Gas-Liquid",
+   "Microreactor",
+   "Tube-in-Tube"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-08-16"
+ },
+ {
+  "id": "60fb019d762770e5",
+  "title": "Autonomous Optimizationof Continuous-Flow ClothianidinSynthesis via Dynamic Kinetic Modeling and Multiobjective BayesianOptimization",
+  "authors": [
+   "Jiapeng Guo",
+   "Xiaorong Lu",
+   "Kang Cao",
+   "Guihua Luo",
+   "Bin Shen",
+   "Yuwei Song",
+   "Weike Su",
+   "An Su"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00272",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00272",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Modeling & Kinetics",
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Autonomous Optimization",
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Kinetic Modeling",
+   "Scale-up",
+   "Static Mixer"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Zhejiang University of Science and Technology",
+   "Zhejiang University of Technology"
+  ],
+  "added": "2026-08-16"
+ },
+ {
   "id": "5a9937b98c089e6d",
   "title": "Evaluation of anaerobic digestion research trends in the last four decades (1980-2025): Substrate digestibility, microbial synergism, and machine learning.",
   "authors": [
@@ -122,6 +264,97 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-08-15"
+ },
+ {
+  "id": "3c5d0eb12b10fbdc",
+  "title": "Analyse du Potentiel de l'Extrêmobiomimétisme",
+  "authors": [
+   "Xavier Pillet"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.5281/zenodo.21937191",
+  "url": "https://doi.org/10.5281/zenodo.21937191",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidics",
+   "Microreactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-08-16"
+ },
+ {
+  "id": "0d6236ebe5702ef6",
+  "title": "Chronic stable recording of physiologically evoked neural activity in a mixed autonomic nerve in awake, freely moving normal and experimental cystitis rats.",
+  "authors": [
+   "Sophie C Payne",
+   "Christopher Bowman",
+   "Peregrine B Osborne",
+   "Jerico Matarazzo",
+   "Janet R Keast",
+   "James B Fallon"
+  ],
+  "journal": "APL bioengineering",
+  "publisher": "",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.1063/5.0336334",
+  "url": "https://doi.org/10.1063/5.0336334",
+  "source": "pubmed",
+  "categories": [
+   "In-line Analysis & PAT"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Real-Time Monitoring"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-08-16"
+ },
+ {
+  "id": "00483412a5a8f26a",
+  "title": "Advances in reagent addition for droplet-based microfluidics: from interfacial engineering to high-throughput screening",
+  "authors": [
+   "Yuanyi Zhao",
+   "Qingtian Zhang",
+   "Sukrit Gaira",
+   "Rongfeng Wang",
+   "Junyan Lai",
+   "Xiaopeng Li",
+   "Chengchen Zhang",
+   "Ming Li",
+   "Shi-Yang Tang"
+  ],
+  "journal": "npj Soft Matter",
+  "publisher": "",
+  "published": "2026-08-14",
+  "year": 2026,
+  "doi": "10.1038/s44431-026-00037-6",
+  "url": "https://doi.org/10.1038/s44431-026-00037-6",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Droplet",
+   "Microfluidics",
+   "Microreactor",
+   "Throughput"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "UNSW Sydney",
+   "University of Southampton"
+  ],
+  "added": "2026-08-16"
  },
  {
   "id": "da716e35c8d5b131",
@@ -184,6 +417,44 @@
    "Nagoya University"
   ],
   "added": "2026-08-15"
+ },
+ {
+  "id": "2c5269bdc27f0d17",
+  "title": "Gas-Phase Back-Reaction Governs CO2 Activation and Dissociation on Cu(111)",
+  "authors": [
+   "Peter Matvija",
+   "Martin Ormoš",
+   "Shiva Oveysipoor",
+   "Jesús Redondo",
+   "Sabine Auras",
+   "Frederik Schiller",
+   "J. Enrique Ortega",
+   "Iva Matolı́nová"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-08-13",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15007430/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15007430/v1",
+  "source": "openalex",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling",
+   "Oxidation",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Charles University",
+   "University of the Basque Country",
+   "Material Physics Center",
+   "Centro de Investigación en Materiales Avanzados"
+  ],
+  "added": "2026-08-16"
  },
  {
   "id": "14918753f9f42382",
