@@ -30,6 +30,117 @@
   "added": "2026-08-14"
  },
  {
+  "id": "e5e11fa6411b546c",
+  "title": "Oxidative Flow Electrochemistry: A Platform for Generating Reactive Intermediates and Reaction Control",
+  "authors": [
+   "Sagar Arepally",
+   "Tribani Boruah",
+   "Rebecca L. Melen",
+   "Thomas Wirth"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00413",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00413",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Electrochemistry",
+   "Flow Reactor"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Cardiff University"
+  ],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "7b3a2fe9eb540d2e",
+  "title": "MassIVE MSV000102891 - Centrifugal Microfluidic Integration of a Microreactor-Based Sample Preparation for Spatial Proteomics",
+  "authors": [
+   "Oliver Schilling",
+   "Jan-Niklas Klatt"
+  ],
+  "journal": "UC San Diego",
+  "publisher": "University of California San Diego",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.25345/c5gq6rh06",
+  "url": "https://doi.org/10.25345/c5gq6rh06",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidics",
+   "Microreactor"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University Medical Center Freiburg",
+   "Hahn-Schickard-Gesellschaft für angewandte Forschung"
+  ],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "449adfe9e45625bc",
+  "title": "When Does an Accounting Inequality Have Teeth? A landing criterion for the maintenance power bound in prebiotic chemistry, with a first empirical execution",
+  "authors": [
+   "Qinfu Li"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.5281/zenodo.21989690",
+  "url": "https://doi.org/10.5281/zenodo.21989690",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "315541dd5f3e1900",
+  "title": "Synthesis of solketal from glycerol and acetone over zeolites: intensification of the process via applied a microreactor",
+  "authors": [
+   "M. N. Timofeeva",
+   "D. V. Andreev",
+   "N. A. Kaverov",
+   "A. R. Goman",
+   "V. N. Panchenko",
+   "I. A. Lukoyanov",
+   "K. I. Shefer"
+  ],
+  "journal": "Reaction Kinetics Mechanisms and Catalysis",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.1007/s11144-026-03228-4",
+  "url": "https://doi.org/10.1007/s11144-026-03228-4",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-08-20"
+ },
+ {
   "id": "2cc224c304cd3d2c",
   "title": "Microfluidic phase inversion for nanoemulsification via surfactant-affinity modulation.",
   "authors": [
@@ -57,6 +168,46 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-08-19"
+ },
+ {
+  "id": "283bd8dcbd014217",
+  "title": "Magnetically Controlled Wall-Loading of CALB-ImmobilizedFe3O4 Nanoparticles for Continuous-Flow Transesterificationin a Microreactor",
+  "authors": [
+   "Yiruo He",
+   "Weiyi Su",
+   "Jianheng Song",
+   "Qidong Liu",
+   "Na Wang",
+   "Xiong Yu",
+   "Honghai Wang"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c02575",
+  "url": "https://doi.org/10.1021/acs.iecr.6c02575",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Flow Rate",
+   "Immobilized Enzyme",
+   "Microreactor"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Hebei University of Technology",
+   "Hebei University of Science and Technology",
+   "Technology Holding (United States)",
+   "Tianjin Economic-Technological Development Area",
+   "Tianjin University"
+  ],
+  "added": "2026-08-20"
  },
  {
   "id": "bd13be660b9d279b",
@@ -172,6 +323,36 @@
    "Boreskov Institute of Catalysis"
   ],
   "added": "2026-08-19"
+ },
+ {
+  "id": "3a932afb2747efe2",
+  "title": "One–step aqueous synthesis of Mn– ZnO : Mitigating enthalpy–entropy trade–off for atom–economical PET upcycling",
+  "authors": [
+   "Wenxuan He",
+   "Zhixue Teng",
+   "Zhifeng Ao",
+   "Tiefeng Zhao",
+   "Zhigang Shen"
+  ],
+  "journal": "AIChE Journal",
+  "publisher": "Wiley",
+  "published": "2026-08-17",
+  "year": 2026,
+  "doi": "10.1002/aic.70592",
+  "url": "https://doi.org/10.1002/aic.70592",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Xiangtan University"
+  ],
+  "added": "2026-08-20"
  },
  {
   "id": "f2c07e059de1f2b9",
