@@ -1,5 +1,93 @@
 [
  {
+  "id": "53c4fc95396fb7e0",
+  "title": "Continuous flow nitration in microreactors: progress and future challenges",
+  "authors": [
+   "Wanchen Li",
+   "Chuan Zhou",
+   "Junrong Huang",
+   "YiYing Zhang",
+   "Jingyuan Liao",
+   "Yang Zhao",
+   "Lianjie Zhai",
+   "Yuxiang Zhu",
+   "Hengzhi You"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.1007/s41981-026-00382-7",
+  "url": "https://doi.org/10.1007/s41981-026-00382-7",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microreactor",
+   "Nitration"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-09-03"
+ },
+ {
+  "id": "39207fafa2bf3dfa",
+  "title": "Intravascular hemolysis and clinical outcomes in continuous-flow LVAD patients: A single-center retrospective analysis.",
+  "authors": [
+   "Kilic AO",
+   "Engin C",
+   "Yagdi T",
+   "Ozbaran M."
+  ],
+  "journal": "The International journal of artificial organs",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.1177/03913988261479983",
+  "url": "https://doi.org/10.1177/03913988261479983",
+  "source": "europepmc",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-03"
+ },
+ {
+  "id": "3815df8fe7f0fdf4",
+  "title": "Feasibility and Midterm Outcomes of Concomitant Aortic Valve Plasty in Contemporary HeartMate 3 Practice.",
+  "authors": [
+   "Kohei Tonai",
+   "Kota Suzuki",
+   "Nana Kitahata",
+   "Kizuku Yamashita",
+   "Takuma Sato",
+   "Yasumasa Tsukamoto",
+   "Satsuki Fukushima"
+  ],
+  "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.1097/mat.0000000000002817",
+  "url": "https://doi.org/10.1097/MAT.0000000000002817",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-09-03"
+ },
+ {
   "id": "f4600a4f2c1b13f2",
   "title": "3D Printed X-ray Compatible Microfluidics for Online Characterization of Hexosomes: A Synchrotron SAXS-on-Chip Study with Molecular Dynamics Insights",
   "authors": [
@@ -211,5 +299,35 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-01"
+ },
+ {
+  "id": "2a718ff94bf0f11c",
+  "title": "Integrated Green Strategies for Pharmaceutical Intermediate Synthesis",
+  "authors": [
+   "Kaminee Sahu Nisha Gupta*"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22236845",
+  "url": "https://doi.org/10.5281/zenodo.22236845",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Biocatalysis & Enzymatic Flow",
+   "Flow Photochemistry",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Biocatalysis",
+   "Continuous Flow",
+   "Photoredox",
+   "Scale-up"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-09-03"
  }
 ]
