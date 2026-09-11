@@ -1,5 +1,138 @@
 [
  {
+  "id": "f36798767ed822ef",
+  "title": "A Versatile Microfluidic Device for High-throughput Combinatorial Drug Screening",
+  "authors": [
+   "Jaiswal S",
+   "Reddy MP",
+   "Paul D",
+   "Gandhi P",
+   "Majumder A."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.64898/2026.09.09.750366",
+  "url": "https://doi.org/10.64898/2026.09.09.750366",
+  "source": "europepmc",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics",
+   "Throughput"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-09-11"
+ },
+ {
+  "id": "a2fb92b15a395029",
+  "title": "Continuous In-Line Synthesis and Surface Passivation of Perovskite Nanocrystals via a Hybrid Multistep Flow Reactor",
+  "authors": [
+   "Yo-Han Suh",
+   "Seung Hyun Lee",
+   "Il-Gu Kim",
+   "Young-Kyu Hong",
+   "Sung-Woo Byun"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c05786",
+  "url": "https://doi.org/10.1021/acsomega.6c05786",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Multistep Flow",
+   "Scale-up",
+   "Static Mixer"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Jeonbuk State Institute",
+   "Korea Electronics Technology Institute"
+  ],
+  "added": "2026-09-11"
+ },
+ {
+  "id": "9829ddb049ad6f3c",
+  "title": "Advances in Non-Photo Sulfite-Based Advanced Reduction Processes: Key Mechanism, System Activation, and Future Perspectives.",
+  "authors": [
+   "Jiaojiao Du",
+   "Xintong You",
+   "Xintong Chen",
+   "Gaofeng Hao",
+   "Ruixin Mo",
+   "Wu Wen",
+   "Yi Yang"
+  ],
+  "journal": "Environmental research",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1016/j.envres.2026.125664",
+  "url": "https://doi.org/10.1016/j.envres.2026.125664",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-11"
+ },
+ {
+  "id": "0ca291b8af8ac542",
+  "title": "Single-Atom Zn Interface Engineering for Efficient Noble-Metal-Free Photocatalytic Non-Oxidative Coupling of Methane.",
+  "authors": [
+   "Zeng H",
+   "Sui X",
+   "Zhang P",
+   "Wang Y",
+   "Zhang Z",
+   "Yuan R",
+   "Ding Z",
+   "Ao Y",
+   "Li B",
+   "Huang H",
+   "Long J."
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.1002/adma.74983",
+  "url": "https://doi.org/10.1002/adma.74983",
+  "source": "europepmc",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-09-11"
+ },
+ {
   "id": "ccdc1c51c7655724",
   "title": "Photothermal CO 2 hydrogenation for C 1 fuels: fundamentals, reaction pathways and reactor design.",
   "authors": [
@@ -31,6 +164,34 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-09-10"
+ },
+ {
+  "id": "aa7a46dc947ccd07",
+  "title": "From batch to continuous electrocoagulation: integrating hydrodynamics and process parameters for efficient fluoride removal and reactor scale-up.",
+  "authors": [
+   "Companhia BJF",
+   "Scalize PS."
+  ],
+  "journal": "Environmental science and pollution research international",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1007/s11356-026-38203-y",
+  "url": "https://doi.org/10.1007/s11356-026-38203-y",
+  "source": "europepmc",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "RTD",
+   "Residence Time",
+   "Scale-up"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-09-11"
  },
  {
   "id": "8ba946de9f3de4c7",
@@ -116,6 +277,44 @@
    "Technological University Dublin"
   ],
   "added": "2026-09-10"
+ },
+ {
+  "id": "253fc6aaa0cc7e4f",
+  "title": "Contrasting Roles of Rare-Earth and Ga Oxide Additives in Spinel-Derived Water-Tolerant Ni-Co/Al2O3 Catalysts for Ammonia Decomposition",
+  "authors": [
+   "Anh Binh Ngo",
+   "Liseth Duarte-Correa",
+   "Frank Girgsdies",
+   "Jihao Wang",
+   "Thomas Lunkenbein",
+   "Jutta Kröhnert",
+   "Olaf Timpe",
+   "Konstantinos Kappis",
+   "Mino Borrelli",
+   "Oscar Gómez-Cápiro",
+   "Holger Ruland",
+   "Annette Trunschke"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c05612",
+  "url": "https://doi.org/10.1021/acscatal.6c05612",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Fritz Haber Institute of the Max Planck Society",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-09-11"
  },
  {
   "id": "fd737d6da0a23573",
