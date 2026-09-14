@@ -1,5 +1,121 @@
 [
  {
+  "id": "5924f8d20bc18904",
+  "title": "Quantum dot-based photocatalysts for CO2 valorisation in organic transformations.",
+  "authors": [
+   "Bapi Pradhan",
+   "Arvind Singh Chauhan",
+   "Saige Toedtman",
+   "Yucheng Yuan",
+   "Hua Zhu"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1039/d6cc04204j",
+  "url": "https://doi.org/10.1039/d6cc04204j",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-14"
+ },
+ {
+  "id": "9a2e8660e9369c1e",
+  "title": "Adapting the Five-Dimensional Digital Twin Model for On-Demand and Recongurable Continuous Flow Chemistry: An Ontological Approach",
+  "authors": [
+   "inès dib",
+   "Catherine Da Cunha",
+   "François-Xavier Felpin"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "",
+  "url": "https://hal.science/hal-05744102",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-09-14"
+ },
+ {
+  "id": "893574eb4f77755c",
+  "title": "Combined Experimental and Theoretical Study on Neopentanol Pyrolysis",
+  "authors": [
+   "Rizalina Tama Saragi",
+   "Michael Stuhr",
+   "Maristella Di Teodoro",
+   "Satya P. Joshi",
+   "Carlo Cavallotti",
+   "Kirill Prozument",
+   "Robert S. Tranter"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c04523",
+  "url": "https://doi.org/10.1021/acs.jpca.6c04523",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Argonne National Laboratory",
+   "Politecnico di Milano"
+  ],
+  "added": "2026-09-14"
+ },
+ {
+  "id": "0255136e66119e8d",
+  "title": "Electrokinetic Enrichment and Purification of Proteins and Anions from High-salt Samples on Liquid Plasticine-Based Open Chip",
+  "authors": [
+   "牛继成",
+   "Wenxuan Fu",
+   "Bin Su",
+   "Zhen Wang"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-12",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c05086",
+  "url": "https://doi.org/10.1021/acs.analchem.6c05086",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidics",
+   "Microreactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Hangzhou Medical College",
+   "Zhejiang University"
+  ],
+  "added": "2026-09-14"
+ },
+ {
   "id": "be9362ea2e7680b4",
   "title": "Nanobubbles-assisted piezoelectric effect enhances interfacial reactivity and accelerates water decontamination.",
   "authors": [
@@ -33,6 +149,45 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-09-12"
+ },
+ {
+  "id": "004dd59a15e44e4c",
+  "title": "Microfluidic Process Intensification for the Synthesis of Nitrogen-Containing Bio-Based Polyols via Aminolysis of Epoxidized Soybean Oil",
+  "authors": [
+   "Ke Yang",
+   "Xue Li",
+   "Jian Wang",
+   "Zhenhua Sun",
+   "Yanru Chen",
+   "Jiangkai Qiu",
+   "Qingli Cheng"
+  ],
+  "journal": "Polymers",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-11",
+  "year": 2026,
+  "doi": "10.3390/polym18182217",
+  "url": "https://doi.org/10.3390/polym18182217",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Microfluidics",
+   "Microreactor",
+   "Process Intensification",
+   "Residence Time"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "Sinopec (China)",
+   "Shengli Oilfield Central Hospital",
+   "Nanjing Tech University"
+  ],
+  "added": "2026-09-14"
  },
  {
   "id": "f36798767ed822ef",
@@ -1667,6 +1822,34 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-04"
+ },
+ {
+  "id": "935ce3d0e2f2f3ba",
+  "title": "Targeted Preparation of Low-Degree Polymerization Xylooligosaccharides From Lignocellulosic Biomass: Advances, Structure-Activity Relationships, and Applications.",
+  "authors": [
+   "Xuan Ge",
+   "Chenhuan Lai",
+   "Caoxing Huang",
+   "Qiang Yong",
+   "Yingjie Du"
+  ],
+  "journal": "Journal of food science",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1111/1750-3841.71482",
+  "url": "https://doi.org/10.1111/1750-3841.71482",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-14"
  },
  {
   "id": "6d32bdd7c8ed9eaf",
