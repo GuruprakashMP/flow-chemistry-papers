@@ -1,5 +1,61 @@
 [
  {
+  "id": "afcd472ac152cd7d",
+  "title": "Plasma–Microreactor Integration for Green and Continuous Synthesis of Pt/GO Electrocatalysts",
+  "authors": [
+   "Mei Ji",
+   "Cong Wang",
+   "Zhikun Miao",
+   "Jie Shen",
+   "Xiaoyong Xu",
+   "Liangliang Lin"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c02069",
+  "url": "https://doi.org/10.1021/acs.iecr.6c02069",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor",
+   "Oxidation",
+   "Residence Time"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Jiangnan University",
+   "The University of Adelaide"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "650d8ca7b6164ab7",
+  "title": "Abiogenesis Dynamically Gated Endogenous Maintenance",
+  "authors": [
+   "Kevin Brown"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22756580",
+  "url": "https://doi.org/10.5281/zenodo.22756580",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "5924f8d20bc18904",
   "title": "Quantum dot-based photocatalysts for CO2 valorisation in organic transformations.",
   "authors": [
@@ -26,6 +82,83 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "3b17dabe4b76bf54",
+  "title": "FastNano Liquid: An Automated Platform for Small‐Angle X‐ray Scattering‐Based Materials Discovery",
+  "authors": [
+   "Pierre-Baptiste Flandrin",
+   "Émeline Cournède",
+   "Jens Krarup",
+   "Michael Lesa",
+   "Foyzul Hasan",
+   "Amandine Séné",
+   "Arnaud Lahouati",
+   "David Benhaiem",
+   "Jérémie-Luc Sanchez",
+   "Simon Delacroix",
+   "Thierry Gacoin",
+   "Fabienne Testard",
+   "Damien Faivre",
+   "David Carrière",
+   "Corinne Chevallard",
+   "Olivier Taché",
+   "Mark A. Levenstein"
+  ],
+  "journal": "Advanced Engineering Materials",
+  "publisher": "Wiley",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/adem.71267",
+  "url": "https://doi.org/10.1002/adem.71267",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Machine Learning",
+   "Microfluidics",
+   "Throughput"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "Université Paris-Saclay",
+   "CEA Paris-Saclay",
+   "École Polytechnique",
+   "Temple College",
+   "Latvia University of Life Sciences and Technologies",
+   "University of Latvia"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "30f1be7dee95b7df",
+  "title": "CAD data and simulation results for a study on operating parameters in multi-material microreactors",
+  "authors": [
+   "Lennart Mesecke",
+   "Roland Lachmayer"
+  ],
+  "journal": "Forschungsdaten-Repositorium der LUH",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.25835/xhymgaua",
+  "url": "https://doi.org/10.25835/xhymgaua",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "9a2e8660e9369c1e",
@@ -476,6 +609,35 @@
    "University of Saskatchewan"
   ],
   "added": "2026-09-10"
+ },
+ {
+  "id": "8b706350503aff0a",
+  "title": "Electronically asymmetric Ru-O-Bi sites enable complementary peroxymonosulfate activation for integrated antimicrobial resistance control in wastewater.",
+  "authors": [
+   "Mingmei Li",
+   "Lina Su",
+   "Pengfei Wang",
+   "Kaida Zhang",
+   "Sihui Zhan"
+  ],
+  "journal": "Water research",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.126914",
+  "url": "https://doi.org/10.1016/j.watres.2026.126914",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "6c4fe611e2d36d91",
