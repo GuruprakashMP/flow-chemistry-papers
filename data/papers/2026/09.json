@@ -54,6 +54,99 @@
   "added": "2026-09-18"
  },
  {
+  "id": "ef799f53dab0e24d",
+  "title": "A Flux-Based Bioaccumulation Model for Growing Organisms: Integrating Advective-Diffusive Uptake at Exchange Organs into Dynamic Energy Budget Theory.",
+  "authors": [
+   "Lee JH",
+   "Joe CY."
+  ],
+  "journal": "Environmental toxicology and chemistry",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.1093/etojnl/vgag253",
+  "url": "https://doi.org/10.1093/etojnl/vgag253",
+  "source": "europepmc",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-23"
+ },
+ {
+  "id": "edc62b747afcd1b2",
+  "title": "Polymer-engineered hierarchical magnetic nanoparticle-in-microparticle composites as protective catalytic microenvironments for recyclable biocatalysis",
+  "authors": [
+   "Marla Karolyne dos Santos Horta",
+   "Tayna Ferreira da Cunha Pariz",
+   "Tamires Carvalho dos Santos",
+   "Evelyn C. S. Santos",
+   "Priscilla Vanessa Finotelli",
+   "Priscilla Filomena Fonseca Amaral",
+   "Ludmila de Paula Cabral Silva",
+   "Ana Carla da Silveira Lomba Sant´Ana Coutinho",
+   "Marcel Guimarães Martins"
+  ],
+  "journal": "Discover Polymers.",
+  "publisher": "Academy of Medicine, Singapore",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.1007/s44347-026-00069-1",
+  "url": "https://doi.org/10.1007/s44347-026-00069-1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Microreactor"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Universidade Federal do Rio de Janeiro",
+   "Universidade Federal Fluminense"
+  ],
+  "added": "2026-09-23"
+ },
+ {
+  "id": "51d7b45e398c18fd",
+  "title": "Resolving C6H6 Isomers from the Propargyl Self-Reaction at Combustion-Relevant Temperatures by PEPICO Spectroscopy",
+  "authors": [
+   "Thomas Bierkandt",
+   "Patrick Hemberger",
+   "Nina Gaiser",
+   "Patrick J Osswald",
+   "Markus Köhler",
+   "Nils Hansen"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c03346",
+  "url": "https://doi.org/10.1021/acs.jpca.6c03346",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Combustion Institute",
+   "Paul Scherrer Institute",
+   "Sandia National Laboratories"
+  ],
+  "added": "2026-09-23"
+ },
+ {
   "id": "bafbb0d53eb22b73",
   "title": "Double photooxygenation of C-H bonds for the synthesis of polyoxygenated molecules.",
   "authors": [
@@ -78,6 +171,37 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-09-22"
+ },
+ {
+  "id": "60fba45e1bc99f16",
+  "title": "Data-driven machine learning optimisation of silver nanoparticle synthesis.",
+  "authors": [
+   "Carver J",
+   "Chew YMJ",
+   "Perera S",
+   "Chatterjee S."
+  ],
+  "journal": "Nanoscale advances",
+  "publisher": "",
+  "published": "2026-09-21",
+  "year": 2026,
+  "doi": "10.1039/d6na00557h",
+  "url": "https://doi.org/10.1039/d6na00557h",
+  "source": "europepmc",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Nanomaterial Synthesis in Flow",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Machine Learning",
+   "Nanoparticle Synthesis"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-09-23"
  },
  {
   "id": "ee8dad1168746826",
@@ -1263,6 +1387,42 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-09-12"
+ },
+ {
+  "id": "24eaca44c2cd9593",
+  "title": "On-demand microfluidic synthesis of silver nanoparticles for SERS detection of organic compounds: A preliminary feasibility study for astrobiology applications.",
+  "authors": [
+   "Lidia Asenjo Estevez",
+   "Ilaria Costantini",
+   "Jörg P Kutter",
+   "Gowtham Sathyanarayanan",
+   "Jose Antonio Manrique",
+   "Sofia Julve González",
+   "Ivan Reyes Rodríguez",
+   "Maria Mayoral Yagüe",
+   "Sergio Jimenez Blazquez",
+   "Aurelio Sanz Arranz",
+   "Eduardo Rodríguez Gutiez",
+   "Guillermo Lopez-Reyes",
+   "Marco Veneranda"
+  ],
+  "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+  "publisher": "",
+  "published": "2026-09-11",
+  "year": 2026,
+  "doi": "10.1016/j.saa.2026.128776",
+  "url": "https://doi.org/10.1016/j.saa.2026.128776",
+  "source": "pubmed",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-09-23"
  },
  {
   "id": "004dd59a15e44e4c",
