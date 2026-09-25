@@ -26,6 +26,40 @@
   "added": "2026-09-20"
  },
  {
+  "id": "007853755384d62b",
+  "title": "Green Chemistry Approaches in Pharmaceutical Synthesis: Sustainable Methods, Challenges and Future Perspectives",
+  "authors": [
+   "Sayali Sahadev Sakhare"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22914742",
+  "url": "https://doi.org/10.5281/zenodo.22914742",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "In-line Analysis & PAT",
+   "Biocatalysis & Enzymatic Flow",
+   "Scale-up & Numbering-up",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Biocatalysis",
+   "Continuous Flow",
+   "Continuous Manufacturing",
+   "PAT",
+   "Pharma Manufacturing",
+   "Reaction Optimization",
+   "Scale-up"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-09-25"
+ },
+ {
   "id": "abc020a933602961",
   "title": "Continuous-Flow Conversion of Waste Polystyrene Into Styrene Monomers Utilizing the Microwave-Concentration Effect on Spherical Activated Carbon.",
   "authors": [
@@ -52,6 +86,88 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-18"
+ },
+ {
+  "id": "5f918d17a552e91a",
+  "title": "Not All Oxygen is Delivered Equally: Pulse-Dose Versus Continuous Flow in Practice and Physiology.",
+  "authors": [
+   "Heather M Giannini",
+   "Wassim W Labaki"
+  ],
+  "journal": "Chronic obstructive pulmonary diseases (Miami, Fla.)",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.15326/jcopdf.2026.0871",
+  "url": "https://doi.org/10.15326/jcopdf.2026.0871",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "5b6c4eaefb54bf21",
+  "title": "All-Lignin Microspheres with Controllable Surface Charges Fabricated from Water-Soluble Quaternized Lignin.",
+  "authors": [
+   "Ji Won Heo",
+   "Min Soo Kim",
+   "Yong Sik Kim"
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.1002/smll.75919",
+  "url": "https://doi.org/10.1002/smll.75919",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Packed Bed"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "2cc625bd73c19c7d",
+  "title": "Schottky-Induced Built-in Electric Fields in Co@TiO2 Nanoarrays Promote Co(IV)=O Formation for Efficient Antibiotic Degradation via Electro-Activation of Peroxymonosulfate.",
+  "authors": [
+   "Xiaojie Ji",
+   "Wenhui Dai",
+   "Xiaolong Zhang",
+   "Xun Xu",
+   "Luliang Liao",
+   "Ping Li",
+   "Hao Zhang",
+   "Shuwang Duo"
+  ],
+  "journal": "Environmental research",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.1016/j.envres.2026.125753",
+  "url": "https://doi.org/10.1016/j.envres.2026.125753",
+  "source": "pubmed",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-25"
  },
  {
   "id": "27db36fffbb8c5d1",
@@ -97,6 +213,43 @@
   "added": "2026-09-24"
  },
  {
+  "id": "fe606019515c54cf",
+  "title": "2,2,6,6‐Tetramethylpiperidin‐1‐oxyl‐Regulated Divergent 1,5‐ and 1,2‐Hydrogen Atom Transfer for Site‐Selective C(sp 3 )─H Aminations in Continuous Flow",
+  "authors": [
+   "Xiu Duan",
+   "Song Jiang",
+   "Qixiang Wang",
+   "Qinwen Wang",
+   "Honghua Jia",
+   "Jiang-Kai Qiu",
+   "Kai Guo",
+   "Xinxin Wu"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1002/adsc.70771",
+  "url": "https://doi.org/10.1002/adsc.70771",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Separation & In-line Purification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Photoredox",
+   "Residence Time",
+   "Scavenger"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Nanjing Tech University",
+   "Soochow University"
+  ],
+  "added": "2026-09-25"
+ },
+ {
   "id": "e129c16707239518",
   "title": "Low-temperature plasma technology: comprehensive applications in microalgae cultivation, mutagenesis, and downstream processing.",
   "authors": [
@@ -136,6 +289,92 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "b145be2eb3d575c6",
+  "title": "Vat-Printed Microreactors for Chemical Processing: Residence-Time Distribution, Mixing, Compatibility and Scale-Out",
+  "authors": [
+   "Juan Segurola"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22921760",
+  "url": "https://doi.org/10.5281/zenodo.22921760",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Scale-up & Numbering-up",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Microfluidics",
+   "Microreactor",
+   "Numbering-up",
+   "RTD",
+   "Scale-out"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Dynavax Technologies (Germany)"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "23abfa2aac2cdcf4",
+  "title": "Biocatalytic carbohydrate modification using lipase from Stutzerimonas stutzeri : From regioselective hydrolysis to glycolipid synthesis",
+  "authors": [
+   "Pilar Hoyos",
+   "María J. Hernáiz"
+  ],
+  "journal": "Biocatalysis and Biotransformation",
+  "publisher": "Taylor & Francis",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1080/10242422.2026.2731001",
+  "url": "https://doi.org/10.1080/10242422.2026.2731001",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Process Intensification"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Universidad Complutense de Madrid"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "062be2f0e33722a0",
+  "title": "Closing the Loop Between Synthetic and Living Cells",
+  "authors": [
+   "Ion A. Ioannou"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15009350/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15009350/v1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Imperial College London"
+  ],
+  "added": "2026-09-25"
  },
  {
   "id": "ef799f53dab0e24d",
@@ -2259,6 +2498,35 @@
   "added": "2026-09-10"
  },
  {
+  "id": "88d1a79d5b48d9a6",
+  "title": "Microfluidic Light-Scattering Imaging Coupled with Deep Learning for Label-Free Single-Cell Classification of Lymphoma Cells.",
+  "authors": [
+   "Linyan Xie",
+   "Mengfei Wang",
+   "Xijia Luo",
+   "Shuoxian Xia",
+   "Qiongqiong Ren",
+   "Xuezhi Zhou"
+  ],
+  "journal": "Biosensors",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.3390/bios16090500",
+  "url": "https://doi.org/10.3390/bios16090500",
+  "source": "pubmed",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-25"
+ },
+ {
   "id": "78e4e22674216773",
   "title": "Remote C(sp3)–H Functionalization via Visible-Light-Mediated Generation of Amidyl Radicals from Readily Accessible Arylsulfonamides",
   "authors": [
@@ -2512,6 +2780,36 @@
    "Technical University of Denmark"
   ],
   "added": "2026-09-08"
+ },
+ {
+  "id": "ec1e046967f27897",
+  "title": "β-Cyclodextrin-based composites for wastewater treatment: Recent advances, challenges, and future perspectives.",
+  "authors": [
+   "Shahabaldin Rezania",
+   "Jinwoo Cho",
+   "Mahnoush Beygisangchin",
+   "Mehran Ghasemlou",
+   "Junboum Park",
+   "Amin Mojiri",
+   "Amir Hossein Behroozi"
+  ],
+  "journal": "Carbohydrate polymers",
+  "publisher": "",
+  "published": "2026-09-04",
+  "year": 2026,
+  "doi": "10.1016/j.carbpol.2026.125811",
+  "url": "https://doi.org/10.1016/j.carbpol.2026.125811",
+  "source": "pubmed",
+  "categories": [
+   "Separation & In-line Purification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Membrane Separation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-25"
  },
  {
   "id": "d69bc0b9a062db3e",
