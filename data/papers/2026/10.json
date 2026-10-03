@@ -28,6 +28,35 @@
   "added": "2026-09-17"
  },
  {
+  "id": "966aaa53c5920103",
+  "title": "Real-time process analysis and optimization of nitroguanidine synthesis in microflow using inline Raman spectroscopy.",
+  "authors": [
+   "L Hirschberger",
+   "M B R Völkl",
+   "K Karaghiosoff",
+   "T M Klapötke",
+   "C Haisch"
+  ],
+  "journal": "Analytical and bioanalytical chemistry",
+  "publisher": "",
+  "published": "2026-10-03",
+  "year": 2026,
+  "doi": "10.1007/s00216-026-06847-x",
+  "url": "https://doi.org/10.1007/s00216-026-06847-x",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Nitration",
+   "Residence Time"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-03"
+ },
+ {
   "id": "f7cc1d082fa325a8",
   "title": "Transient radicals, persistent products: flash pyrolysis of 4-ethylguaiacol and eugenol at 1000 °C.",
   "authors": [
@@ -52,6 +81,29 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-02"
+ },
+ {
+  "id": "ee8c3780d2005d5e",
+  "title": "Neuro-Symbolic CSFM: Condition Dependent Source Flow Matching for Multi Objective Logic Synthesis",
+  "authors": [
+   "Vladimer Khasia"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23084040",
+  "url": "https://doi.org/10.5281/zenodo.23084040",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-03"
  },
  {
   "id": "e72de42c5494fdf1",
@@ -84,6 +136,60 @@
   "added": "2026-07-27"
  },
  {
+  "id": "c37b4c3cd8782954",
+  "title": "Continuous-flow integrated mangosteen peel adsorption and ultrafiltration membrane treatment for organic pollutant removal from tofu wastewater",
+  "authors": [
+   "Susi Susanti",
+   "Rizka Wulandari Putri",
+   "Rahmatullah Rahmatullah",
+   "Afriza Citra Rahmadhini",
+   "Halimah Maulidia",
+   "Muhammad Rendana",
+   "Farahin M. Jais"
+  ],
+  "journal": "Journal of Engineering and Applied Science",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1186/s44147-026-01218-w",
+  "url": "https://doi.org/10.1186/s44147-026-01218-w",
+  "source": "semanticscholar",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-03"
+ },
+ {
+  "id": "c0b7a44108c0c331",
+  "title": "New porous liquids, their properties and applications",
+  "authors": [
+   "C. M. Kelly"
+  ],
+  "journal": "Research Portal (Queen's University Belfast)",
+  "publisher": "Queen's University Belfast",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.17034/32640252",
+  "url": "https://doi.org/10.17034/32640252",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-03"
+ },
+ {
   "id": "c06d6a7f9a214e84",
   "title": "Stable photocatalytic CO2-to-CH4 conversion enabled by a 3D hydrophobic Ti3C2Tx MXene architecture under continuous flow",
   "authors": [
@@ -112,6 +218,59 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-08-12"
+ },
+ {
+  "id": "bd4663b6bf7207e7",
+  "title": "One-step flow synthesis and [ 68 Ga]Ga radiolabelling of metal phenolic network nanoparticles for in vivo PET tracking.",
+  "authors": [
+   "Shepherd E",
+   "Carrascal Miniño A",
+   "Mishra A",
+   "Pellico J",
+   "Sengel J",
+   "T M de Rosales R",
+   "Surman AJ."
+  ],
+  "journal": "Nanoscale",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1039/d6nr01151a",
+  "url": "https://doi.org/10.1039/d6nr01151a",
+  "source": "europepmc",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Synthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-03"
+ },
+ {
+  "id": "b41745208ab2cc5a",
+  "title": "Enhanced bio-component for fuel",
+  "authors": [
+   "Muhammad Ashraf bin Zin Zawawi"
+  ],
+  "journal": "Research Portal (Queen's University Belfast)",
+  "publisher": "Queen's University Belfast",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.17034/32639565",
+  "url": "https://doi.org/10.17034/32639565",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-03"
  },
  {
   "id": "b1c98e9ec3850f02",
@@ -144,6 +303,36 @@
   "added": "2026-08-01"
  },
  {
+  "id": "95c42fe717f8c3f2",
+  "title": "A simplified single-phase ultrasound-assisted tubular reactor for continuous-flow synthesis of ZIF-8 nanocrystals",
+  "authors": [
+   "Yuncheng Du",
+   "Aidan J. Hayles",
+   "Dongping Du"
+  ],
+  "journal": "MRS Communications",
+  "publisher": "Springer Nature",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1557/s43579-026-01058-y",
+  "url": "https://doi.org/10.1557/s43579-026-01058-y",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Tubular Reactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Houston",
+   "Texas Tech University"
+  ],
+  "added": "2026-10-03"
+ },
+ {
   "id": "8c77b4b10a542b07",
   "title": "Highly efficient NiCu@CT catalyst for mild, selective, and continuous-flow upgrading of vanillin to vanillyl alcohol",
   "authors": [
@@ -167,6 +356,36 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-08-02"
+ },
+ {
+  "id": "8440085172bde7aa",
+  "title": "Chemical Process Engineering Explained: Design, Reactors & Industrial Processes",
+  "authors": [
+   "Prep4Uni.Online"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23073759",
+  "url": "https://doi.org/10.5281/zenodo.23073759",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Reactor Engineering & Design",
+   "Process Intensification"
+  ],
+  "tags": [
+   "CSTR",
+   "Flow Reactor",
+   "Microreactor",
+   "Plug-Flow Reactor",
+   "Process Intensification",
+   "Residence Time"
+  ],
+  "relevance_score": 93,
+  "affiliations": [],
+  "added": "2026-10-03"
  },
  {
   "id": "77eab3269687bb13",
@@ -233,6 +452,62 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "6debe0edc0d09629",
+  "title": "Continuous-flow synthesis of bimetallic UTSA-16-Co-Zn nanosized crystals",
+  "authors": [
+   "Vinicius Luis dos Santos",
+   "Rafael Canevesi",
+   "Carlos A. Grande"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113312",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113312",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Residence Time",
+   "Steady State"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-10-03"
+ },
+ {
+  "id": "4fed7b8045cb75c9",
+  "title": "β-Cyclodextrin Immobilized in Geophagic Clay Sheets for the Absorption of Dyes From Wastewater Using a Fixed-Bed Method.",
+  "authors": [
+   "Nomcebo P Khumalo",
+   "Mukuna P Mubiayi",
+   "Bhekie B Mamba"
+  ],
+  "journal": "Water environment research : a research publication of the Water Environment Federation",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1002/wer.70558",
+  "url": "https://doi.org/10.1002/wer.70558",
+  "source": "pubmed",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-03"
  },
  {
   "id": "313a865b2a911c30",
@@ -368,6 +643,48 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-11"
+ },
+ {
+  "id": "0b2fcbca0aff2d72",
+  "title": "Telescoped Two-Step Continuous-Flow Synthesis of Nevirapine Enabled by the On-Demand Generation of NaHMDS",
+  "authors": [
+   "Maksim P. Vasilev",
+   "Rajasekar Reddy Annapureddy",
+   "Chengfeng Ye",
+   "Sridhar Regati",
+   "Praveen Kumar Gajula",
+   "Jonathan M. Bietsch",
+   "Zhirui Wang",
+   "Jack D. Brown",
+   "Gopal Sirasani",
+   "Aravind S. Gangu",
+   "Paul Guo",
+   "Bo Qu",
+   "Chris H. Senanayake"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00277",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00277",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Process Intensification",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Packed Bed",
+   "Residence Time",
+   "Space-Time Yield",
+   "Telescoped Synthesis"
+  ],
+  "relevance_score": 99,
+  "affiliations": [],
+  "added": "2026-10-03"
  },
  {
   "id": "02ebc10281d9c9fd",
