@@ -1,5 +1,57 @@
 [
  {
+  "id": "b0eb5802e9ff3070",
+  "title": "COMBINATION OF PHOTOCATALYSIS AND CONTINUOUS-FLOW TECHNOLOGY FOR THE SYNTHESIS OF BIOACTIVE COMPOUNDS AND ITS PRECURSORS",
+  "authors": [
+   "Alexander V. Nyuchev"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23059309",
+  "url": "https://doi.org/10.5281/zenodo.23059309",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Photoredox"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "N. I. Lobachevsky State University of Nizhny Novgorod"
+  ],
+  "added": "2026-10-04"
+ },
+ {
+  "id": "f38415eb2fb6312b",
+  "title": "Multicomponent Reactions Targeting Central Nervous System Pathologies and Broader Medicinal Chemistry Applications: A Review",
+  "authors": [
+   "Anitha Sadula*, Aruna Devi P., Usha Rani Peddaboina, Thahera Shaik, Sandhya Rani Moluguri, Pranathi Lakkakula, Pendyala Meghana"
+  ],
+  "journal": "International Journal of Medical & Pharmaceutical Sciences",
+  "publisher": "Radiance Research Academy",
+  "published": "2026-10-03",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23118559",
+  "url": "https://doi.org/10.5281/zenodo.23118559",
+  "source": "openalex",
+  "categories": [
+   "Biocatalysis & Enzymatic Flow",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Photoredox"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-10-04"
+ },
+ {
   "id": "b7583626fb76287a",
   "title": "Towards a Methodology for Continuous Model-Driven Digital Twin Engineering",
   "authors": [
@@ -55,6 +107,99 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-10-03"
+ },
+ {
+  "id": "5c3e59f19e164e1c",
+  "title": "Self-restoration of reactive centers via contaminant-to-catalyst electron replenishment for sustained Fenton-like activity",
+  "authors": [
+   "Yu-Hang Li",
+   "Anjie Chen",
+   "Xiaoyi Hu",
+   "Mingyi Liu",
+   "Nan Xu",
+   "Alistair G.L. Borthwick",
+   "Haodong Ji"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2026-10-03",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-78165-w",
+  "url": "https://doi.org/10.1038/s41467-026-78165-w",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Shenzhen University",
+   "University of Plymouth",
+   "University of Edinburgh"
+  ],
+  "added": "2026-10-04"
+ },
+ {
+  "id": "2093062bdadd4b5d",
+  "title": "Fouling, Deactivation, and Self-Healing of Coordinatively Unsaturated Metal Sites in MOF-Derived Catalysts During Real Water Treatment",
+  "authors": [
+   "Yunzhang Li",
+   "段梓安",
+   "Xinlei Pan",
+   "Shenzhou Wang",
+   "Tao Ding"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.3390/catal16100884",
+  "url": "https://doi.org/10.3390/catal16100884",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Taizhou Vocational and Technical College",
+   "Shanghai University",
+   "State Key Laboratory of Advanced Special Steel"
+  ],
+  "added": "2026-10-04"
+ },
+ {
+  "id": "fc81e92d4f3ca423",
+  "title": "Comparative evaluation of iron-based nanostructures for textile dye adsorption: influence of synthesis routes on physicochemical properties and adsorption mechanisms",
+  "authors": [
+   "Sujesh Sudarsan",
+   "Thivaharan Varadavenkatesan",
+   "Ramesh Vinayagam",
+   "Raja Selvaraj"
+  ],
+  "journal": "South African Journal of Chemical Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.sajce.2026.101017",
+  "url": "https://doi.org/10.1016/j.sajce.2026.101017",
+  "source": "doaj",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-04"
  },
  {
   "id": "f7cc1d082fa325a8",
@@ -134,6 +279,35 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-07-27"
+ },
+ {
+  "id": "c6e6e36e50c41fcd",
+  "title": "A 3D-printed algal-bacterial microreactor for photobiological hydrogen production coupled with actual wastewater treatment",
+  "authors": [
+   "Bao-Bao Sun",
+   "Xu Wang",
+   "Jin-Song Guo",
+   "You-Peng Chen",
+   "Peng Yan"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.127071",
+  "url": "https://doi.org/10.1016/j.watres.2026.127071",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chongqing University"
+  ],
+  "added": "2026-10-04"
  },
  {
   "id": "c37b4c3cd8782954",
@@ -301,6 +475,36 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-08-01"
+ },
+ {
+  "id": "a997d93887c6944b",
+  "title": "Light-Accelerated Iridium-Catalyzed C–H Borylation",
+  "authors": [
+   "Máire Griffin",
+   "Hrithik Manojkumar",
+   "Tabea Heil",
+   "Stuart A. Macgregor",
+   "Eric Slack",
+   "Eli Zysman-Colman"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c04883",
+  "url": "https://doi.org/10.1021/acscatal.6c04883",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of St Andrews"
+  ],
+  "added": "2026-10-04"
  },
  {
   "id": "95c42fe717f8c3f2",
