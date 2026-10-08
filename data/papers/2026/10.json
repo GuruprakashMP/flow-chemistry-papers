@@ -27,6 +27,34 @@
   "added": "2026-10-07"
  },
  {
+  "id": "c03e513c3bf1321c",
+  "title": "Microfluidic channel engineering for mRNA-LNPs: a systematic review of mixing strategies, nanostructures, and biological performance.",
+  "authors": [
+   "Hyejoong Jeong",
+   "Cheol Hui Park",
+   "Bookun Kim",
+   "Junsang Doh",
+   "Heebeom Koo"
+  ],
+  "journal": "Lab on a chip",
+  "publisher": "",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "10.1039/d6lc00477f",
+  "url": "https://doi.org/10.1039/d6lc00477f",
+  "source": "pubmed",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-08"
+ },
+ {
   "id": "f32e3107a6028db3",
   "title": "Photoredox Nickel- or Copper-Catalyzed C-Heteroatom Cross-Coupling of Thianthrenium Salts.",
   "authors": [
@@ -91,6 +119,30 @@
   "added": "2026-10-04"
  },
  {
+  "id": "9cba635fd28e1050",
+  "title": "Quantum-Inspired Graph Neural Digital Twins for the sub-microsecond topological co-design and temporal degradation modeling of cellulose, hemicellulose, and lignin smart gels.",
+  "authors": [
+   "Krishna Bajpai"
+  ],
+  "journal": "International journal of biological macromolecules",
+  "publisher": "",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.1016/j.ijbiomac.2026.154563",
+  "url": "https://doi.org/10.1016/j.ijbiomac.2026.154563",
+  "source": "pubmed",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-08"
+ },
+ {
   "id": "7667a65ccf687b49",
   "title": "Coacervate Microreactors for Cholesterol-Coupled Nitric Oxide Biocatalysis in Atherosclerosis.",
   "authors": [
@@ -132,6 +184,116 @@
   "added": "2026-10-07"
  },
  {
+  "id": "45903fc05875edb4",
+  "title": "Predicting Survival Beyond 5 Years On Continuous-Flow LVAD: A Landmark Analysis From The STELLAR Registry.",
+  "authors": [
+   "Claudio Velásquez-Silva",
+   "William H Nielsen",
+   "Christian H Møller",
+   "Kasper Rossing",
+   "Angelika Costard-Jäckle",
+   "René Schramm",
+   "Michiel Morshuis",
+   "Jan F Gummert",
+   "Finn Gustafsson",
+   "Sebastian V Rojas",
+   "Henrik Fox"
+  ],
+  "journal": "ESC heart failure",
+  "publisher": "",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.1093/eschf/xvag257",
+  "url": "https://doi.org/10.1093/eschf/xvag257",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-08"
+ },
+ {
+  "id": "b7b50f8d045601e6",
+  "title": "Bayesian Optimization Assisted Multistep Continuous-Flow Synthesis of Olutasidenib",
+  "authors": [
+   "Tengfei Gong",
+   "Fei Ji",
+   "陳志豪",
+   "Yuting Geng",
+   "Xi Yang",
+   "Xu Ye",
+   "Xiaoming Zha"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00251",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00251",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Self-Optimization & Machine Learning",
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Coil Reactor",
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Multistep Continuous",
+   "Oxidation",
+   "Residence Time"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "China Pharmaceutical University"
+  ],
+  "added": "2026-10-08"
+ },
+ {
+  "id": "65bcb61c08d04726",
+  "title": "Functional Telechelic Oligomers from Myrcene via a Versatile Dilithiated Initiator in Flow Chemistry",
+  "authors": [
+   "Djemel-Dine Bazille",
+   "Katia Pérez",
+   "Alan O. Francisco Meija",
+   "Cyrine Barhoumi",
+   "Rowan Radmall",
+   "David M. Haddleton",
+   "Marie Hubert-Roux",
+   "Julien Legros",
+   "Laëtitia Chausset-Boissarie",
+   "Fabrice Burel",
+   "Daniela Vuluga"
+  ],
+  "journal": "ACS Applied Polymer Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "10.1021/acsapm.6c03934",
+  "url": "https://doi.org/10.1021/acsapm.6c03934",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Normandie Université",
+   "Université de Rouen Normandie",
+   "University of Warwick"
+  ],
+  "added": "2026-10-08"
+ },
+ {
   "id": "0d56756db6fe84f5",
   "title": "Reveal the impacts of temporary recirculating effluent on a continuous-flow anaerobic/oxic/anoxic (AOA) system.",
   "authors": [
@@ -161,6 +323,39 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-10-07"
+ },
+ {
+  "id": "898cefc67aa9eb71",
+  "title": "Dynamic Flow Experimentation for Data-Rich Polymer Synthesis",
+  "authors": [
+   "Dylan J. Walsh",
+   "Katharina A. Fransen",
+   "Alexander Bentley",
+   "Federico Florit",
+   "Klavs F. Jensen",
+   "Bradley D. Olsen"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15009942/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15009942/v1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Droplet",
+   "Flow Chemistry",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-10-08"
  },
  {
   "id": "f5f979567c352308",
