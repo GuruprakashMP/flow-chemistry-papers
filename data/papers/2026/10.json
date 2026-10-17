@@ -53,6 +53,55 @@
   "added": "2026-10-16"
  },
  {
+  "id": "fec6d33ddb579cd0",
+  "title": "A Br-MION2-Orbitrap and flow-reactor modelling framework for interpreting and quantifying organic photochemical oxidation",
+  "authors": [
+   "Jiali Shen",
+   "Yaowei Li",
+   "Jiangyi Zhang",
+   "Zhaojin An",
+   "Putian Zhou",
+   "Henning Finkenzeller",
+   "Paxton Juuti",
+   "Jyri Mikkilä",
+   "Netta Vinkvist",
+   "Siddharth Iyer",
+   "Juha Kangasluoma",
+   "Tuukka Petäjä",
+   "Matti P. Rissanen",
+   "Aleksei Shcherbinin",
+   "Frank N. Keutsch",
+   "Xu-Cheng He"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.5194/egusphere-2026-5947",
+  "url": "https://doi.org/10.5194/egusphere-2026-5947",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation",
+   "Reactor Modeling"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Helsinki",
+   "California Institute of Technology",
+   "Harvard University",
+   "Tsinghua University",
+   "Karsa (Finland)",
+   "Tampere University",
+   "University of Tampere"
+  ],
+  "added": "2026-10-17"
+ },
+ {
   "id": "e92423e2c79d609c",
   "title": "Brominated MIL-101/alginate composite hydrogels for efficient PFAS removal: Role of hydrophobic interactions and performance under continuous-flow conditions.",
   "authors": [
@@ -150,6 +199,37 @@
   "added": "2026-10-15"
  },
  {
+  "id": "b8555624ae77b7f1",
+  "title": "Recent Advances in the Synthesis of Therapeutic Peptides and Oligonucleotides",
+  "authors": [
+   "Adithya Ramesh",
+   "Priyanka Behera",
+   "Rathod Siddija",
+   "Shreya Ghosh",
+   "Om Shanker Tiwari"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00322",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00322",
+  "source": "openalex",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Institute of Technology Warangal",
+   "Indian Institute of Science Education and Research Kolkata"
+  ],
+  "added": "2026-10-17"
+ },
+ {
   "id": "92919dd131136a9a",
   "title": "Tetrapyridophenazine-Based Vinylene-Linked Covalent Organic Frameworks for Efficient Sequential Photocatalysis and Continuous-Flow Synthesis",
   "authors": [
@@ -189,6 +269,110 @@
    "Shanghai Jiao Tong University"
   ],
   "added": "2026-10-16"
+ },
+ {
+  "id": "76811b57b3dc89d5",
+  "title": "Chemoselective Synthesis of Hydrocinnamaldehyde Enabled by a Self-Sufficient Heterogeneous Redox Biocatalyst",
+  "authors": [
+   "Agostina Colacicco",
+   "Idania L. López",
+   "Martina Bigliardi",
+   "Ainhoa Oliden-Sánchez",
+   "Fernando López-Gallego",
+   "Martina Letizia Contente"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c05935",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c05935",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Packed Bed",
+   "Packed-Bed Reactor",
+   "Productivity",
+   "Residence Time",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Milan",
+   "CIC biomaGUNE",
+   "University of the Basque Country",
+   "Ikerbasque"
+  ],
+  "added": "2026-10-17"
+ },
+ {
+  "id": "352693cfbf67188c",
+  "title": "Scalable Synthesis and Processing of Porous Organic Polymers for Continuous-Flow Noble Metal Recycling and Catalysis",
+  "authors": [
+   "Zhong Li",
+   "Michelle Åhlén",
+   "Yayu Yan",
+   "Xuejie Li",
+   "Samson Afewerki",
+   "Qiaohong Li",
+   "Chao Xu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010516/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010516/v1",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Monolith",
+   "Throughput"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
+  "id": "0efedd8e58f990c6",
+  "title": "Continuous-Flow Synthesis of Diisopropyl Xanthogen Disulfide with a Coiled Microreactor",
+  "authors": [
+   "Wan-Jun Qin",
+   "Huan Yang",
+   "Xingjian Li",
+   "Xiao Wang"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c02769",
+  "url": "https://doi.org/10.1021/acs.iecr.6c02769",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Flow Synthesis",
+   "Microreactor",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Nanjing University"
+  ],
+  "added": "2026-10-17"
  },
  {
   "id": "da7bfa97868417fd",
@@ -415,6 +599,34 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-15"
+ },
+ {
+  "id": "8a0f380a45e65563",
+  "title": "Performance Evaluation of Fuzzy Logic Controller Application for Temperature Control of Urea Reactors Functions",
+  "authors": [
+   "OJONG O",
+   "OMEKE WC",
+   "SEDI P",
+   "DOLLAH KN."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11357199/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11357199/v1",
+  "source": "europepmc",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "CSTR",
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "6f62bfa099ea2e88",
