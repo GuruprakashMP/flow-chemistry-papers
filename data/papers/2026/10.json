@@ -1,5 +1,41 @@
 [
  {
+  "id": "ed92a1c9788c648b",
+  "title": "Evolution of (S)-2-Aminobutanol Synthesis from Chemical Resolution to Biomanufacturing",
+  "authors": [
+   "Bingbing Wang",
+   "Chang-Dong Chen",
+   "Yong-Jun Han",
+   "Wei-Shuang Tong",
+   "Huashan Gao",
+   "Wei Ma",
+   "Jun-Yang Liu",
+   "Jian-Zhong Xu"
+  ],
+  "journal": "International Journal of Molecular Sciences",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.3390/ijms27209203",
+  "url": "https://doi.org/10.3390/ijms27209203",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Pingdingshan University",
+   "Xi'an Polytechnic University",
+   "Jiangnan University"
+  ],
+  "added": "2026-10-18"
+ },
+ {
   "id": "5036bac300504270",
   "title": "Mild continuous-flow methanol extraction coupled with formic acid assisted catalytic hydrogenolysis of corn stover",
   "authors": [
@@ -51,6 +87,61 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-16"
+ },
+ {
+  "id": "1b55d3c3ecc58c15",
+  "title": "Sugarcane bagasse-MnFe2O4 magnetic biochar composite for ammonium removal: isotherms, kinetics, RSM optimization and machine learning prediction.",
+  "authors": [
+   "Thuy-Tien Do",
+   "Phuong-Anh Nguyen",
+   "Huu-Tap Van"
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1039/d6ra04526j",
+  "url": "https://doi.org/10.1039/d6ra04526j",
+  "source": "pubmed",
+  "categories": [
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Machine Learning"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-18"
+ },
+ {
+  "id": "106cb2e6284bd0be",
+  "title": "Electrochemical strategies for peptide synthesis, deprotection and scalable reactor technologies",
+  "authors": [
+   "Pradip Mali",
+   "I. Sreedhar"
+  ],
+  "journal": "Journal of Electrochemical Science and Engineering",
+  "publisher": "International Association of Physical Chemists (IAPC)",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.5599/jese.3596",
+  "url": "https://doi.org/10.5599/jese.3596",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrochemistry",
+   "Continuous Manufacturing & Pharma",
+   "Self-Optimization & Machine Learning"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Electrochemistry",
+   "Machine Learning",
+   "Pharma Manufacturing"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-18"
  },
  {
   "id": "fec6d33ddb579cd0",
@@ -230,6 +321,33 @@
   "added": "2026-10-17"
  },
  {
+  "id": "a55f9126086a12be",
+  "title": "SYNTHESIS OF para-[1(3)-METHYLCYCLOALKYL]PHENOLS: PROPERTIES AND APPLICATIONS",
+  "authors": [
+   "Ulviyya Gurbanova"
+  ],
+  "journal": "JOURNAL OF BAKU ENGINEERING UNIVERSITY-ADVANCES IN CHEMISTRY AND CHEMICAL ENGINEERING",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.30546/2521-6317.2025.01.494",
+  "url": "https://doi.org/10.30546/2521-6317.2025.01.494",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Neft Kimya Prosesləri Institutu"
+  ],
+  "added": "2026-10-18"
+ },
+ {
   "id": "92919dd131136a9a",
   "title": "Tetrapyridophenazine-Based Vinylene-Linked Covalent Organic Frameworks for Efficient Sequential Photocatalysis and Continuous-Flow Synthesis",
   "authors": [
@@ -340,6 +458,34 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-10-17"
+ },
+ {
+  "id": "255a23d76fe35f82",
+  "title": "TECHNOLOGICAL PROCESSES OF ORGANIC SYNTHESIS: PROCESS-LEVEL STRUCTURE, GREEN METRICS AND ENABLING TECHNOLOGIES",
+  "authors": [
+   "Mahliyo Azamatovna Yusupova"
+  ],
+  "journal": "International Journal of Literature and Language Studies",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "",
+  "url": "https://jiujournal.org/index.php/index/article/view/1160",
+  "source": "openalex",
+  "categories": [
+   "Biocatalysis & Enzymatic Flow",
+   "Catalysis in Flow",
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Hydrogenation",
+   "Process Development"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-10-18"
  },
  {
   "id": "0efedd8e58f990c6",
