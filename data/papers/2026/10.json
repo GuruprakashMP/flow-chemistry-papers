@@ -1,5 +1,126 @@
 [
  {
+  "id": "62d20dab27fde3d2",
+  "title": "Continuous-Flow Photochemical Nitrile Imine Cycloadditions with Cyclopropenes: Access to Substituted Pyrazoles",
+  "authors": [
+   "Beatriz Quevedo Flores",
+   "Angel Manu Martínez Garzón",
+   "Christopher Thomas",
+   "Jorge García Lacuna",
+   "Marcus Baumann"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c01811",
+  "url": "https://doi.org/10.1021/acs.joc.6c01811",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Photochemistry",
+   "Residence Time"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University College Dublin",
+   "Universidad San Pablo CEU"
+  ],
+  "added": "2026-10-21"
+ },
+ {
+  "id": "345e87181e685e64",
+  "title": "Paper-Based Microfluidic Continuous-Flow Electroporation (μCEP) for Bacterial Transformation through Pore-Scale Electric-Field Enhancement",
+  "authors": [
+   "Jaiswal B",
+   "Islam MN",
+   "Gagnon Z."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.64898/2026.10.19.760286",
+  "url": "https://doi.org/10.64898/2026.10.19.760286",
+  "source": "europepmc",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics",
+   "Throughput"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-21"
+ },
+ {
+  "id": "02dbd4070a97b254",
+  "title": "Boron-Doped Nanomaterials/Copper Synergistic Photocatalytic C(sp3)-N Cross-Coupling.",
+  "authors": [
+   "Fuyang Yue",
+   "Fei Yuan",
+   "Hongjian Song",
+   "Yuxiu Liu",
+   "Qingmin Wang"
+  ],
+  "journal": "ACS nano",
+  "publisher": "",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c05569",
+  "url": "https://doi.org/10.1021/acsnano.6c05569",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Heterogeneous Catalyst"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-10-21"
+ },
+ {
+  "id": "ab1e30ee96609533",
+  "title": "Salt-Dependent Crystallization of DNA-Functionalized Nanoparticle Superlattices in Microdroplets Toward Cellular Applications",
+  "authors": [
+   "Saki Kozawa",
+   "Hiroya Arai",
+   "Xu Li",
+   "Naotomo Tottori",
+   "Yoko Yamanishi",
+   "Miho Tagawa"
+  ],
+  "journal": "Journal of Robotics and Mechatronics",
+  "publisher": "Fuji Technology Press Ltd.",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.20965/jrm.2026.p1229",
+  "url": "https://doi.org/10.20965/jrm.2026.p1229",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Droplet",
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Nagoya University",
+   "Kyushu University"
+  ],
+  "added": "2026-10-21"
+ },
+ {
   "id": "7de3d49538c2d850",
   "title": "Droplet Microfluidic Hydrogen/Deuterium Exchange for Investigating Protein Dynamics with Millisecond Precision",
   "authors": [
@@ -93,6 +214,31 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-10-20"
+ },
+ {
+  "id": "0047150ee5f78bdc",
+  "title": "Telescoped Continuous Flow Synthesis of Secondary Amines Via Reductive Amination",
+  "authors": [
+   "Salma Babikir",
+   "Paul Watts"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.13140/rg.2.2.11447.48809",
+  "url": "https://doi.org/10.13140/rg.2.2.11447.48809",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-21"
  },
  {
   "id": "8b98f75b1cc9a1bb",
