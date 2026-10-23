@@ -1,5 +1,256 @@
 [
  {
+  "id": "fa41e8a709d8941b",
+  "title": "Synthesis of a Crystalline Acylated Lysine Building Block for Retatrutide Manufacture",
+  "authors": [
+   "Jingyao Wang",
+   "Jing Teng",
+   "Emily J. Guinn",
+   "Ryan W. Curtis",
+   "Rachel N. Richey",
+   "Sergey V. Tsukanov",
+   "Joel R. Calvin",
+   "Gordon R. Lambertus",
+   "Mark A. Strege",
+   "Ankur Jalan",
+   "Michael E. Kopach"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00240",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00240",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Throughput"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Eli Lilly (United States)"
+  ],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "e7ec4240103197d0",
+  "title": "Programming of Dissipative Networks and Transient Vesicles Using Intrinsic Kinetic Discrimination of Thiol Oxidation",
+  "authors": [
+   "Yingjie Huang",
+   "Yulu Wang",
+   "Hui Zhao"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010879/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010879/v1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor",
+   "Oxidation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "d2ced15d3ea43cdf",
+  "title": "A Constant-Current Electrochemical Microreactor-Mass Spectrometry Platform: In Situ Intermediate Capture and Reaction Prediction for C−N Coupling",
+  "authors": [
+   "Ziying Hong",
+   "Yanxiao Jiang",
+   "Meng Zhang",
+   "Siyu Zhu",
+   "Hong Zhang",
+   "Kai Yu",
+   "Jie Jiang"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c06204",
+  "url": "https://doi.org/10.1021/acs.analchem.6c06204",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Microreactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "33001cb1ee1622f3",
+  "title": "Catalytic N -Cbz Deprotection of Amino Acids and Dipeptides over Spherical SiliaCat Pd(0)",
+  "authors": [
+   "Valerica Pandarus",
+   "Samuel Cashman-Kadri",
+   "Rosaria Ciriminna",
+   "François Béland",
+   "Mario Pagliaro"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010886/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010886/v1",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Heterogeneous Catalyst",
+   "Packed Bed",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "SiliCycle (Canada)",
+   "Institute of Nanostructured Materials"
+  ],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "25d1128b19fc1246",
+  "title": "Engineering Biomimetic Prussian Blue-Based Hollow Microreactors for Spatially Confined Cascade Catalysis with Cofactor Regeneration",
+  "authors": [
+   "Anjaneyulu Karamkanti",
+   "Mahalakshmi Tangudu",
+   "Amulya Basa",
+   "Jayadev Nayak",
+   "Gousia Begum"
+  ],
+  "journal": "Chem & Bio Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1021/cbe.6c00131",
+  "url": "https://doi.org/10.1021/cbe.6c00131",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Biocatalysis & Enzymatic Flow"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Microreactor",
+   "Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "GITAM University"
+  ],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "24b91869f8980d9f",
+  "title": "Agricultural waste-derived nanoparticles for heavy metal removal from wastewater: a comprehensive review.",
+  "authors": [
+   "Ahmed M Mahdy",
+   "Nieven O Fathi"
+  ],
+  "journal": "International journal of phytoremediation",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1080/15226514.2026.2748902",
+  "url": "https://doi.org/10.1080/15226514.2026.2748902",
+  "source": "pubmed",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "cc90306ec0ca78e8",
+  "title": "A low-dimensional network model with post-detonation expansion for flow field analysis of rotating detonation combustor",
+  "authors": [
+   "Zhangrui Chen",
+   "Zifeng Weng",
+   "Hao Zeng",
+   "Hua Zhou",
+   "Zhuyin Ren"
+  ],
+  "journal": "Combustion and Flame",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1016/j.combustflame.2026.115382",
+  "url": "https://doi.org/10.1016/j.combustflame.2026.115382",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Aero Engine Corporation of China (China)",
+   "Tsinghua University",
+   "National University of Singapore",
+   "Air Force Engineering University"
+  ],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "98507bda46a7fd20",
+  "title": "Development and validation of a retuning-free skeletal mechanism for NH3/H2/Air combustion",
+  "authors": [
+   "Linzheng Wang",
+   "Yu-Chi Kao",
+   "Gautham Krishnan",
+   "Ahmed F. Ghoniem",
+   "William H. Green",
+   "Sili Deng"
+  ],
+  "journal": "Combustion and Flame",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1016/j.combustflame.2026.115335",
+  "url": "https://doi.org/10.1016/j.combustflame.2026.115335",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Massachusetts Institute of Technology",
+   "National Taiwan University"
+  ],
+  "added": "2026-10-23"
+ },
+ {
   "id": "c88d74d98da59dde",
   "title": "Dual-Functional, Visible-Light-Responsive Gemini Surfactants for Interfacial Catalysis of Knoevenagel Condensation in Emulsion Microreactors under Mild Conditions",
   "authors": [
@@ -610,6 +861,50 @@
    "The Cambridge Centre for Advanced Research and Education in Singapore"
   ],
   "added": "2026-10-19"
+ },
+ {
+  "id": "77096c702a80cc9f",
+  "title": "Microfluidic Fabrication of Functional Micro-/Nanoparticles: From Structural Regulation to Scalable Integration.",
+  "authors": [
+   "Ran Tian",
+   "Jiani Liu",
+   "Tao Liu",
+   "Hanyu Du",
+   "Geng Dou",
+   "Juan Tong",
+   "Xinyu Qiu",
+   "Linqian Hou",
+   "Xiaoju Lu",
+   "Yuting Su"
+  ],
+  "journal": "International journal of nanomedicine",
+  "publisher": "",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.2147/ijn.s635131",
+  "url": "https://doi.org/10.2147/IJN.S635131",
+  "source": "pubmed",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "In-line Analysis & PAT",
+   "Gas-Liquid & Multiphase Flow",
+   "Process Intensification",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Droplet",
+   "Droplet Microfluidics",
+   "In-line Monitoring",
+   "Microfluidic Synthesis",
+   "Microfluidics",
+   "Microreactor",
+   "Multiphase Flow",
+   "Productivity",
+   "Scale-up"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "6e50ae3d69919731",
