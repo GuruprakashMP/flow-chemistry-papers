@@ -1,5 +1,161 @@
 [
  {
+  "id": "a2349a53e9ec2e30",
+  "title": "Direct α-C(sp3)─H Alkylation and Arylation of Ethers Enabled by Carbon Nitride/Nickel Metallaphotoredox Catalysis.",
+  "authors": [
+   "Miguel M de Vries Ibáñez",
+   "Nathan G G Husy",
+   "Elisabetta Inico",
+   "Kaan Karaca",
+   "Milla Vigliengo",
+   "Andrea Olivati",
+   "Annamaria Petrozza",
+   "Carlo Cavallotti",
+   "Gianvito Vilé"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1002/cssc.71111",
+  "url": "https://doi.org/10.1002/cssc.71111",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "85c532f56d9e93e8",
+  "title": "Contactless continuous guidance of matter in its main states using curved elongated Bessel-like acoustic fields.",
+  "authors": [
+   "Dmitrii Nikolaev",
+   "Denys Iablonskyi",
+   "Alexander Martinez-Marchese",
+   "Marika Sirkka",
+   "Mikel Aldea",
+   "Chinedum Okwudire",
+   "Edward Hæggström",
+   "Asier Marzo",
+   "Ari Salmi"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1073/pnas.2614959123",
+  "url": "https://doi.org/10.1073/pnas.2614959123",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Additive Manufacturing",
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "76d240b10b5fc01f",
+  "title": "Preparation of carbon-coated blue TiO2 reactive membrane electrodes for efficient electrochemical degradation of organic pollutants.",
+  "authors": [
+   "Yuhuan Jia",
+   "Ziyang Ding",
+   "Ruohan Qiu",
+   "Rongshuai Wang",
+   "Yiwen Mou",
+   "Weilin Guo"
+  ],
+  "journal": "Environmental technology",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1080/09593330.2026.2751949",
+  "url": "https://doi.org/10.1080/09593330.2026.2751949",
+  "source": "pubmed",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Reaction Kinetics",
+   "Residence Time"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "622a2924a4ea4562",
+  "title": "Polyurethane Recycling Using Catalytic Pyrolysis: Insights into Catalyst Stability",
+  "authors": [
+   "Tim G. W. Engels",
+   "Marlies van der Zijpp",
+   "Stefanie Eiden",
+   "Hero Jan Heeres",
+   "Peter Joseph Deuss"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c08114",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c08114",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Groningen",
+   "Covestro (Germany)"
+  ],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "ffac98ec8397980d",
+  "title": "Comparing Fuel Homogenization Strategies for an OpenMC Depletion Analysis of a TRISO-Fueled, Helium-Cooled Microreactor",
+  "authors": [
+   "Lewis I. Gross",
+   "Patrick Shriwise",
+   "Ben Lindley",
+   "Paul P. H. Wilson"
+  ],
+  "journal": "Nuclear Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1080/00295450.2026.2745386",
+  "url": "https://doi.org/10.1080/00295450.2026.2745386",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Wisconsin–Madison",
+   "Argonne National Laboratory"
+  ],
+  "added": "2026-10-24"
+ },
+ {
   "id": "fa41e8a709d8941b",
   "title": "Synthesis of a Crystalline Acylated Lysine Building Block for Retatrutide Manufacture",
   "authors": [
@@ -34,6 +190,41 @@
    "Eli Lilly (United States)"
   ],
   "added": "2026-10-23"
+ },
+ {
+  "id": "eefbcf8d421bb54d",
+  "title": "Direct Nickel Recovery From Spent NCM Lithium - Ion Batteries Enabled by Hydrophobic Sulfur - Donor Extractants.",
+  "authors": [
+   "Byeong Jun Koo",
+   "Gang Min Lee",
+   "Ah Hyeon Son",
+   "Woo Hee Kim",
+   "Soo Bok Kim",
+   "Dong Hyeon Kim",
+   "Donghyun Ko",
+   "Kyungduck Park",
+   "Sang Bok Ma",
+   "Dongchul Choi",
+   "Han Yong Bae"
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/smll.76257",
+  "url": "https://doi.org/10.1002/smll.76257",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Biphasic",
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "e7ec4240103197d0",
@@ -184,6 +375,85 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-23"
+ },
+ {
+  "id": "1343e07a0da6116a",
+  "title": "Advanced computational fluid dynamics for catalytic reactor design, multiphysics modelling, optimization, and digital transformation",
+  "authors": [
+   "Ruby Mishra",
+   "Sasanka Choudhury",
+   "S. Sathish",
+   "Muralidhar Bengaluru",
+   "Jaymin Kantilal Bhalani",
+   "Kamal Kapoor",
+   "Ramachandran Thulasiram",
+   "Aseel Smerat",
+   "Kamakshi Priya Kumar"
+  ],
+  "journal": "International Journal of Chemical Reactor Engineering",
+  "publisher": "De Gruyter",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1515/ijcre-2026-0147",
+  "url": "https://doi.org/10.1515/ijcre-2026-0147",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Self-Optimization & Machine Learning",
+   "Catalysis in Flow",
+   "Modeling & Kinetics",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Autonomous Optimization",
+   "Microreactor",
+   "Monolith",
+   "Packed Bed",
+   "Reaction Kinetics",
+   "Scale-up"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "KIIT University",
+   "Siksha O Anusandhan University",
+   "Sathyabama Institute of Science and Technology",
+   "Presidency University",
+   "Parul University",
+   "Indian Institute of Technology Roorkee",
+   "Jain University",
+   "Al-Ahliyya Amman University",
+   "Saveetha University"
+  ],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "ee1bb04ac477b3ca",
+  "title": "Proton-rich interfaces and long-lived carriers synergistically boost the kinetics of photocatalytic hydrogen peroxide production over sulfonated carbon nitride.",
+  "authors": [
+   "Yuan Xue",
+   "Zheng Yang",
+   "Sheng Liu",
+   "Zushun Xu",
+   "Qing Li",
+   "Huiyu Yang"
+  ],
+  "journal": "Journal of colloid and interface science",
+  "publisher": "",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141840",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141840",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "cc90306ec0ca78e8",
