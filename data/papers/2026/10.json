@@ -34,6 +34,64 @@
   "added": "2026-10-24"
  },
  {
+  "id": "5c4e105ab592bcdc",
+  "title": "Waste-Derived Functional Materials for Coupled Nitrogen and Phosphorus Removal from Eutrophic Waters: A Critical Review.",
+  "authors": [
+   "Hongcheng Bai",
+   "Mingyuan Shao"
+  ],
+  "journal": "Environmental research",
+  "publisher": "",
+  "published": "2026-10-24",
+  "year": 2026,
+  "doi": "10.1016/j.envres.2026.125996",
+  "url": "https://doi.org/10.1016/j.envres.2026.125996",
+  "source": "pubmed",
+  "categories": [
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Reaction Kinetics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-25"
+ },
+ {
+  "id": "a723f320a2a71b04",
+  "title": "Integrated continuous flow synthesis enabled by solid-acid micro-packed bed reactors: a four-step sustainable route to a CNS-active prodrug.",
+  "authors": [
+   "Yan Chen",
+   "Shiqiu Song",
+   "Fang Zhao",
+   "Yufang Xu",
+   "Xuhong Qian",
+   "Weiping Zhu"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1039/d6cc05377g",
+  "url": "https://doi.org/10.1039/d6cc05377g",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow",
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis",
+   "Multistep Continuous",
+   "Packed Bed",
+   "Packed-Bed Reactor"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-25"
+ },
+ {
   "id": "85c532f56d9e93e8",
   "title": "Contactless continuous guidance of matter in its main states using curved elongated Bessel-like acoustic fields.",
   "authors": [
@@ -97,6 +155,41 @@
   "added": "2026-10-24"
  },
  {
+  "id": "6e0424af7b665dd3",
+  "title": "Photochemical Oxidation of Dilute Methane Using a Filter-Based System for Air-Treatment Applications",
+  "authors": [
+   "Aliki Marina Tsopelakou",
+   "Samuel D. Tomlinson",
+   "Tzia Ming Onn",
+   "Adam M. Boies",
+   "Shaun Fitzgerald"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15010952/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15010952/v1",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Rate",
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Cambridge",
+   "Climate Centre",
+   "University of Greenwich",
+   "Stanford University"
+  ],
+  "added": "2026-10-25"
+ },
+ {
   "id": "622a2924a4ea4562",
   "title": "Polyurethane Recycling Using Catalytic Pyrolysis: Insights into Catalyst Stability",
   "authors": [
@@ -125,6 +218,67 @@
    "Covestro (Germany)"
   ],
   "added": "2026-10-24"
+ },
+ {
+  "id": "4588ca443527af2d",
+  "title": "Mass Discrimination in Pulsed Molecular Beam Time-of-Flight Mass Spectrometry with Vacuum Ultraviolet Single-Photon Ionization",
+  "authors": [
+   "Iakov A. Medvedkov",
+   "Kuznetsov Oleg",
+   "M. Evseev",
+   "Anastasia Khrushchova",
+   "Valeriy Azyazov",
+   "Ivan Antonov"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23596326",
+  "url": "https://doi.org/10.5281/zenodo.23596326",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-25"
+ },
+ {
+  "id": "235d653e59badc7c",
+  "title": "Continuous-Flow Left Ventricular Assist Devices in Biventricular Configuration: A Systematic Review and Comparative Meta-Analysis of HeartMate 3 and HeartWare Biventricular Assist Devices.",
+  "authors": [
+   "Daler Rahimov",
+   "Aryana J Jones",
+   "Chidi Ome Irondi",
+   "Yookang Nam",
+   "Faizaan Siddique",
+   "Eugene Storozynsky",
+   "Gregory T Gibson",
+   "Susan M Joseph",
+   "Keshava Rajagopal",
+   "Charles W Hoopes",
+   "Vakhtang Tchantchaleishvili"
+  ],
+  "journal": "Artificial organs",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1111/aor.70271",
+  "url": "https://doi.org/10.1111/aor.70271",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-25"
  },
  {
   "id": "ffac98ec8397980d",
@@ -425,6 +579,40 @@
    "Saveetha University"
   ],
   "added": "2026-10-24"
+ },
+ {
+  "id": "02500b5458159495",
+  "title": "Photocatalytic destruction of PFAS: Mechanisms, materials, and pathways to field-ready water treatment",
+  "authors": [
+   "Ebrahim Alosta",
+   "Rambabu Krishnamoorthy",
+   "Chin K. Cheng"
+  ],
+  "journal": "Journal of Water Process Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1016/j.jwpe.2026.111094",
+  "url": "https://doi.org/10.1016/j.jwpe.2026.111094",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Process Intensification",
+   "Catalysis in Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Immobilized Catalyst",
+   "Process Intensification",
+   "Scale-up"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Khalifa University of Science and Technology"
+  ],
+  "added": "2026-10-25"
  },
  {
   "id": "ee1bb04ac477b3ca",
