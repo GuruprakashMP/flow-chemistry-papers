@@ -1,5 +1,76 @@
 [
  {
+  "id": "a3337a39144c5523",
+  "title": "Bioisosteric sulfoxonium ylides as building blocks for accessing thiazole derivatives using flow chemistry.",
+  "authors": [
+   "Rouven Fritzius",
+   "Paul Wiebe",
+   "Jan H Griwatz",
+   "Armin Bauer",
+   "Anika Tarasewicz",
+   "Thomas C Maier",
+   "Christian Kramer",
+   "Lucas Vidal",
+   "Christophe Aïssa",
+   "María Méndez",
+   "Hermann A Wegner"
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1039/d6ob01449f",
+  "url": "https://doi.org/10.1039/d6ob01449f",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Packed Bed"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-10-30"
+ },
+ {
+  "id": "e72a7174e7fb41d5",
+  "title": "Visible-light photoredox-enabled, site-selective 1,3-addition of tertiary amines to nitrones toward a sustainability-oriented telescoped synthesis of praziquantel",
+  "authors": [
+   "Kennosuke Itoh",
+   "Yuriko Abe",
+   "Ryosuke Ito",
+   "Takaaki Mizuguchi",
+   "Fumika Karaki",
+   "Shigeto Hirayama",
+   "Masashi Hashimoto",
+   "H. Fujii"
+  ],
+  "journal": "Sustainable Chemistry and Pharmacy",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1016/j.scp.2026.102580",
+  "url": "https://doi.org/10.1016/j.scp.2026.102580",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Photoredox",
+   "Telescoped Synthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Kitasato Institute Hospital",
+   "Kitasato University",
+   "Josai University"
+  ],
+  "added": "2026-10-30"
+ },
+ {
   "id": "dede5a6fe67641a9",
   "title": "Tuning the Selectivity of Glycerol Electrooxidation via Catalyst Composition and Operating Conditions.",
   "authors": [
@@ -27,6 +98,36 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-10-28"
+ },
+ {
+  "id": "ccac4cf998aa58dc",
+  "title": "Sustainable Synthetic Routes for the Construction of Functionalized Heterocyclic Scaffolds",
+  "authors": [
+   "Venkateswara Rao Arikatla"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23730961",
+  "url": "https://doi.org/10.5281/zenodo.23730961",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification",
+   "Biocatalysis & Enzymatic Flow",
+   "Catalysis in Flow",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Flow Chemistry",
+   "Heterogeneous Catalyst",
+   "Photoredox",
+   "Process Intensification"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-30"
  },
  {
   "id": "a2349a53e9ec2e30",
@@ -61,6 +162,76 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-10-24"
+ },
+ {
+  "id": "a07a7a0510d6a992",
+  "title": "Hydrogen-Ion-Mediated Ni/Ni(OH)2 Dual Sites to Synergistically Accelerate *OH/Organics Adsorption for Highly Efficient Electrochemical 5-Amino-1 H -tetrazole Electrooxidation within a Wide Potential Range",
+  "authors": [
+   "Ruhao Zhang",
+   "Zihang Zhao",
+   "Hanggu Su",
+   "Yuqiang Ma",
+   "Jun Hu",
+   "Jiachen Li",
+   "Haixia Ma"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c06258",
+  "url": "https://doi.org/10.1021/acscatal.6c06258",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Northwest University",
+   "PLA Rocket Force University of Engineering"
+  ],
+  "added": "2026-10-30"
+ },
+ {
+  "id": "912ffab6a4b1d729",
+  "title": "Selective Dissolution and Pore-Structure Modification of Dolostone Under Paired Temperature-Pressure Conditions: Insights from Continuous-Flow Acetic-Acid Experiments",
+  "authors": [
+   "Xiaotian Li",
+   "Min She",
+   "Huachuan Jiang",
+   "Jie Zhao",
+   "Luping Li",
+   "Fuying Yin",
+   "Gang Zhou",
+   "Huanhuan Jia",
+   "Jintong Liang"
+  ],
+  "journal": "Minerals",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.3390/min16111115",
+  "url": "https://doi.org/10.3390/min16111115",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chengdu University of Technology",
+   "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation",
+   "Exploration and Development Research Institute of PetroChina Southwest Oil & Gas Field Company (China)",
+   "PetroChina Southwest Oil and Gas Field Company (China)",
+   "Sinopec (China)",
+   "China National Petroleum Corporation (China)"
+  ],
+  "added": "2026-10-30"
  },
  {
   "id": "463b39a49d51ccd7",
@@ -98,6 +269,36 @@
   "added": "2026-10-29"
  },
  {
+  "id": "2e277352982fa210",
+  "title": "Topology-Engineered Dual-Functional COFs with Spatially Cooperated Hydrophilic and Photocatalytic Sites for Harvesting Safe Water from Polluted Atmosphere.",
+  "authors": [
+   "Meng Zhang",
+   "Pengpeng Shao",
+   "Jia-Xin Liu",
+   "Shan Wang",
+   "Yingying Wei",
+   "Qian-You Wang",
+   "Qinglang Ma",
+   "Bo Wang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c16023",
+  "url": "https://doi.org/10.1021/jacs.6c16023",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-30"
+ },
+ {
   "id": "de1ec4b64039cbb0",
   "title": "Feuille de Route pour l'Avènement d'une Civilisation Planétaire à Résonance Métrique-Affine et Inertie Nulle",
   "authors": [
@@ -124,6 +325,42 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-10-29"
+ },
+ {
+  "id": "cdbd697e1200daf5",
+  "title": "Autonomous Experimentation Enables Rapid Optimization of Photochemical Continuous-Flow Synthesis of Diazaxanthilidene Fluorophores",
+  "authors": [
+   "Joao Luiz P. de Albuquerque",
+   "Scott Laverty",
+   "Mao Niimura",
+   "Ari Bortman",
+   "David M. Chenoweth",
+   "Andrew F. Zahrt"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-10-27",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011155/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011155/v1",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Flow Rate",
+   "Flow Synthesis",
+   "Throughput"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "University of Pennsylvania",
+   "University of the Sciences"
+  ],
+  "added": "2026-10-30"
  },
  {
   "id": "aa1732818ca9a1e9",
@@ -1613,6 +1850,39 @@
    "Kyushu University"
   ],
   "added": "2026-10-21"
+ },
+ {
+  "id": "9175723b10965f06",
+  "title": "Beyond external oxidants: 222nm far-UVC unlocks the reactive potential of bicarbonate for organic micropollutant degradation.",
+  "authors": [
+   "Junge Xu",
+   "Yanfang Li",
+   "Rusen Zou",
+   "Weihao Yu",
+   "Boda Ouyang",
+   "Jayan Yao",
+   "Hanjie Zheng",
+   "Zhiyong Zhang",
+   "Baoling Yuan"
+  ],
+  "journal": "Water research",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.127174",
+  "url": "https://doi.org/10.1016/j.watres.2026.127174",
+  "source": "pubmed",
+  "categories": [
+   "Separation & In-line Purification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Scavenger"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-30"
  },
  {
   "id": "7de3d49538c2d850",
