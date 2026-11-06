@@ -1,5 +1,128 @@
 [
  {
+  "id": "c57530e5b19fb7b1",
+  "title": "Structure-Performance Relationships in Metal-Organic Framework Mg2(olz) Catalysts for CO2 Adsorption and Hydrogenation to Methanol.",
+  "authors": [
+   "Anna Liutkova",
+   "Fabio André Peixoto Esteves",
+   "Anastasia Molokova",
+   "Marianela López Romero",
+   "Davide Salusso",
+   "Andrea Testino",
+   "Emiliya Poghosyan",
+   "Marco Ranocchiari"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1002/cssc.71202",
+  "url": "https://doi.org/10.1002/cssc.71202",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Catalysis in Flow",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Hydrogenation",
+   "Plug-Flow Reactor",
+   "Productivity"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "9b0388161a3d8428",
+  "title": "Pt/Ru Ratio Balances Substrate Adsorption and Active Hydrogen for Efficient Aromatic Electrocatalytic Hydrogenation.",
+  "authors": [
+   "Xinru Wu",
+   "Hongqian Lv",
+   "Cejun Hu",
+   "Di Yang",
+   "Zongxuan Yang",
+   "Wanxia Yan",
+   "Zhengyu Zhao",
+   "Suting Weng",
+   "Hongwei Zhang",
+   "Qingchen Wu",
+   "Pei Yuan"
+  ],
+  "journal": "ACS applied materials & interfaces",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c18710",
+  "url": "https://doi.org/10.1021/acsami.6c18710",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "f5aab5a849a94238",
+  "title": "Concise Synthesis of the Click-to-Release Linker iTCO Enabled by Telescoped Flow Photohydrolysis and Iodolactonization.",
+  "authors": [
+   "Sebastian Hecko",
+   "Sebastian Schnöll",
+   "Jakob E. Raffler",
+   "A. Löffler",
+   "Johannes Bintinger",
+   "Hannes Mikula"
+  ],
+  "journal": "The Journal of organic chemistry",
+  "publisher": "",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c02268",
+  "url": "https://doi.org/10.1021/acs.joc.6c02268",
+  "source": "semanticscholar",
+  "categories": [
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Telescoped Flow"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "e41b7861b458863d",
+  "title": "FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching",
+  "authors": [
+   "Ze-Ping Zhang",
+   "Zhuo-Ya Zhao",
+   "Samy Metari",
+   "Robert Laganière"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "",
+  "url": "https://www.semanticscholar.org/paper/7da97d3fd5d24b0dd3747f400a8bf690fc4b9eb4",
+  "source": "semanticscholar",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-06"
+ },
+ {
   "id": "97f933b65058aee7",
   "title": "Aniline-Peroxide-Initiated Cyclodextrin-Containing Monoliths for Scalable PFAS Removal from Water.",
   "authors": [
@@ -34,6 +157,172 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-11-05"
+ },
+ {
+  "id": "bc372d58656080ed",
+  "title": "Rapid-Mixing In Situ X-ray Diffraction Reveals Precursor-Reorganization Signatures in Additive-Free Zeolitic Imidazolate Framework-8 Nanoparticle Formation",
+  "authors": [
+   "Shotaro Danjo",
+   "Shogo Kawaguchi",
+   "Shotaro Hiraide",
+   "Satoshi Watanabe"
+  ],
+  "journal": "ACS Nano",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c13927",
+  "url": "https://doi.org/10.1021/acsnano.6c13927",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Micromixing",
+   "Microreactor"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Kyoto University",
+   "Japan Synchrotron Radiation Research Institute",
+   "Shinshu University"
+  ],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "a012d1d7de7c5a0c",
+  "title": "Brust-Schiffrin synthesis of thiol-stabilised gold nanoparticles using a three-phase continuous flow reactor",
+  "authors": [
+   "Mabel Cornwell",
+   "Sayan Pal",
+   "Hendrik du Toit",
+   "Ivan Paul Parkin",
+   "Asterios Gavriilidis"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1007/s41981-026-00385-4",
+  "url": "https://doi.org/10.1007/s41981-026-00385-4",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Gas-Liquid"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University College London"
+  ],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "77f798ab6f41d3d4",
+  "title": "A Continuous Electrochemical Bromine Generator for Telescoped Photochemistry, Oxidation, and Rearrangement Processes",
+  "authors": [
+   "Davin Cronly",
+   "Megan Smyth",
+   "Scott Wharry",
+   "Thomas S. Moody",
+   "Marcus Baumann"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c09435",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c09435",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Multistep & Telescoped Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Reactor",
+   "Oxidation",
+   "Steady State",
+   "Telescoping"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University College Dublin",
+   "Alma College",
+   "Almac (United Kingdom)"
+  ],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "3888448fa9d03afc",
+  "title": "Accelerating Molecular Ferroelectrics: From Rapid Mapping to Scalable High-Yield Synthesis.",
+  "authors": [
+   "Lakhloufi S",
+   "Boucleinville C",
+   "Rotondo E",
+   "Rouquette J",
+   "Beaudhuin M",
+   "Pechev S",
+   "Lebraud E",
+   "Aymonier C",
+   "Long J."
+  ],
+  "journal": "Small methods",
+  "publisher": "",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1002/smtd.71175",
+  "url": "https://doi.org/10.1002/smtd.71175",
+  "source": "europepmc",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Flow Synthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-11-06"
+ },
+ {
+  "id": "1c9ec4c59ff83ed8",
+  "title": "Environmental sustainability and climate change mitigation measures in pharmaceutical manufacturing: a scoping review of global evidence and regulatory frameworks",
+  "authors": [
+   "Hanan Khalil",
+   "Luther Gwaza",
+   "Brahim Benyahia"
+  ],
+  "journal": "Frontiers in Sustainability",
+  "publisher": "Frontiers Media",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.3389/frsus.2026.1984573",
+  "url": "https://doi.org/10.3389/frsus.2026.1984573",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Process Intensification"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "GMP",
+   "Pharma Manufacturing",
+   "Process Intensification"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "La Trobe University",
+   "World Health Organization",
+   "Loughborough University",
+   "Loughborough College"
+  ],
+  "added": "2026-11-06"
  },
  {
   "id": "f436e3b553b7ed33",
