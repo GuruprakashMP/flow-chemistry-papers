@@ -1,5 +1,67 @@
 [
  {
+  "id": "64531934a91d6f22",
+  "title": "Synchronized Charge Transport and Mass Transfer via a Laser-Programmed Spatial Interface Strategy for Scalable H2O2 Photosynthesis.",
+  "authors": [
+   "Songsong Zhi",
+   "Ning Zhao",
+   "Can Yang",
+   "Hewen Wang",
+   "Zihan Li",
+   "Yu Wang",
+   "Xiaoxiao Zou",
+   "Hong Guo",
+   "Dapeng Wu"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-14",
+  "year": 2026,
+  "doi": "10.1002/anie.7104561",
+  "url": "https://doi.org/10.1002/anie.7104561",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "dcae9be48e1ccd63",
+  "title": "Enhancing H2-driven CO2 bioconversion through airlift and Taylor flow bioreactors: experimental comparison and model-based analysis.",
+  "authors": [
+   "Pedro Cruz",
+   "Paz Torres-Praderio",
+   "Felipe Scott",
+   "Alberto Vergara-Fernandez"
+  ],
+  "journal": "Journal of environmental management",
+  "publisher": "",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1016/j.jenvman.2026.131381",
+  "url": "https://doi.org/10.1016/j.jenvman.2026.131381",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Gas-Liquid & Multiphase Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Gas-Liquid",
+   "Scale-up",
+   "Taylor Flow"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-14"
+ },
+ {
   "id": "b5446a21a7668f20",
   "title": "Fabrication of curcumin (CUR)-loaded polysaccharide-based microcapsules via a novel continuous-flow sonochemical method for fruit preservation",
   "authors": [
@@ -65,6 +127,33 @@
   "added": "2026-11-13"
  },
  {
+  "id": "0b8def9f67dc86ec",
+  "title": "Mass and Charge Transport Modeling, Multiphysics Analysis, and Architectural Optimization in Electrochemical Batteries: A Comprehensive Review",
+  "authors": [
+   "Sun H",
+   "Li R."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.20944/preprints202611.1374.v1",
+  "url": "https://doi.org/10.20944/preprints202611.1374.v1",
+  "source": "europepmc",
+  "categories": [
+   "Gas-Liquid & Multiphase Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Gas-Liquid",
+   "Scale-up"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-11-14"
+ },
+ {
   "id": "02829dfe76a2cffe",
   "title": "Hemodynamic effects of a novel counter-pulsatile system for extracorporeal membrane oxygenation.",
   "authors": [
@@ -127,6 +216,66 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-11-13"
+ },
+ {
+  "id": "e41eb2c8da86ca20",
+  "title": "Replication Data for Unlocking the continuous flow asymmetric hydrogenation of olefins through the development of a non-deactivating immobilized iridium catalyst",
+  "authors": [
+   "Jorge Faiges",
+   "Nicola Zanda",
+   "Patricia Llanes",
+   "Miquel À. Pericàs",
+   "Òscar Pàmies",
+   "Montserrat Diéguez"
+  ],
+  "journal": "CORA.Repositori de Dades de Recerca",
+  "publisher": "Consorci de Serveis Universitaris de Catalunya",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.34810/data3856",
+  "url": "https://doi.org/10.34810/data3856",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Universitat Rovira i Virgili",
+   "Institut Català d'Investigació Química"
+  ],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "d439c95a4f81a87f",
+  "title": "Bridging Analytical Quality by Design (AQbD) and Industrial Scale-Up in Metabolic Herbal Nanomedicines: A Systematic Review and Meta-Analysis of ICH Q14 Method Operable Design Regions, Microfluidics, and Clinical Translation.",
+  "authors": [
+   "Mohammad Amjad Kamal",
+   "Aziz Unnisa"
+  ],
+  "journal": "Open Science Framework",
+  "publisher": "Center for Open Science",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.17605/osf.io/eh3ru",
+  "url": "https://doi.org/10.17605/osf.io/eh3ru",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Microfluidics",
+   "Micromixer",
+   "Scale-up"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-14"
  },
  {
   "id": "c57530e5b19fb7b1",
@@ -196,6 +345,63 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-13"
+ },
+ {
+  "id": "70b599855ca8314b",
+  "title": "From prototyping to daily practice: Chemically resistant 3D printed flow reactors for organic synthesis",
+  "authors": [
+   "János Máté Orosz",
+   "Thibaud Brégent",
+   "András Kotschy",
+   "Erika Bálint"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012090/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012090/v1",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Process Intensification"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Space-Time Yield"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Budapest University of Technology and Economics"
+  ],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "6184c97a67015dc8",
+  "title": "Natural mineral-supported green nanotechnology for oil-water separation and environmental remediation: surface engineering, separation mechanisms and scale-up perspectives",
+  "authors": [
+   "Nthabiseng Ramanamane"
+  ],
+  "journal": "Frontiers in Nanotechnology",
+  "publisher": "Frontiers Media",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.3389/fnano.2026.2015773",
+  "url": "https://doi.org/10.3389/fnano.2026.2015773",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up",
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Droplet",
+   "Scale-up"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-11-14"
  },
  {
   "id": "3c0c24a8aa7316a3",
@@ -663,6 +869,38 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-11"
+ },
+ {
+  "id": "46c0ed2f811d2b04",
+  "title": "Usefulness of Pulmonary Artery Pulsatility Index in Predicting Acute Kidney Injury Following Continuous-Flow Left Ventricular Assist Device Implantation in Ambulatory Advanced Heart Failure Patients.",
+  "authors": [
+   "Cem Doğan",
+   "Süleyman Çağan Efe",
+   "Gülümser Sevgin Halil",
+   "Özgür Yaşar Akbal",
+   "Ali Karagöz",
+   "Sabit Sarıkaya",
+   "Cemalettin Yılmaz",
+   "Regayip Zehir",
+   "Rezzan Deniz Acar",
+   "Mehmet Kaan Kırali"
+  ],
+  "journal": "Journal of clinical medicine",
+  "publisher": "",
+  "published": "2026-11-08",
+  "year": 2026,
+  "doi": "10.3390/jcm15218721",
+  "url": "https://doi.org/10.3390/jcm15218721",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-14"
  },
  {
   "id": "d91ef71d4bfb4da2",
