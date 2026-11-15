@@ -1,5 +1,62 @@
 [
  {
+  "id": "e9582dbffc39d716",
+  "title": "Single-molecule microfluidics for protein analysis and sensing",
+  "authors": [
+   "Henri Lila",
+   "Sophie van den Boom",
+   "Georg Krainer"
+  ],
+  "journal": "BBA Advances",
+  "publisher": "Elsevier",
+  "published": "2026-11-15",
+  "year": 2026,
+  "doi": "10.1016/j.bbadva.2026.100207",
+  "url": "https://doi.org/10.1016/j.bbadva.2026.100207",
+  "source": "doaj",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Droplet",
+   "Microfluidics"
+  ],
+  "relevance_score": 41,
+  "affiliations": [],
+  "added": "2026-11-15"
+ },
+ {
+  "id": "8980194f0d0f282c",
+  "title": "Perioperative management of aortic root thrombus following HeartMate 3 implantation: review of the literature.",
+  "authors": [
+   "Toshihide Izumida",
+   "Teruhiko Imamura",
+   "Makiko Nakamura",
+   "Masaki Nakagaito",
+   "Shigeki Yokoyama",
+   "Saori Nagura",
+   "Toshio Doi",
+   "Koichiro Kinugawa"
+  ],
+  "journal": "Journal of artificial organs : the official journal of the Japanese Society for Artificial Organs",
+  "publisher": "",
+  "published": "2026-11-14",
+  "year": 2026,
+  "doi": "10.1007/s10047-026-01603-5",
+  "url": "https://doi.org/10.1007/s10047-026-01603-5",
+  "source": "pubmed",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-15"
+ },
+ {
   "id": "64531934a91d6f22",
   "title": "Synchronized Charge Transport and Mass Transfer via a Laser-Programmed Spatial Interface Strategy for Scalable H2O2 Photosynthesis.",
   "authors": [
@@ -60,6 +117,42 @@
   "relevance_score": 63,
   "affiliations": [],
   "added": "2026-11-14"
+ },
+ {
+  "id": "dbe50221ab520dea",
+  "title": "Combined Crossed Molecular Beams, Kinetics, and Theoretical Studies of the Multichannel N(2D) + C6H5CH3 (Toluene) Reaction: Rate Constants, Primary Product Channels, and Branching Fractions",
+  "authors": [
+   "Gianmarco Vanuzzo",
+   "Luca Mancini",
+   "Adriana Caracciolo",
+   "Dao-Fu Yuan",
+   "Piergiorgio Casavecchia",
+   "Marzio Rosi",
+   "Kevin M. Hickson",
+   "Nadia Balucani"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c05190",
+  "url": "https://doi.org/10.1021/acs.jpca.6c05190",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Perugia",
+   "Istituto di Scienze e Tecnologie Chimiche \"Giulio Natta\"",
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Moléculaires",
+   "Institut Polytechnique de Bordeaux"
+  ],
+  "added": "2026-11-15"
  },
  {
   "id": "b5446a21a7668f20",
@@ -125,6 +218,109 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-11-13"
+ },
+ {
+  "id": "683e6c13788d0bd9",
+  "title": "Multistep Flow-Assisted Synthesis of N-Heterocyclic APIs",
+  "authors": [
+   "Prakash K. Mandal",
+   "Md Tanjul Hoque",
+   "Rajesh Nandi",
+   "Antara Roy",
+   "Dilip Kumar Maiti"
+  ],
+  "journal": "CRC Press eBooks",
+  "publisher": "CRC Press",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1201/9781003783633-12",
+  "url": "https://doi.org/10.1201/9781003783633-12",
+  "source": "openalex",
+  "categories": [
+   "Multistep & Telescoped Synthesis",
+   "Reactor Engineering & Design",
+   "Continuous Manufacturing & Pharma",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "API Synthesis",
+   "Continuous Flow",
+   "Flow Chemistry",
+   "Flow Reactor",
+   "Multistep Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-11-15"
+ },
+ {
+  "id": "2f00d13ed328e607",
+  "title": "Pyrolysis of Hexamethyldisiloxane",
+  "authors": [
+   "Rachel A. Schwind",
+   "Michael Stuhr",
+   "Satya P. Joshi",
+   "Galiya R. Galimova",
+   "Raghu Sivaramakrishnan",
+   "Yuri Georgievskii",
+   "Margaret S. Wooldridge",
+   "Robert S. Tranter"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c04291",
+  "url": "https://doi.org/10.1021/acs.jpca.6c04291",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor",
+   "Residence Time"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Edinburgh",
+   "Argonne National Laboratory",
+   "University of Michigan"
+  ],
+  "added": "2026-11-15"
+ },
+ {
+  "id": "0d8189ba4c0123d1",
+  "title": "Optimizing entrained-flow reactors for biomass gasification: a novel framework for controlling slag–refractory interactions and enhancing durability",
+  "authors": [
+   "Jacques Poirier",
+   "Karine Froment",
+   "F. Defoort"
+  ],
+  "journal": "Annals of Nuclear Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1016/j.anucene.2026.112989",
+  "url": "https://doi.org/10.1016/j.anucene.2026.112989",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Université d'Orléans",
+   "Centre National de la Recherche Scientifique",
+   "Conditions Extrêmes et Matériaux Haute Température et Irradiation",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "ARC-Nucléart",
+   "Laboratoire d’Innovation pour les Technologies des Énergies Nouvelles et les nanomatériaux",
+   "CEA Grenoble"
+  ],
+  "added": "2026-11-15"
  },
  {
   "id": "0b8def9f67dc86ec",
@@ -402,6 +598,39 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-11-14"
+ },
+ {
+  "id": "459d497611c09214",
+  "title": "Uncovering the potential of zero-valent aluminum/persulfate: Organophosphorus wastewater treatment via oxidation followed by pH-controlled coagulation for phosphorus recovery.",
+  "authors": [
+   "Zhenjun Xiao",
+   "Yijie Lin",
+   "Zili Lin",
+   "Zihong Xu",
+   "Jiali Hu",
+   "Ping Chen",
+   "Zihao Guo",
+   "Wenying Lv",
+   "Guoguang Liu"
+  ],
+  "journal": "Water research",
+  "publisher": "",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.127328",
+  "url": "https://doi.org/10.1016/j.watres.2026.127328",
+  "source": "pubmed",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-15"
  },
  {
   "id": "3c0c24a8aa7316a3",
