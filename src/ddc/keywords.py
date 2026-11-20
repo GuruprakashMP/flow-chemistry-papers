@@ -2,13 +2,13 @@
 
 Three vocabularies drive the relevance decision:
 
-* ``PRIMARY_TERMS`` — flow-chemistry-specific vocabulary. A paper must show
+* ``PRIMARY_TERMS`` - flow-chemistry-specific vocabulary. A paper must show
   strong evidence here to be indexed at all: this is the project's core rule,
   *continuous-flow / flow chemistry as the primary subject*.
-* ``SUPPORT_TERMS`` — reactor hardware, in-line analytics, target reactions,
+* ``SUPPORT_TERMS`` - reactor hardware, in-line analytics, target reactions,
   process methods and computational studies that refine the score and assign
   categories.
-* ``NEGATIVE_TERMS`` — signals the paper belongs to a neighbouring field that
+* ``NEGATIVE_TERMS`` - signals the paper belongs to a neighbouring field that
   merely shares the word "flow" (flow cytometry, blood flow, CFD/heat-transfer
   engineering, traffic/pipeline/hydrology flow, nuclear reactors...).
   ``penalty`` points.
@@ -23,7 +23,7 @@ from __future__ import annotations
 from typing import Dict, Tuple
 
 # ---------------------------------------------------------------------------
-# Primary flow-chemistry terms — required evidence
+# Primary flow-chemistry terms - required evidence
 # ---------------------------------------------------------------------------
 PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     # phrase: (weight, tag, category)
@@ -87,7 +87,7 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Support terms — reactor hardware, analytics, reactions, methods
+# Support terms - reactor hardware, analytics, reactions, methods
 # ---------------------------------------------------------------------------
 SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     # process / operating parameters
@@ -210,7 +210,7 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Negative signals — neighbouring fields that merely share the word "flow"
+# Negative signals - neighbouring fields that merely share the word "flow"
 # ---------------------------------------------------------------------------
 NEGATIVE_TERMS: Dict[str, int] = {
     # biology / medicine
@@ -267,7 +267,7 @@ NEGATIVE_TERMS: Dict[str, int] = {
     "coolant flow": 12,
     "fuel assembly": 10,
     # medicine / imaging / biology microfluidics (diagnostics, organ-on-chip,
-    # perfusion, delivery) — share "microfluidic"/"continuous flow" but are
+    # perfusion, delivery) - share "microfluidic"/"continuous flow" but are
     # not chemical synthesis
     "arterial spin": 12,
     "spin labeling": 12,

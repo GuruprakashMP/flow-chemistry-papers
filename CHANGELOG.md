@@ -2,6 +2,27 @@
 
 All notable changes to FlowChemistryPapers.
 
+## [1.3.0] - 2026-11-20
+
+### Added
+- **Table-of-contents graphics** (`src/ddc/toc.py`, `python -m ddc toc`). Every daily
+  run reads the RSS feeds of the ACS, Wiley and RSC journals with papers added here
+  in the last 60 days and records, for papers in the index, the address of the
+  graphic each feed item links (`data/state/toc.json`). Only the address is stored;
+  pages show the image from the publisher's own HTTPS host, credited ("Graphic:
+  Wiley") and linked to the paper, and drop it if it does not load. A blocked feed
+  is logged and skipped; after 3 failures in a row with no success a publisher is
+  skipped for that run. `toc_graphics` in the settings turns it off.
+
+### Changed
+- A more structured look (shared GP Tools theme): header band with labelled
+  figures (papers indexed, added since, last update, sources), the page title in
+  the band on every other page, a filter sidebar on the front page, cards with
+  icon buttons and the graphic beside the text, a four-column footer.
+- No em dashes in anything shown: titles, journals, authors and abstracts that
+  contain one are shown with a spaced hyphen (the stored record is unchanged), and
+  docs and code comments no longer use them.
+
 ## [1.2.0] - 2026-11-19
 
 ### Added
@@ -23,12 +44,12 @@ All notable changes to FlowChemistryPapers.
 - About and Categories texts: no em dashes; "one or more categories" (many papers
   have exactly one).
 
-## [1.1.1] — 2026-07-28
+## [1.1.1] - 2026-07-28
 
 ### Fixed
 - **One researcher is now one author page.** Publisher metadata carries
   Unicode dashes and honorifics, so the same person fragmented across
-  several pages — the U+2010 spelling of a hyphenated name and the ASCII
+  several pages - the U+2010 spelling of a hyphenated name and the ASCII
   spelling everyone types were different keys. Yoshida's ASCII page went from 0 to 115 papers.
 
   New `models.normalize_author` (NFC, Unicode dashes -> ASCII `-`,
@@ -39,13 +60,13 @@ All notable changes to FlowChemistryPapers.
   `app.js` normalizes the incoming `?a=` value so pre-existing links and
   bookmarks still resolve.
 - Deliberately not merged: initials vs full given names, and hyphen-less
-  spellings — those would fuse distinct researchers, since surnames like
+  spellings - those would fuse distinct researchers, since surnames like
   "Li", "Hu" and "Wu" occur as complete names in this data. A trailing
   period is preserved because many names legitimately end in an initial.
 - Paper ids and `data/state/seen.json` are byte-identical before and after
   the migration: author names never feed identity or dedupe keys.
 
-## [1.1.0] — 2026-07-28
+## [1.1.0] - 2026-07-28
 
 Historical backfill 1975→2026 complete and verified: **49,419 papers**
 indexed (from 38), spanning the whole modern history of continuous
@@ -53,7 +74,7 @@ processing and microreactor technology.
 
 ### Added
 - Full topic sweep of all 52 years across 56 workflow runs, driven
-  newest-first by a local monitor. **Zero `INCOMPLETE` years** — every year
+  newest-first by a local monitor. **Zero `INCOMPLETE` years** - every year
   logged `=== YYYY done` on its first attempt.
 - Pioneer sweep (31 author entries, +1,801 papers) run first as its own
   workflow run, so the bounded high-value sweep could not be starved by the
@@ -75,14 +96,14 @@ processing and microreactor technology.
 
 ### Known limitations
 - OpenAlex throttling appears **shared across the sibling paper-index
-  projects** — only one backfill chain may run at a time. This chain was
+  projects** - only one backfill chain may run at a time. This chain was
   paused mid-way on 2026-07-27 for the `mechanochemistry-papers` chain and
   resumed the next morning.
 - arXiv carries very little flow chemistry (6 works total for "flow
-  chemistry"), so that collector contributes almost nothing here — unlike
+  chemistry"), so that collector contributes almost nothing here - unlike
   in the parent project. Not a fault.
 
-## [1.0.0] — 2026-07-27
+## [1.0.0] - 2026-07-27
 
 Initial release, adapted from the proven
 [PhotocatalysisPapers](https://github.com/GuruprakashMP/photocatalysis-papers)
@@ -105,7 +126,7 @@ collector guards, static site with progressive loading).
   (residence time, back-pressure regulator, in-line analytics/PAT,
   packed-bed, tube-in-tube, scale-up, self-optimization, target reactions)
   refines score/categories; NEGATIVE vocabulary rejects the "flow"
-  false-friends — flow cytometry, blood flow, CFD/heat-transfer engineering,
+  false-friends - flow cytometry, blood flow, CFD/heat-transfer engineering,
   traffic/hydrology/pipeline transport, nuclear reactors.
 - 17 flow-chemistry-specific categories.
 - All collector and backfill queries rewritten for flow chemistry.

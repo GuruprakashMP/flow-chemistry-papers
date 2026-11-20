@@ -1,7 +1,7 @@
 """Relevance classification.
 
 Implements the project's core filtering rule: a paper is indexed only when
-*continuous-flow / flow chemistry is its primary subject* — any methodology
+*continuous-flow / flow chemistry is its primary subject* - any methodology
 (synthesis, reactor engineering, in-line analytics, modelling) qualifies, but
 neighbouring fields that merely share the word "flow" (flow cytometry, blood
 flow, CFD/heat-transfer engineering, traffic/hydrology, nuclear reactors) are

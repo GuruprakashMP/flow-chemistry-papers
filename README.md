@@ -1,7 +1,7 @@
 # FlowChemistryPapers
 
 A fully automated, continuously updated public index of **flow chemistry
-research papers** — continuous-flow synthesis, microreactors & microfluidics,
+research papers** - continuous-flow synthesis, microreactors & microfluidics,
 telescoped and multistep processes, flow photochemistry & electrochemistry,
 catalysis in flow, in-line analytics & PAT, process intensification,
 scale-up/numbering-up and continuous manufacturing. Synthetic, engineering and
@@ -12,7 +12,7 @@ traffic/hydrology, nuclear reactors) are filtered out.
 Sister project of
 [PhotocatalysisPapers](https://github.com/GuruprakashMP/photocatalysis-papers)
 and
-[DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers) —
+[DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers) -
 same architecture, different scientific scope.
 
 * **No papers are hosted.** Only bibliographic metadata (title, authors,
@@ -20,7 +20,7 @@ same architecture, different scientific scope.
 * **Zero dependencies.** Standard-library Python; JSON + static HTML,
   perfect for GitHub Pages.
 * **Fully automatic.** A GitHub Actions workflow collects, deduplicates,
-  classifies, rebuilds the site and commits — every day.
+  classifies, rebuilds the site and commits - every day.
 
 ## Quick start (local)
 
@@ -37,7 +37,7 @@ python -m ddc stats          # index statistics
 python -m unittest discover -s tests
 ```
 
-(On this machine Python 3.9 is the `py` launcher; `python` is not on PATH —
+(On this machine Python 3.9 is the `py` launcher; `python` is not on PATH -
 use `py -m ddc ...`.)
 
 The backfill starts at **1975**, covering the modern history of continuous
@@ -63,7 +63,7 @@ reactors) are penalised out. Tune the vocabulary in `src/ddc/keywords.py`.
 ## Sources
 
 Direct: **arXiv**, **ChemRxiv**. Aggregators: **Crossref**, **OpenAlex**,
-**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** — which legally
+**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** - which legally
 carry the metadata of every DOI-issuing publisher (ACS, RSC, Wiley, Springer
 Nature, Elsevier, MDPI, ...).
 
