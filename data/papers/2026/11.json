@@ -1,5 +1,74 @@
 [
  {
+  "id": "97531ec6054cb6c0",
+  "title": "Five Key Technologies for Promoting the Green Transformation of Pharmaceutical Production Processes",
+  "authors": [
+   "瞿军",
+   "Yunxiang Qiao",
+   "Fan Yang",
+   "Yun Qian",
+   "Haitang Hua",
+   "Dehua Gao"
+  ],
+  "journal": "Pharmaceutical Fronts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.1055/a-2979-9406",
+  "url": "https://doi.org/10.1055/a-2979-9406",
+  "source": "openalex",
+  "categories": [
+   "Continuous Manufacturing & Pharma",
+   "Biocatalysis & Enzymatic Flow",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Biocatalysis",
+   "Continuous Flow",
+   "Pharma Manufacturing",
+   "Process Development",
+   "Scale-up"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "82f5855908261597",
+  "title": "Three-Dimensional Pyrrolo[3,2-b]pyrrole-Based Covalent Organic Polymers for Continuous H2O2 Production",
+  "authors": [
+   "Xiaoyi Yue",
+   "Hao Chen",
+   "Shangrui Wu",
+   "Yingguo Li",
+   "Danfeng Jiang",
+   "Xiao Chen",
+   "Chao Yu"
+  ],
+  "journal": "Nano-electrochemistry & Nano-photochemistry",
+  "publisher": "Scilight Press Pty Ltd",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.53941/nenp.2026.100026",
+  "url": "https://doi.org/10.53941/nenp.2026.100026",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Gas-Liquid & Multiphase Flow",
+   "Separation & In-line Purification"
+  ],
+  "tags": [
+   "Biphasic",
+   "Continuous Flow",
+   "Flow Photochemistry",
+   "Flow Photoreactor",
+   "Scavenger"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-21"
+ },
+ {
   "id": "f7190d22b0e437a3",
   "title": "GDL-free multi-phase flow reactors enable stable intermittent CO2 electrolysis",
   "authors": [
@@ -22,6 +91,71 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-20"
+ },
+ {
+  "id": "e77d1208fef082fd",
+  "title": "Informatics-Driven Chemputation within the HERA Framework: Mathematical Modeling of Molecular State Entropy, Reaction-Diffusion Flow Kinetics, and Closed-Loop Bayesian Optimization",
+  "authors": [
+   "Gowtham Krishna R"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012470/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012470/v1",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Continuous Manufacturing & Pharma"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Continuous Flow",
+   "Pharma Manufacturing"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "d79538a5261a4de7",
+  "title": "Automated multimodal mining of structured data locked in the figures and tables of flow chemistry literature",
+  "authors": [
+   "Wenyuan Zhao",
+   "Xianzhu Zhong",
+   "Xavier Jouffroy",
+   "Yosuke Ashikari",
+   "Hiromichi V. Miyagishi",
+   "Mohmmad S. Qenawy",
+   "Simeng Wang",
+   "Yirui Peng",
+   "Mikail Raffano Munsyi",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1039/d6sc06681j",
+  "url": "https://doi.org/10.1039/d6sc06681j",
+  "source": "openalex",
+  "categories": [
+   "Self-Optimization & Machine Learning",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "Flow Chemistry",
+   "Kinetic Modeling",
+   "Machine Learning",
+   "Organolithium"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Hokkaido University",
+   "Fudan University"
+  ],
+  "added": "2026-11-21"
  },
  {
   "id": "a03601a5b7bbe9cd",
@@ -50,6 +184,80 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-11-20"
+ },
+ {
+  "id": "6a0c05759085e16b",
+  "title": "Two-carbon annulation of primary amines to azetidines",
+  "authors": [
+   "Darren L. Richards",
+   "Hannah E. Askey",
+   "Dario Filippini",
+   "Yiding Chen",
+   "Edward I. Balmond",
+   "Miles J. Pemberton",
+   "Subhasis Paul",
+   "Hannah N. Ryder",
+   "Gail Wrigley",
+   "Martin Ernst",
+   "Matthew N. Grayson",
+   "Mattia Silvi",
+   "Alexander J. Cresswell"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012461/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012461/v1",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Photoredox"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Bath",
+   "Pharmaron (United Kingdom)",
+   "University of Nottingham",
+   "BASF (Germany)"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "2d94b9005b7fb343",
+  "title": "Recent Advances in the Preparation and Application of Sultams (2017–2026)",
+  "authors": [
+   "Yafei Zhang",
+   "Huamao Wei",
+   "Sichun Ai",
+   "Xuan Wang",
+   "Min Wang"
+  ],
+  "journal": "The Chemical Record",
+  "publisher": "Wiley",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1002/tcr.70275",
+  "url": "https://doi.org/10.1002/tcr.70275",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Flow Photochemistry",
+   "Photoredox",
+   "Scale-up"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Ningbo University",
+   "Beijing Institute of Petrochemical Technology"
+  ],
+  "added": "2026-11-21"
  },
  {
   "id": "68bafd8363be32c7",
