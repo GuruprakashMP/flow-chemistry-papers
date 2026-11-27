@@ -1,5 +1,65 @@
 [
  {
+  "id": "75700c60ad54d54a",
+  "title": "Hydrogel-Based Biocatalyst Immobilization in Microreactors",
+  "authors": [
+   "Tadej Menegatti",
+   "Polona Žnidaršič Plazl"
+  ],
+  "journal": "Methods in molecular biology",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1007/978-1-0716-5659-4_26",
+  "url": "https://doi.org/10.1007/978-1-0716-5659-4_26",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Ljubljana"
+  ],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "bd814ff827b0bfb8",
+  "title": "MOF- and COF-Integrated Electrospun Membranes for Wastewater Treatment: A Critical Assessment and Outlook",
+  "authors": [
+   "Aqleema Aslam",
+   "Xinyu Li",
+   "Adeela Saeed",
+   "Shahid Ali",
+   "Yan Chen",
+   "Jingyue Yang",
+   "Tifeng Jiao"
+  ],
+  "journal": "ACS Applied Nano Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acsanm.6c04417",
+  "url": "https://doi.org/10.1021/acsanm.6c04417",
+  "source": "openalex",
+  "categories": [
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Scale-up"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Yanshan University",
+   "The Women University Multan",
+   "National University of Science and Technology"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "3b45181033bc7127",
   "title": "Can Thermal Storage Protect Microreactor Output During Heat Waves Without More Cooling Water?",
   "authors": [
@@ -21,6 +81,64 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-11-26"
+ },
+ {
+  "id": "2cffd64608d28273",
+  "title": "Continuous-flow magnesium electrocoagulation for nutrient recovery from Phosphate- limited domestic wastewater: effects of pH and applied current",
+  "authors": [
+   "Zuriatni Y",
+   "Purwiandono G",
+   "Ardhianto R",
+   "Prakoso NI",
+   "Julianto TS."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11715713/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11715713/v1",
+  "source": "europepmc",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "1b6b78d7b3b2ed58",
+  "title": "Composition-Dependent Phase Partitioning and Nanoscale Mixing in Rapidly Condensed U/Al and U/Al/Fe Vapors.",
+  "authors": [
+   "Rakia Dhaoui",
+   "Md Fazlul Huq",
+   "Emily N Weerakkody",
+   "Valerie K Rodriguez",
+   "Timothy P Rose",
+   "Batikan Koroglu",
+   "Davide Curreli",
+   "Harry B Radousky"
+  ],
+  "journal": "The journal of physical chemistry. A",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c06057",
+  "url": "https://doi.org/10.1021/acs.jpca.6c06057",
+  "source": "pubmed",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-27"
  },
  {
   "id": "e73e33694615a010",
@@ -49,6 +167,37 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-11-26"
+ },
+ {
+  "id": "ab421d2c18b58ee9",
+  "title": "Dataset for Atmospheric CO2 splitting using a visible light-driven Z-scheme photocatalyst in a gas-phase flow reactor",
+  "authors": [
+   "Ariffin Bin Mohamad Annuar",
+   "Ji Woo Park",
+   "Yongpeng Liu",
+   "Yuichi Yamaguchi",
+   "Hamish W. MacLeod",
+   "David Fairen-Jiménez",
+   "Akihiko Kudo",
+   "Erwin Reisner"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2026-11-25",
+  "year": 2026,
+  "doi": "10.17863/cam.137392",
+  "url": "https://doi.org/10.17863/cam.137392",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-11-27"
  },
  {
   "id": "713a8526fffba9c0",
@@ -268,6 +417,38 @@
   "added": "2026-11-25"
  },
  {
+  "id": "fb4d93f0bbceebc3",
+  "title": "Self-Sustained H2/O2 Oscillations over Pt Nanoparticle Catalysts in Liquid Phase",
+  "authors": [
+   "A. Muramatsu",
+   "Takeo Fukui",
+   "Masatsugu Sanada",
+   "T. Kawakatsu",
+   "Takahiko Kojima"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1021/acs.jpcc.6c06608",
+  "url": "https://doi.org/10.1021/acs.jpcc.6c06608",
+  "source": "semanticscholar",
+  "categories": [
+   "Reactor Engineering & Design",
+   "Modeling & Kinetics"
+  ],
+  "tags": [
+   "CSTR",
+   "Flow Rate",
+   "Flow Reactor",
+   "Kinetic Modeling",
+   "Plug-Flow Reactor"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
   "id": "f8f813ede216ddd4",
   "title": "Divergent Synthesis of Enantioenriched Chlorohydrins and Allylic Alcohols via a Tandem Electrocatalysis−Enzyme Catalysis Relay",
   "authors": [
@@ -406,6 +587,36 @@
   "added": "2026-11-25"
  },
  {
+  "id": "9fb11d4ac30ed47c",
+  "title": "Vinoxylic Intermediates in the OH-Initiated Oxidation of Cyclic Conjugated Ketones: A Site-Specific Product Study",
+  "authors": [
+   "Emmanuel I. Ubana",
+   "Patrick K. Rutto",
+   "J. Bourgalais",
+   "Talitha L. Selby",
+   "D. Osborn",
+   "S. Le Picard",
+   "Fabien Goulay"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c06911",
+  "url": "https://doi.org/10.1021/acs.jpca.6c06911",
+  "source": "semanticscholar",
+  "categories": [
+   "Reactor Engineering & Design"
+  ],
+  "tags": [
+   "Flow Reactor",
+   "Oxidation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
   "id": "8e01f9e8404c8db0",
   "title": "Continuous‐Flow Synthesis of Amides Under Relatively Moderate Conditions Using a Magnetic Mo‐Based Composite Catalyst",
   "authors": [
@@ -491,6 +702,44 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-11-25"
+ },
+ {
+  "id": "7a11797ddd30afc1",
+  "title": "Deployment of a Real-Time Fiber-Optic Surveillance Platform for Continuous Flow Logging and Production Optimization",
+  "authors": [
+   "S. Dutta",
+   "A. Demyanov",
+   "F. Jabrail-Zada",
+   "T. Cuny",
+   "M. Telsey",
+   "M. Kaznacheev",
+   "V. Shako",
+   "V. Kokurina",
+   "D. Kortukov",
+   "K. Aghayev",
+   "P. Lesaffre",
+   "E. Suleymanzade",
+   "Y. E. Ismailzadeh",
+   "Z. Jabiyeva",
+   "A. Gara",
+   "S. Mammadov"
+  ],
+  "journal": "SPE Annual Caspian Technical Conference and Exhibition",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.2118/236717-ms",
+  "url": "https://doi.org/10.2118/236717-ms",
+  "source": "semanticscholar",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-27"
  },
  {
   "id": "78e2b4c890c06327",
