@@ -1,5 +1,132 @@
 [
  {
+  "id": "ef92e27e78e819c5",
+  "title": "Multistep Batch-Flow Hybrid Synthesis of Chidamide: Process Development and Kinetic Analysis",
+  "authors": [
+   "Qilin Xu",
+   "Donghui Zhang",
+   "Haoxiang Zhao",
+   "Yongjun Zang",
+   "Guosi Li",
+   "Chenchen Ma",
+   "Dong Liu"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1021/acs.oprd.6c00254",
+  "url": "https://doi.org/10.1021/acs.oprd.6c00254",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics",
+   "Process Intensification",
+   "Continuous Manufacturing & Pharma",
+   "Modeling & Kinetics",
+   "Scale-up & Numbering-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Kinetic Modeling",
+   "Microreactor",
+   "Process Development",
+   "Process Intensification",
+   "Residence Time",
+   "Scale-up",
+   "Throughput"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "West Anhui University",
+   "Anhui University"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "cf8b4a6ad157b9bc",
+  "title": "Emerging electrochemical transformations of allenes: synthesis, functionalization, and annulation",
+  "authors": [
+   "Kanak Kanti Das",
+   "Mamata Ojha",
+   "Krishna Biswas"
+  ],
+  "journal": "Academia Catalysis",
+  "publisher": "Academia.edu Journals",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.20935/acadcatal8657",
+  "url": "https://doi.org/10.20935/acadcatal8657",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Oxidation"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "University of Bonn",
+   "Masaryk University",
+   "University of Cape Town"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "c0eeeecd63b612d0",
+  "title": "Design and development of smart molecular imaging probes for theranostic imaging",
+  "authors": [
+   "Shenbagalakshmi S",
+   "Akarsha Venkita Krishnan",
+   "Jebasingh Bhagavathsingh"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012897/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012897/v1",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Karunya University",
+   "Laboratoire de Synthèse Organique",
+   "Pandit Deendayal Energy University"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "793b240c57380388",
+  "title": "CFD simulation results for a study on Pareto front-based design choice based on operating conditions in multi-material microreactors",
+  "authors": [
+   "Lennart Mesecke",
+   "Roland Lachmayer"
+  ],
+  "journal": "Forschungsdaten-Repositorium der LUH",
+  "publisher": "",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.25835/5dqms36r",
+  "url": "https://doi.org/10.25835/5dqms36r",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microreactor"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-28"
+ },
+ {
   "id": "75700c60ad54d54a",
   "title": "Hydrogel-Based Biocatalyst Immobilization in Microreactors",
   "authors": [
@@ -24,6 +151,150 @@
    "University of Ljubljana"
   ],
   "added": "2026-11-27"
+ },
+ {
+  "id": "607e8b03ede772b4",
+  "title": "Continuous-flow strategies for the upgrading of biobased glycerol",
+  "authors": [
+   "Florian Marie Xavier Barbaz"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.33612/diss.0000126649",
+  "url": "https://doi.org/10.33612/diss.0000126649",
+  "source": "openalex",
+  "categories": [
+   "Process Intensification"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Process Intensification"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Liège"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "5fa8028e32eb92be",
+  "title": "eHydrogenation: Pd/C-Catalyzed Reduction of Alkenes and Alkynes without an External H2 Supply.",
+  "authors": [
+   "Hamid Salehzadeh",
+   "Feba T Pulikkottil",
+   "Romain Ogier",
+   "Jack Brennan",
+   "Zhixuan He",
+   "Kevin Lam"
+  ],
+  "journal": "Organic letters",
+  "publisher": "",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c04400",
+  "url": "https://doi.org/10.1021/acs.orglett.6c04400",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis in Flow"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Hydrogenation"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "2243ba171fa8a14d",
+  "title": "Green chemistry inspired synthesis of organophosphorus compounds: multicomponent reactions, microwave and flow chemistry",
+  "authors": [
+   "Erika Bálint",
+   "Bettina Rávai",
+   "Viktória Gerő",
+   "Áron Németh"
+  ],
+  "journal": "Phosphorus, sulfur, and silicon and the related elements",
+  "publisher": "Taylor & Francis",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1080/10426507.2026.2745337",
+  "url": "https://doi.org/10.1080/10426507.2026.2745337",
+  "source": "openalex",
+  "categories": [
+   "Continuous Flow Synthesis"
+  ],
+  "tags": [
+   "Flow Chemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Budapest University of Technology and Economics"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "058b69adc40fc063",
+  "title": "Date for Spin-Dependent Catalysis Reverses Carrier Dominance toward Hole-Centric Photo-Fenton-like Chemistry",
+  "authors": [
+   "Jiaqi Hu"
+  ],
+  "journal": "Figshare",
+  "publisher": "Figshare (United Kingdom)",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.6084/m9.figshare.35130919",
+  "url": "https://doi.org/10.6084/m9.figshare.35130919",
+  "source": "openalex",
+  "categories": [
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "001bff2fdc50958c",
+  "title": "Halide‐Polyoxometalate Sub‐1 nm Nanowires: Kinetic‐Controlled Microfluidic Synthesis, Chiroptical and Spin Polarization Properties",
+  "authors": [
+   "Niuniu Zhang",
+   "Wenyu Zhang",
+   "Qingda Liu",
+   "Mingling Liu",
+   "Fajing Li",
+   "Caojin Yuan",
+   "Xiangxing Xu",
+   "Wenxiong Shi",
+   "Xun Wang"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1002/adfm.79851",
+  "url": "https://doi.org/10.1002/adfm.79851",
+  "source": "openalex",
+  "categories": [
+   "Microreactors & Microfluidics"
+  ],
+  "tags": [
+   "Microfluidic Synthesis",
+   "Microfluidics"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Nanjing Normal University",
+   "Jiangsu Collaborative Innovation Center of Biomedical Functional Materials",
+   "Tsinghua University",
+   "Tianjin University of Technology"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "bd814ff827b0bfb8",
@@ -58,6 +329,37 @@
    "National University of Science and Technology"
   ],
   "added": "2026-11-27"
+ },
+ {
+  "id": "72c48b18d3ffd2bd",
+  "title": "Tailoring Precise Tetrapyrrole Architectures towards Nanomolar Photodynamic Efficacy",
+  "authors": [
+   "João C. S. Simões",
+   "Marta Piñeiro",
+   "Teresa M. V. D. Pinho e Melo"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1055/a-3004-8488",
+  "url": "https://doi.org/10.1055/a-3004-8488",
+  "source": "openalex",
+  "categories": [
+   "Catalysis in Flow",
+   "Flow Photochemistry"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Cross-Coupling",
+   "Oxidation",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Coimbra"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "3b45181033bc7127",
